@@ -198,6 +198,168 @@
 /************************************************************************/
 /******/ ({
 
+/***/ "./dist/index.raw.json":
+/*!*****************************!*\
+  !*** ./dist/index.raw.json ***!
+  \*****************************/
+/*! exports provided: aliases, props, default */
+/***/ (function(module) {
+
+eval("module.exports = {\"aliases\":{\"green\":{\"value\":\"#73c48f\"},\"white\":{\"value\":\"#fff\"},\"orange\":{\"value\":\"#faa41a\"},\"red\":{\"value\":\"#f15d22\"},\"yellow\":{\"value\":\"#ffce51\"},\"blue\":{\"value\":\"#48b9c7\"},\"purple\":{\"value\":\"#330a24\"},\"warm_gray\":{\"value\":\"#574f4a\"},\"black\":{\"value\":\"#000\"}},\"props\":{\"color_warning\":{\"type\":\"color\",\"category\":\"color_semantic\",\"value\":\"rgb(250, 164, 26)\",\"originalValue\":\"{!orange}\",\"name\":\"color_warning\"},\"color_warning_contrast\":{\"type\":\"color\",\"category\":\"color_semantic\",\"value\":\"rgb(87, 79, 74)\",\"originalValue\":\"{!warm_gray}\",\"name\":\"color_warning_contrast\"},\"color_warm_gray\":{\"type\":\"color\",\"category\":\"color_brand\",\"value\":\"rgb(87, 79, 74)\",\"metadata\":\"Pantone warm gray 11\",\"originalValue\":\"{!warm_gray}\",\"name\":\"color_warm_gray\"},\"color_black\":{\"type\":\"color\",\"category\":\"color_grayscale\",\"value\":\"rgb(0, 0, 0)\",\"originalValue\":\"{!black}\",\"name\":\"color_black\"},\"color_destructive\":{\"type\":\"color\",\"category\":\"color_semantic\",\"value\":\"rgb(241, 93, 34)\",\"originalValue\":\"{!red}\",\"name\":\"color_destructive\"},\"color_suggested\":{\"type\":\"color\",\"category\":\"color_semantic\",\"value\":\"rgb(72, 185, 199)\",\"originalValue\":\"{!blue}\",\"name\":\"color_suggested\"},\"color_success\":{\"type\":\"color\",\"category\":\"color_semantic\",\"value\":\"rgb(115, 196, 143)\",\"originalValue\":\"{!green}\",\"name\":\"color_success\"},\"color_green\":{\"type\":\"color\",\"category\":\"color_brand\",\"value\":\"rgb(115, 196, 143)\",\"originalValue\":\"{!green}\",\"name\":\"color_green\"},\"color_light_gray\":{\"type\":\"color\",\"category\":\"color_grayscale\",\"value\":\"rgb(242, 242, 242)\",\"originalValue\":\"#f2f2f2\",\"name\":\"color_light_gray\"},\"color_info\":{\"type\":\"color\",\"category\":\"color_semantic\",\"value\":\"rgb(255, 206, 81)\",\"originalValue\":\"{!yellow}\",\"name\":\"color_info\"},\"color_orange\":{\"type\":\"color\",\"category\":\"color_brand\",\"value\":\"rgb(250, 164, 26)\",\"originalValue\":\"{!orange}\",\"name\":\"color_orange\"},\"color_error\":{\"type\":\"color\",\"category\":\"color_semantic\",\"value\":\"rgb(241, 93, 34)\",\"originalValue\":\"{!red}\",\"name\":\"color_error\"},\"color_white\":{\"type\":\"color\",\"category\":\"color_grayscale\",\"value\":\"rgb(255, 255, 255)\",\"originalValue\":\"{!white}\",\"name\":\"color_white\"},\"color_yellow\":{\"type\":\"color\",\"category\":\"color_brand\",\"value\":\"rgb(255, 206, 81)\",\"originalValue\":\"{!yellow}\",\"name\":\"color_yellow\"},\"color_dark_gray\":{\"type\":\"color\",\"category\":\"color_grayscale\",\"value\":\"rgb(64, 64, 64)\",\"originalValue\":\"#404040\",\"name\":\"color_dark_gray\"},\"color_medium_gray\":{\"type\":\"color\",\"category\":\"color_grayscale\",\"value\":\"rgb(166, 166, 166)\",\"originalValue\":\"#a6a6a6\",\"name\":\"color_medium_gray\"},\"color_red\":{\"type\":\"color\",\"category\":\"color_brand\",\"value\":\"rgb(241, 93, 34)\",\"originalValue\":\"{!red}\",\"name\":\"color_red\"},\"color_error_contrast\":{\"type\":\"color\",\"category\":\"color_semantic\",\"value\":\"rgb(255, 255, 255)\",\"originalValue\":\"{!white}\",\"name\":\"color_error_contrast\"},\"color_blue\":{\"type\":\"color\",\"category\":\"color_brand\",\"value\":\"rgb(72, 185, 199)\",\"originalValue\":\"{!blue}\",\"name\":\"color_blue\"},\"color_info_contrast\":{\"type\":\"color\",\"category\":\"color_semantic\",\"value\":\"rgb(87, 79, 74)\",\"originalValue\":\"{!warm_gray}\",\"name\":\"color_info_contrast\"},\"color_purple\":{\"type\":\"color\",\"category\":\"color_brand\",\"value\":\"rgb(51, 10, 36)\",\"originalValue\":\"{!purple}\",\"name\":\"color_purple\"},\"color_success_contrast\":{\"type\":\"color\",\"category\":\"color_semantic\",\"value\":\"rgb(255, 255, 255)\",\"originalValue\":\"{!white}\",\"name\":\"color_success_contrast\"},\"color_suggested_contrast\":{\"type\":\"color\",\"category\":\"color_semantic\",\"value\":\"rgb(255, 255, 255)\",\"originalValue\":\"{!white}\",\"name\":\"color_suggested_contrast\"},\"color_destructive_contrast\":{\"type\":\"color\",\"category\":\"color_semantic\",\"value\":\"rgb(255, 255, 255)\",\"originalValue\":\"{!white}\",\"name\":\"color_destructive_contrast\"}}};\n\n//# sourceURL=webpack:///./dist/index.raw.json?");
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/array/from.js":
+/*!*******************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/core-js/array/from.js ***!
+  \*******************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__(/*! core-js/library/fn/array/from */ \"./node_modules/core-js/library/fn/array/from.js\");\n\n//# sourceURL=webpack:///./node_modules/@babel/runtime-corejs2/core-js/array/from.js?");
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/array/is-array.js":
+/*!***********************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/core-js/array/is-array.js ***!
+  \***********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__(/*! core-js/library/fn/array/is-array */ \"./node_modules/core-js/library/fn/array/is-array.js\");\n\n//# sourceURL=webpack:///./node_modules/@babel/runtime-corejs2/core-js/array/is-array.js?");
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/get-iterator.js":
+/*!*********************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/core-js/get-iterator.js ***!
+  \*********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__(/*! core-js/library/fn/get-iterator */ \"./node_modules/core-js/library/fn/get-iterator.js\");\n\n//# sourceURL=webpack:///./node_modules/@babel/runtime-corejs2/core-js/get-iterator.js?");
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/is-iterable.js":
+/*!********************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/core-js/is-iterable.js ***!
+  \********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__(/*! core-js/library/fn/is-iterable */ \"./node_modules/core-js/library/fn/is-iterable.js\");\n\n//# sourceURL=webpack:///./node_modules/@babel/runtime-corejs2/core-js/is-iterable.js?");
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/core-js/object/entries.js":
+/*!***********************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/core-js/object/entries.js ***!
+  \***********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__(/*! core-js/library/fn/object/entries */ \"./node_modules/core-js/library/fn/object/entries.js\");\n\n//# sourceURL=webpack:///./node_modules/@babel/runtime-corejs2/core-js/object/entries.js?");
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithHoles.js":
+/*!***************************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithHoles.js ***!
+  \***************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return _arrayWithHoles; });\n/* harmony import */ var _core_js_array_is_array__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../core-js/array/is-array */ \"./node_modules/@babel/runtime-corejs2/core-js/array/is-array.js\");\n/* harmony import */ var _core_js_array_is_array__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_core_js_array_is_array__WEBPACK_IMPORTED_MODULE_0__);\n\nfunction _arrayWithHoles(arr) {\n  if (_core_js_array_is_array__WEBPACK_IMPORTED_MODULE_0___default()(arr)) return arr;\n}\n\n//# sourceURL=webpack:///./node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithHoles.js?");
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithoutHoles.js":
+/*!******************************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithoutHoles.js ***!
+  \******************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return _arrayWithoutHoles; });\n/* harmony import */ var _core_js_array_is_array__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../core-js/array/is-array */ \"./node_modules/@babel/runtime-corejs2/core-js/array/is-array.js\");\n/* harmony import */ var _core_js_array_is_array__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_core_js_array_is_array__WEBPACK_IMPORTED_MODULE_0__);\n\nfunction _arrayWithoutHoles(arr) {\n  if (_core_js_array_is_array__WEBPACK_IMPORTED_MODULE_0___default()(arr)) {\n    for (var i = 0, arr2 = new Array(arr.length); i < arr.length; i++) {\n      arr2[i] = arr[i];\n    }\n\n    return arr2;\n  }\n}\n\n//# sourceURL=webpack:///./node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithoutHoles.js?");
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArray.js":
+/*!****************************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArray.js ***!
+  \****************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return _iterableToArray; });\n/* harmony import */ var _core_js_array_from__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../core-js/array/from */ \"./node_modules/@babel/runtime-corejs2/core-js/array/from.js\");\n/* harmony import */ var _core_js_array_from__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_core_js_array_from__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _core_js_is_iterable__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../core-js/is-iterable */ \"./node_modules/@babel/runtime-corejs2/core-js/is-iterable.js\");\n/* harmony import */ var _core_js_is_iterable__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_core_js_is_iterable__WEBPACK_IMPORTED_MODULE_1__);\n\n\nfunction _iterableToArray(iter) {\n  if (_core_js_is_iterable__WEBPACK_IMPORTED_MODULE_1___default()(Object(iter)) || Object.prototype.toString.call(iter) === \"[object Arguments]\") return _core_js_array_from__WEBPACK_IMPORTED_MODULE_0___default()(iter);\n}\n\n//# sourceURL=webpack:///./node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArray.js?");
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArrayLimit.js":
+/*!*********************************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArrayLimit.js ***!
+  \*********************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return _iterableToArrayLimit; });\n/* harmony import */ var _core_js_get_iterator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../core-js/get-iterator */ \"./node_modules/@babel/runtime-corejs2/core-js/get-iterator.js\");\n/* harmony import */ var _core_js_get_iterator__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_core_js_get_iterator__WEBPACK_IMPORTED_MODULE_0__);\n\nfunction _iterableToArrayLimit(arr, i) {\n  var _arr = [];\n  var _n = true;\n  var _d = false;\n  var _e = undefined;\n\n  try {\n    for (var _i = _core_js_get_iterator__WEBPACK_IMPORTED_MODULE_0___default()(arr), _s; !(_n = (_s = _i.next()).done); _n = true) {\n      _arr.push(_s.value);\n\n      if (i && _arr.length === i) break;\n    }\n  } catch (err) {\n    _d = true;\n    _e = err;\n  } finally {\n    try {\n      if (!_n && _i[\"return\"] != null) _i[\"return\"]();\n    } finally {\n      if (_d) throw _e;\n    }\n  }\n\n  return _arr;\n}\n\n//# sourceURL=webpack:///./node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArrayLimit.js?");
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableRest.js":
+/*!****************************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableRest.js ***!
+  \****************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return _nonIterableRest; });\nfunction _nonIterableRest() {\n  throw new TypeError(\"Invalid attempt to destructure non-iterable instance\");\n}\n\n//# sourceURL=webpack:///./node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableRest.js?");
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableSpread.js":
+/*!******************************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableSpread.js ***!
+  \******************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return _nonIterableSpread; });\nfunction _nonIterableSpread() {\n  throw new TypeError(\"Invalid attempt to spread non-iterable instance\");\n}\n\n//# sourceURL=webpack:///./node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableSpread.js?");
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/esm/slicedToArray.js":
+/*!**************************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/helpers/esm/slicedToArray.js ***!
+  \**************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return _slicedToArray; });\n/* harmony import */ var _arrayWithHoles__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./arrayWithHoles */ \"./node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithHoles.js\");\n/* harmony import */ var _iterableToArrayLimit__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./iterableToArrayLimit */ \"./node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArrayLimit.js\");\n/* harmony import */ var _nonIterableRest__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./nonIterableRest */ \"./node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableRest.js\");\n\n\n\nfunction _slicedToArray(arr, i) {\n  return Object(_arrayWithHoles__WEBPACK_IMPORTED_MODULE_0__[\"default\"])(arr) || Object(_iterableToArrayLimit__WEBPACK_IMPORTED_MODULE_1__[\"default\"])(arr, i) || Object(_nonIterableRest__WEBPACK_IMPORTED_MODULE_2__[\"default\"])();\n}\n\n//# sourceURL=webpack:///./node_modules/@babel/runtime-corejs2/helpers/esm/slicedToArray.js?");
+
+/***/ }),
+
+/***/ "./node_modules/@babel/runtime-corejs2/helpers/esm/toConsumableArray.js":
+/*!******************************************************************************!*\
+  !*** ./node_modules/@babel/runtime-corejs2/helpers/esm/toConsumableArray.js ***!
+  \******************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return _toConsumableArray; });\n/* harmony import */ var _arrayWithoutHoles__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./arrayWithoutHoles */ \"./node_modules/@babel/runtime-corejs2/helpers/esm/arrayWithoutHoles.js\");\n/* harmony import */ var _iterableToArray__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./iterableToArray */ \"./node_modules/@babel/runtime-corejs2/helpers/esm/iterableToArray.js\");\n/* harmony import */ var _nonIterableSpread__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./nonIterableSpread */ \"./node_modules/@babel/runtime-corejs2/helpers/esm/nonIterableSpread.js\");\n\n\n\nfunction _toConsumableArray(arr) {\n  return Object(_arrayWithoutHoles__WEBPACK_IMPORTED_MODULE_0__[\"default\"])(arr) || Object(_iterableToArray__WEBPACK_IMPORTED_MODULE_1__[\"default\"])(arr) || Object(_nonIterableSpread__WEBPACK_IMPORTED_MODULE_2__[\"default\"])();\n}\n\n//# sourceURL=webpack:///./node_modules/@babel/runtime-corejs2/helpers/esm/toConsumableArray.js?");
+
+/***/ }),
+
 /***/ "./node_modules/base64-js/index.js":
 /*!*****************************************!*\
   !*** ./node_modules/base64-js/index.js ***!
@@ -234,27 +396,51 @@ eval("/* WEBPACK VAR INJECTION */(function(global) {/*!\n * The buffer module fr
 
 /***/ }),
 
-/***/ "./node_modules/cache-loader/dist/cjs.js?!./node_modules/babel-loader/lib/index.js!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/components/AppButton.vue?vue&type=script&lang=js&":
-/*!******************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/AppButton.vue?vue&type=script&lang=js& ***!
-  \******************************************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/cache-loader/dist/cjs.js?!./node_modules/babel-loader/lib/index.js!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/components/Color.vue?vue&type=script&lang=js&":
+/*!**************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/Color.vue?vue&type=script&lang=js& ***!
+  \**************************************************************************************************************************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var core_js_modules_es6_array_iterator__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! core-js/modules/es6.array.iterator */ \"./node_modules/core-js/modules/es6.array.iterator.js\");\n/* harmony import */ var core_js_modules_es6_array_iterator__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es6_array_iterator__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var core_js_modules_es6_promise__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! core-js/modules/es6.promise */ \"./node_modules/core-js/modules/es6.promise.js\");\n/* harmony import */ var core_js_modules_es6_promise__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es6_promise__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var core_js_modules_es6_object_assign__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! core-js/modules/es6.object.assign */ \"./node_modules/core-js/modules/es6.object.assign.js\");\n/* harmony import */ var core_js_modules_es6_object_assign__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es6_object_assign__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var core_js_modules_es7_promise_finally__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! core-js/modules/es7.promise.finally */ \"./node_modules/core-js/modules/es7.promise.finally.js\");\n/* harmony import */ var core_js_modules_es7_promise_finally__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es7_promise_finally__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _sizeMixin__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./sizeMixin */ \"./src/components/sizeMixin.js\");\n/* harmony import */ var _sizeMixin__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_sizeMixin__WEBPACK_IMPORTED_MODULE_4__);\n\n\n\n\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  name: 'AppButton',\n  mixins: [_sizeMixin__WEBPACK_IMPORTED_MODULE_4___default.a],\n  props: {\n    /**\n     * Sets the button font color\n     */\n    color: {\n      type: String,\n      default: 'black'\n    },\n\n    /** Sets background color of the button\n     * @since 1.2.0\n     */\n    background: {\n      type: String,\n      default: 'white'\n    },\n\n    /** @deprecated Use color instead */\n    oldColor: {\n      type: String,\n      default: ''\n    }\n  },\n  computed: {\n    styles: function styles() {\n      return {\n        'font-size': this.size,\n        color: this.color,\n        background: this.background\n      };\n    }\n  },\n  methods: {\n    /** Triggered when button is clicked\n    * @event click\n    * @type {Event}\n    */\n\n    /** Event for Alligator's example\n    * @event gator\n    * @type {Event}\n    */\n    handleClick: function handleClick(e) {\n      this.$emit('click', e);\n      this.$emit('gator', e);\n    }\n  }\n});\n\n//# sourceURL=webpack:///./src/components/AppButton.vue?./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _home_travis_build_system76_web_design_node_modules_babel_runtime_corejs2_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime-corejs2/helpers/esm/toConsumableArray */ \"./node_modules/@babel/runtime-corejs2/helpers/esm/toConsumableArray.js\");\n/* harmony import */ var core_js_modules_es6_function_name__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! core-js/modules/es6.function.name */ \"./node_modules/core-js/modules/es6.function.name.js\");\n/* harmony import */ var core_js_modules_es6_function_name__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es6_function_name__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var core_js_modules_es6_regexp_replace__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! core-js/modules/es6.regexp.replace */ \"./node_modules/core-js/modules/es6.regexp.replace.js\");\n/* harmony import */ var core_js_modules_es6_regexp_replace__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es6_regexp_replace__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var lodash_startCase__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! lodash/startCase */ \"./node_modules/lodash/startCase.js\");\n/* harmony import */ var lodash_startCase__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(lodash_startCase__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var tinycolor2__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! tinycolor2 */ \"./node_modules/tinycolor2/tinycolor.js\");\n/* harmony import */ var tinycolor2__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(tinycolor2__WEBPACK_IMPORTED_MODULE_4__);\n\n\n\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  name: 'Color',\n  props: {\n    name: {\n      type: String,\n      required: true\n    },\n    value: {\n      type: String,\n      required: true\n    }\n  },\n  computed: {\n    cmykValue: function cmykValue() {\n      // Tinycolor does not have support for this by default, but it's pretty\n      // simple math\n      var _tinycolor$toRgb = tinycolor2__WEBPACK_IMPORTED_MODULE_4___default()(this.value).toRgb(),\n          r = _tinycolor$toRgb.r,\n          g = _tinycolor$toRgb.g,\n          b = _tinycolor$toRgb.b;\n\n      var c = 1 - r / 255;\n      var m = 1 - g / 255;\n      var y = 1 - b / 255;\n      var k = Math.min(c, Math.min(m, y));\n      c = (c - k) / (1 - k);\n      m = (m - k) / (1 - k);\n      y = (y - k) / (1 - k);\n      c = isNaN(c) ? 0 : Math.round(c * 100);\n      m = isNaN(m) ? 0 : Math.round(m * 100);\n      y = isNaN(y) ? 0 : Math.round(y * 100);\n      k = isNaN(k) ? 0 : Math.round(k * 100);\n      return \"cmyk(\".concat(c, \"%, \").concat(m, \"%, \").concat(y, \"%, \").concat(k, \"%)\");\n    },\n    friendlyName: function friendlyName() {\n      return lodash_startCase__WEBPACK_IMPORTED_MODULE_3___default()(this.name.replace('color_', ''));\n    },\n    hexValue: function hexValue() {\n      return tinycolor2__WEBPACK_IMPORTED_MODULE_4___default()(this.value).toHexString();\n    },\n    rgbValue: function rgbValue() {\n      return tinycolor2__WEBPACK_IMPORTED_MODULE_4___default()(this.value).toRgbString();\n    },\n    similarValues: function similarValues() {\n      return [tinycolor2__WEBPACK_IMPORTED_MODULE_4___default()(this.value).spin(180)].concat(Object(_home_travis_build_system76_web_design_node_modules_babel_runtime_corejs2_helpers_esm_toConsumableArray__WEBPACK_IMPORTED_MODULE_0__[\"default\"])(tinycolor2__WEBPACK_IMPORTED_MODULE_4___default()(this.value).analogous()));\n    },\n    style: function style() {\n      return {\n        'background-color': this.value,\n        'border-color': this.textColor,\n        color: this.textColor\n      };\n    },\n    textColor: function textColor() {\n      return tinycolor2__WEBPACK_IMPORTED_MODULE_4___default.a.mostReadable(this.value, this.similarValues, {\n        includeFallbackColors: true,\n        level: 'AAA',\n        size: 'small'\n      }).toRgbString();\n    }\n  }\n});\n\n//# sourceURL=webpack:///./src/components/Color.vue?./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options");
 
 /***/ }),
 
-/***/ "./node_modules/cache-loader/dist/cjs.js?{\"cacheDirectory\":\"node_modules/.cache/vue-loader\",\"cacheIdentifier\":\"3204f5c4-vue-loader-template\"}!./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/components/AppButton.vue?vue&type=template&id=4b9a755f&":
-/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"3204f5c4-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/AppButton.vue?vue&type=template&id=4b9a755f& ***!
-  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ "./node_modules/cache-loader/dist/cjs.js?!./node_modules/babel-loader/lib/index.js!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/components/Colors.vue?vue&type=script&lang=js&":
+/*!***************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/Colors.vue?vue&type=script&lang=js& ***!
+  \***************************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var core_js_modules_es6_string_starts_with__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! core-js/modules/es6.string.starts-with */ \"./node_modules/core-js/modules/es6.string.starts-with.js\");\n/* harmony import */ var core_js_modules_es6_string_starts_with__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es6_string_starts_with__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _home_travis_build_system76_web_design_node_modules_babel_runtime_corejs2_core_js_object_entries__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/@babel/runtime-corejs2/core-js/object/entries */ \"./node_modules/@babel/runtime-corejs2/core-js/object/entries.js\");\n/* harmony import */ var _home_travis_build_system76_web_design_node_modules_babel_runtime_corejs2_core_js_object_entries__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_home_travis_build_system76_web_design_node_modules_babel_runtime_corejs2_core_js_object_entries__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var core_js_modules_es6_regexp_replace__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! core-js/modules/es6.regexp.replace */ \"./node_modules/core-js/modules/es6.regexp.replace.js\");\n/* harmony import */ var core_js_modules_es6_regexp_replace__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es6_regexp_replace__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var _home_travis_build_system76_web_design_node_modules_babel_runtime_corejs2_helpers_esm_slicedToArray__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/@babel/runtime-corejs2/helpers/esm/slicedToArray */ \"./node_modules/@babel/runtime-corejs2/helpers/esm/slicedToArray.js\");\n/* harmony import */ var core_js_modules_es6_array_iterator__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! core-js/modules/es6.array.iterator */ \"./node_modules/core-js/modules/es6.array.iterator.js\");\n/* harmony import */ var core_js_modules_es6_array_iterator__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es6_array_iterator__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var core_js_modules_es6_promise__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! core-js/modules/es6.promise */ \"./node_modules/core-js/modules/es6.promise.js\");\n/* harmony import */ var core_js_modules_es6_promise__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es6_promise__WEBPACK_IMPORTED_MODULE_5__);\n/* harmony import */ var core_js_modules_es6_object_assign__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! core-js/modules/es6.object.assign */ \"./node_modules/core-js/modules/es6.object.assign.js\");\n/* harmony import */ var core_js_modules_es6_object_assign__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es6_object_assign__WEBPACK_IMPORTED_MODULE_6__);\n/* harmony import */ var core_js_modules_es7_promise_finally__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! core-js/modules/es7.promise.finally */ \"./node_modules/core-js/modules/es7.promise.finally.js\");\n/* harmony import */ var core_js_modules_es7_promise_finally__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(core_js_modules_es7_promise_finally__WEBPACK_IMPORTED_MODULE_7__);\n/* harmony import */ var lodash_startCase__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! lodash/startCase */ \"./node_modules/lodash/startCase.js\");\n/* harmony import */ var lodash_startCase__WEBPACK_IMPORTED_MODULE_8___default = /*#__PURE__*/__webpack_require__.n(lodash_startCase__WEBPACK_IMPORTED_MODULE_8__);\n/* harmony import */ var _dist_index_raw_json__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../../dist/index.raw.json */ \"./dist/index.raw.json\");\nvar _dist_index_raw_json__WEBPACK_IMPORTED_MODULE_9___namespace = /*#__PURE__*/__webpack_require__.t(/*! ../../dist/index.raw.json */ \"./dist/index.raw.json\", 1);\n/* harmony import */ var _Color__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./Color */ \"./src/components/Color.vue\");\n\n\n\n\n\n\n\n\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n//\n\n\n\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  name: 'Colors',\n  components: {\n    Color: _Color__WEBPACK_IMPORTED_MODULE_10__[\"default\"]\n  },\n  computed: {\n    categories: function categories() {\n      var _this = this;\n\n      return this.colors.map(function (c) {\n        return c.category;\n      }).filter(function (c) {\n        return c != null && c !== '';\n      }).filter(function (c, i, a) {\n        return a.indexOf(c) === i;\n      }).map(function (c) {\n        return [c, _this.colorsInCategory(c)];\n      }).map(function (_ref) {\n        var _ref2 = Object(_home_travis_build_system76_web_design_node_modules_babel_runtime_corejs2_helpers_esm_slicedToArray__WEBPACK_IMPORTED_MODULE_3__[\"default\"])(_ref, 2),\n            c = _ref2[0],\n            colors = _ref2[1];\n\n        return [c.replace('color_', ''), colors];\n      }).map(function (_ref3) {\n        var _ref4 = Object(_home_travis_build_system76_web_design_node_modules_babel_runtime_corejs2_helpers_esm_slicedToArray__WEBPACK_IMPORTED_MODULE_3__[\"default\"])(_ref3, 2),\n            c = _ref4[0],\n            colors = _ref4[1];\n\n        return [lodash_startCase__WEBPACK_IMPORTED_MODULE_8___default()(c), colors];\n      });\n    },\n    colors: function colors() {\n      return _home_travis_build_system76_web_design_node_modules_babel_runtime_corejs2_core_js_object_entries__WEBPACK_IMPORTED_MODULE_1___default()(_dist_index_raw_json__WEBPACK_IMPORTED_MODULE_9__.props).filter(function (_ref5) {\n        var _ref6 = Object(_home_travis_build_system76_web_design_node_modules_babel_runtime_corejs2_helpers_esm_slicedToArray__WEBPACK_IMPORTED_MODULE_3__[\"default\"])(_ref5, 2),\n            key = _ref6[0],\n            value = _ref6[1];\n\n        return key.startsWith('color_');\n      }).map(function (_ref7) {\n        var _ref8 = Object(_home_travis_build_system76_web_design_node_modules_babel_runtime_corejs2_helpers_esm_slicedToArray__WEBPACK_IMPORTED_MODULE_3__[\"default\"])(_ref7, 2),\n            key = _ref8[0],\n            value = _ref8[1];\n\n        return value;\n      });\n    }\n  },\n  methods: {\n    colorsInCategory: function colorsInCategory(category) {\n      return this.colors.filter(function (c) {\n        return c.category === category;\n      });\n    }\n  }\n});\n\n//# sourceURL=webpack:///./src/components/Colors.vue?./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options");
+
+/***/ }),
+
+/***/ "./node_modules/cache-loader/dist/cjs.js?{\"cacheDirectory\":\"node_modules/.cache/vue-loader\",\"cacheIdentifier\":\"3204f5c4-vue-loader-template\"}!./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/components/Color.vue?vue&type=template&id=6dd55b60&scoped=true&":
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"3204f5c4-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/Color.vue?vue&type=template&id=6dd55b60&scoped=true& ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
 /*! exports provided: render, staticRenderFns */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('button',{style:(_vm.styles),on:{\"click\":_vm.handleClick}},[_vm._t(\"default\")],2)}\nvar staticRenderFns = []\n\n\n\n//# sourceURL=webpack:///./src/components/AppButton.vue?./node_modules/cache-loader/dist/cjs.js?%7B%22cacheDirectory%22:%22node_modules/.cache/vue-loader%22,%22cacheIdentifier%22:%223204f5c4-vue-loader-template%22%7D!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:\"color\",style:(_vm.style)},[_c('div',{staticClass:\"color__spacer\"}),_c('div',{staticClass:\"color__description\"},[_c('span',{staticClass:\"color__name\"},[_vm._v(_vm._s(_vm.friendlyName))]),_c('ul',{staticClass:\"color__values\"},[_c('li',{staticClass:\"color__value\"},[_vm._v(\"\\n        \"+_vm._s(_vm.hexValue)+\"\\n      \")]),_c('li',{staticClass:\"color__value\"},[_vm._v(\"\\n        \"+_vm._s(_vm.rgbValue)+\"\\n      \")]),_c('li',{staticClass:\"color__value\"},[_vm._v(\"\\n        \"+_vm._s(_vm.cmykValue)+\"\\n      \")])])])])}\nvar staticRenderFns = []\n\n\n\n//# sourceURL=webpack:///./src/components/Color.vue?./node_modules/cache-loader/dist/cjs.js?%7B%22cacheDirectory%22:%22node_modules/.cache/vue-loader%22,%22cacheIdentifier%22:%223204f5c4-vue-loader-template%22%7D!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options");
+
+/***/ }),
+
+/***/ "./node_modules/cache-loader/dist/cjs.js?{\"cacheDirectory\":\"node_modules/.cache/vue-loader\",\"cacheIdentifier\":\"3204f5c4-vue-loader-template\"}!./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/components/Colors.vue?vue&type=template&id=4bde07ba&scoped=true&":
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"3204f5c4-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/Colors.vue?vue&type=template&id=4bde07ba&scoped=true& ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return render; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return staticRenderFns; });\nvar render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',_vm._l((_vm.categories),function(ref){\nvar category = ref[0];\nvar c = ref[1];\nreturn _c('div',{key:category},[_c('h3',[_vm._v(_vm._s(category))]),_c('div',{staticClass:\"colors\"},_vm._l((c),function(color){return _c('Color',{key:color.name,attrs:{\"name\":color.name,\"value\":color.value}})}),1)])}),0)}\nvar staticRenderFns = []\n\n\n\n//# sourceURL=webpack:///./src/components/Colors.vue?./node_modules/cache-loader/dist/cjs.js?%7B%22cacheDirectory%22:%22node_modules/.cache/vue-loader%22,%22cacheIdentifier%22:%223204f5c4-vue-loader-template%22%7D!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options");
 
 /***/ }),
 
@@ -280,6 +466,749 @@ eval("module.exports = clipboardCopy\n\nfunction clipboardCopy (text) {\n  // Us
 
 /***/ }),
 
+/***/ "./node_modules/core-js/library/fn/array/from.js":
+/*!*******************************************************!*\
+  !*** ./node_modules/core-js/library/fn/array/from.js ***!
+  \*******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("__webpack_require__(/*! ../../modules/es6.string.iterator */ \"./node_modules/core-js/library/modules/es6.string.iterator.js\");\n__webpack_require__(/*! ../../modules/es6.array.from */ \"./node_modules/core-js/library/modules/es6.array.from.js\");\nmodule.exports = __webpack_require__(/*! ../../modules/_core */ \"./node_modules/core-js/library/modules/_core.js\").Array.from;\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/fn/array/from.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/fn/array/is-array.js":
+/*!***********************************************************!*\
+  !*** ./node_modules/core-js/library/fn/array/is-array.js ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("__webpack_require__(/*! ../../modules/es6.array.is-array */ \"./node_modules/core-js/library/modules/es6.array.is-array.js\");\nmodule.exports = __webpack_require__(/*! ../../modules/_core */ \"./node_modules/core-js/library/modules/_core.js\").Array.isArray;\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/fn/array/is-array.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/fn/get-iterator.js":
+/*!*********************************************************!*\
+  !*** ./node_modules/core-js/library/fn/get-iterator.js ***!
+  \*********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("__webpack_require__(/*! ../modules/web.dom.iterable */ \"./node_modules/core-js/library/modules/web.dom.iterable.js\");\n__webpack_require__(/*! ../modules/es6.string.iterator */ \"./node_modules/core-js/library/modules/es6.string.iterator.js\");\nmodule.exports = __webpack_require__(/*! ../modules/core.get-iterator */ \"./node_modules/core-js/library/modules/core.get-iterator.js\");\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/fn/get-iterator.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/fn/is-iterable.js":
+/*!********************************************************!*\
+  !*** ./node_modules/core-js/library/fn/is-iterable.js ***!
+  \********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("__webpack_require__(/*! ../modules/web.dom.iterable */ \"./node_modules/core-js/library/modules/web.dom.iterable.js\");\n__webpack_require__(/*! ../modules/es6.string.iterator */ \"./node_modules/core-js/library/modules/es6.string.iterator.js\");\nmodule.exports = __webpack_require__(/*! ../modules/core.is-iterable */ \"./node_modules/core-js/library/modules/core.is-iterable.js\");\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/fn/is-iterable.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/fn/object/entries.js":
+/*!***********************************************************!*\
+  !*** ./node_modules/core-js/library/fn/object/entries.js ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("__webpack_require__(/*! ../../modules/es7.object.entries */ \"./node_modules/core-js/library/modules/es7.object.entries.js\");\nmodule.exports = __webpack_require__(/*! ../../modules/_core */ \"./node_modules/core-js/library/modules/_core.js\").Object.entries;\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/fn/object/entries.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_a-function.js":
+/*!*************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_a-function.js ***!
+  \*************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("module.exports = function (it) {\n  if (typeof it != 'function') throw TypeError(it + ' is not a function!');\n  return it;\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_a-function.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_add-to-unscopables.js":
+/*!*********************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_add-to-unscopables.js ***!
+  \*********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("module.exports = function () { /* empty */ };\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_add-to-unscopables.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_an-object.js":
+/*!************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_an-object.js ***!
+  \************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var isObject = __webpack_require__(/*! ./_is-object */ \"./node_modules/core-js/library/modules/_is-object.js\");\nmodule.exports = function (it) {\n  if (!isObject(it)) throw TypeError(it + ' is not an object!');\n  return it;\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_an-object.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_array-includes.js":
+/*!*****************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_array-includes.js ***!
+  \*****************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// false -> Array#indexOf\n// true  -> Array#includes\nvar toIObject = __webpack_require__(/*! ./_to-iobject */ \"./node_modules/core-js/library/modules/_to-iobject.js\");\nvar toLength = __webpack_require__(/*! ./_to-length */ \"./node_modules/core-js/library/modules/_to-length.js\");\nvar toAbsoluteIndex = __webpack_require__(/*! ./_to-absolute-index */ \"./node_modules/core-js/library/modules/_to-absolute-index.js\");\nmodule.exports = function (IS_INCLUDES) {\n  return function ($this, el, fromIndex) {\n    var O = toIObject($this);\n    var length = toLength(O.length);\n    var index = toAbsoluteIndex(fromIndex, length);\n    var value;\n    // Array#includes uses SameValueZero equality algorithm\n    // eslint-disable-next-line no-self-compare\n    if (IS_INCLUDES && el != el) while (length > index) {\n      value = O[index++];\n      // eslint-disable-next-line no-self-compare\n      if (value != value) return true;\n    // Array#indexOf ignores holes, Array#includes - not\n    } else for (;length > index; index++) if (IS_INCLUDES || index in O) {\n      if (O[index] === el) return IS_INCLUDES || index || 0;\n    } return !IS_INCLUDES && -1;\n  };\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_array-includes.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_classof.js":
+/*!**********************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_classof.js ***!
+  \**********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// getting tag from 19.1.3.6 Object.prototype.toString()\nvar cof = __webpack_require__(/*! ./_cof */ \"./node_modules/core-js/library/modules/_cof.js\");\nvar TAG = __webpack_require__(/*! ./_wks */ \"./node_modules/core-js/library/modules/_wks.js\")('toStringTag');\n// ES3 wrong here\nvar ARG = cof(function () { return arguments; }()) == 'Arguments';\n\n// fallback for IE11 Script Access Denied error\nvar tryGet = function (it, key) {\n  try {\n    return it[key];\n  } catch (e) { /* empty */ }\n};\n\nmodule.exports = function (it) {\n  var O, T, B;\n  return it === undefined ? 'Undefined' : it === null ? 'Null'\n    // @@toStringTag case\n    : typeof (T = tryGet(O = Object(it), TAG)) == 'string' ? T\n    // builtinTag case\n    : ARG ? cof(O)\n    // ES3 arguments fallback\n    : (B = cof(O)) == 'Object' && typeof O.callee == 'function' ? 'Arguments' : B;\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_classof.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_cof.js":
+/*!******************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_cof.js ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("var toString = {}.toString;\n\nmodule.exports = function (it) {\n  return toString.call(it).slice(8, -1);\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_cof.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_core.js":
+/*!*******************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_core.js ***!
+  \*******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("var core = module.exports = { version: '2.6.5' };\nif (typeof __e == 'number') __e = core; // eslint-disable-line no-undef\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_core.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_create-property.js":
+/*!******************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_create-property.js ***!
+  \******************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\nvar $defineProperty = __webpack_require__(/*! ./_object-dp */ \"./node_modules/core-js/library/modules/_object-dp.js\");\nvar createDesc = __webpack_require__(/*! ./_property-desc */ \"./node_modules/core-js/library/modules/_property-desc.js\");\n\nmodule.exports = function (object, index, value) {\n  if (index in object) $defineProperty.f(object, index, createDesc(0, value));\n  else object[index] = value;\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_create-property.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_ctx.js":
+/*!******************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_ctx.js ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// optional / simple context binding\nvar aFunction = __webpack_require__(/*! ./_a-function */ \"./node_modules/core-js/library/modules/_a-function.js\");\nmodule.exports = function (fn, that, length) {\n  aFunction(fn);\n  if (that === undefined) return fn;\n  switch (length) {\n    case 1: return function (a) {\n      return fn.call(that, a);\n    };\n    case 2: return function (a, b) {\n      return fn.call(that, a, b);\n    };\n    case 3: return function (a, b, c) {\n      return fn.call(that, a, b, c);\n    };\n  }\n  return function (/* ...args */) {\n    return fn.apply(that, arguments);\n  };\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_ctx.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_defined.js":
+/*!**********************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_defined.js ***!
+  \**********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("// 7.2.1 RequireObjectCoercible(argument)\nmodule.exports = function (it) {\n  if (it == undefined) throw TypeError(\"Can't call method on  \" + it);\n  return it;\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_defined.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_descriptors.js":
+/*!**************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_descriptors.js ***!
+  \**************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// Thank's IE8 for his funny defineProperty\nmodule.exports = !__webpack_require__(/*! ./_fails */ \"./node_modules/core-js/library/modules/_fails.js\")(function () {\n  return Object.defineProperty({}, 'a', { get: function () { return 7; } }).a != 7;\n});\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_descriptors.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_dom-create.js":
+/*!*************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_dom-create.js ***!
+  \*************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var isObject = __webpack_require__(/*! ./_is-object */ \"./node_modules/core-js/library/modules/_is-object.js\");\nvar document = __webpack_require__(/*! ./_global */ \"./node_modules/core-js/library/modules/_global.js\").document;\n// typeof document.createElement is 'object' in old IE\nvar is = isObject(document) && isObject(document.createElement);\nmodule.exports = function (it) {\n  return is ? document.createElement(it) : {};\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_dom-create.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_enum-bug-keys.js":
+/*!****************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_enum-bug-keys.js ***!
+  \****************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("// IE 8- don't enum bug keys\nmodule.exports = (\n  'constructor,hasOwnProperty,isPrototypeOf,propertyIsEnumerable,toLocaleString,toString,valueOf'\n).split(',');\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_enum-bug-keys.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_export.js":
+/*!*********************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_export.js ***!
+  \*********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var global = __webpack_require__(/*! ./_global */ \"./node_modules/core-js/library/modules/_global.js\");\nvar core = __webpack_require__(/*! ./_core */ \"./node_modules/core-js/library/modules/_core.js\");\nvar ctx = __webpack_require__(/*! ./_ctx */ \"./node_modules/core-js/library/modules/_ctx.js\");\nvar hide = __webpack_require__(/*! ./_hide */ \"./node_modules/core-js/library/modules/_hide.js\");\nvar has = __webpack_require__(/*! ./_has */ \"./node_modules/core-js/library/modules/_has.js\");\nvar PROTOTYPE = 'prototype';\n\nvar $export = function (type, name, source) {\n  var IS_FORCED = type & $export.F;\n  var IS_GLOBAL = type & $export.G;\n  var IS_STATIC = type & $export.S;\n  var IS_PROTO = type & $export.P;\n  var IS_BIND = type & $export.B;\n  var IS_WRAP = type & $export.W;\n  var exports = IS_GLOBAL ? core : core[name] || (core[name] = {});\n  var expProto = exports[PROTOTYPE];\n  var target = IS_GLOBAL ? global : IS_STATIC ? global[name] : (global[name] || {})[PROTOTYPE];\n  var key, own, out;\n  if (IS_GLOBAL) source = name;\n  for (key in source) {\n    // contains in native\n    own = !IS_FORCED && target && target[key] !== undefined;\n    if (own && has(exports, key)) continue;\n    // export native or passed\n    out = own ? target[key] : source[key];\n    // prevent global pollution for namespaces\n    exports[key] = IS_GLOBAL && typeof target[key] != 'function' ? source[key]\n    // bind timers to global for call from export context\n    : IS_BIND && own ? ctx(out, global)\n    // wrap global constructors for prevent change them in library\n    : IS_WRAP && target[key] == out ? (function (C) {\n      var F = function (a, b, c) {\n        if (this instanceof C) {\n          switch (arguments.length) {\n            case 0: return new C();\n            case 1: return new C(a);\n            case 2: return new C(a, b);\n          } return new C(a, b, c);\n        } return C.apply(this, arguments);\n      };\n      F[PROTOTYPE] = C[PROTOTYPE];\n      return F;\n    // make static versions for prototype methods\n    })(out) : IS_PROTO && typeof out == 'function' ? ctx(Function.call, out) : out;\n    // export proto methods to core.%CONSTRUCTOR%.methods.%NAME%\n    if (IS_PROTO) {\n      (exports.virtual || (exports.virtual = {}))[key] = out;\n      // export proto methods to core.%CONSTRUCTOR%.prototype.%NAME%\n      if (type & $export.R && expProto && !expProto[key]) hide(expProto, key, out);\n    }\n  }\n};\n// type bitmap\n$export.F = 1;   // forced\n$export.G = 2;   // global\n$export.S = 4;   // static\n$export.P = 8;   // proto\n$export.B = 16;  // bind\n$export.W = 32;  // wrap\n$export.U = 64;  // safe\n$export.R = 128; // real proto method for `library`\nmodule.exports = $export;\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_export.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_fails.js":
+/*!********************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_fails.js ***!
+  \********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("module.exports = function (exec) {\n  try {\n    return !!exec();\n  } catch (e) {\n    return true;\n  }\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_fails.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_global.js":
+/*!*********************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_global.js ***!
+  \*********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("// https://github.com/zloirock/core-js/issues/86#issuecomment-115759028\nvar global = module.exports = typeof window != 'undefined' && window.Math == Math\n  ? window : typeof self != 'undefined' && self.Math == Math ? self\n  // eslint-disable-next-line no-new-func\n  : Function('return this')();\nif (typeof __g == 'number') __g = global; // eslint-disable-line no-undef\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_global.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_has.js":
+/*!******************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_has.js ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("var hasOwnProperty = {}.hasOwnProperty;\nmodule.exports = function (it, key) {\n  return hasOwnProperty.call(it, key);\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_has.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_hide.js":
+/*!*******************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_hide.js ***!
+  \*******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var dP = __webpack_require__(/*! ./_object-dp */ \"./node_modules/core-js/library/modules/_object-dp.js\");\nvar createDesc = __webpack_require__(/*! ./_property-desc */ \"./node_modules/core-js/library/modules/_property-desc.js\");\nmodule.exports = __webpack_require__(/*! ./_descriptors */ \"./node_modules/core-js/library/modules/_descriptors.js\") ? function (object, key, value) {\n  return dP.f(object, key, createDesc(1, value));\n} : function (object, key, value) {\n  object[key] = value;\n  return object;\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_hide.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_html.js":
+/*!*******************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_html.js ***!
+  \*******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var document = __webpack_require__(/*! ./_global */ \"./node_modules/core-js/library/modules/_global.js\").document;\nmodule.exports = document && document.documentElement;\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_html.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_ie8-dom-define.js":
+/*!*****************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_ie8-dom-define.js ***!
+  \*****************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = !__webpack_require__(/*! ./_descriptors */ \"./node_modules/core-js/library/modules/_descriptors.js\") && !__webpack_require__(/*! ./_fails */ \"./node_modules/core-js/library/modules/_fails.js\")(function () {\n  return Object.defineProperty(__webpack_require__(/*! ./_dom-create */ \"./node_modules/core-js/library/modules/_dom-create.js\")('div'), 'a', { get: function () { return 7; } }).a != 7;\n});\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_ie8-dom-define.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_iobject.js":
+/*!**********************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_iobject.js ***!
+  \**********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// fallback for non-array-like ES3 and non-enumerable old V8 strings\nvar cof = __webpack_require__(/*! ./_cof */ \"./node_modules/core-js/library/modules/_cof.js\");\n// eslint-disable-next-line no-prototype-builtins\nmodule.exports = Object('z').propertyIsEnumerable(0) ? Object : function (it) {\n  return cof(it) == 'String' ? it.split('') : Object(it);\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_iobject.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_is-array-iter.js":
+/*!****************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_is-array-iter.js ***!
+  \****************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// check on default Array iterator\nvar Iterators = __webpack_require__(/*! ./_iterators */ \"./node_modules/core-js/library/modules/_iterators.js\");\nvar ITERATOR = __webpack_require__(/*! ./_wks */ \"./node_modules/core-js/library/modules/_wks.js\")('iterator');\nvar ArrayProto = Array.prototype;\n\nmodule.exports = function (it) {\n  return it !== undefined && (Iterators.Array === it || ArrayProto[ITERATOR] === it);\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_is-array-iter.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_is-array.js":
+/*!***********************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_is-array.js ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// 7.2.2 IsArray(argument)\nvar cof = __webpack_require__(/*! ./_cof */ \"./node_modules/core-js/library/modules/_cof.js\");\nmodule.exports = Array.isArray || function isArray(arg) {\n  return cof(arg) == 'Array';\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_is-array.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_is-object.js":
+/*!************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_is-object.js ***!
+  \************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("module.exports = function (it) {\n  return typeof it === 'object' ? it !== null : typeof it === 'function';\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_is-object.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_iter-call.js":
+/*!************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_iter-call.js ***!
+  \************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// call something on iterator step with safe closing on error\nvar anObject = __webpack_require__(/*! ./_an-object */ \"./node_modules/core-js/library/modules/_an-object.js\");\nmodule.exports = function (iterator, fn, value, entries) {\n  try {\n    return entries ? fn(anObject(value)[0], value[1]) : fn(value);\n  // 7.4.6 IteratorClose(iterator, completion)\n  } catch (e) {\n    var ret = iterator['return'];\n    if (ret !== undefined) anObject(ret.call(iterator));\n    throw e;\n  }\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_iter-call.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_iter-create.js":
+/*!**************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_iter-create.js ***!
+  \**************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\nvar create = __webpack_require__(/*! ./_object-create */ \"./node_modules/core-js/library/modules/_object-create.js\");\nvar descriptor = __webpack_require__(/*! ./_property-desc */ \"./node_modules/core-js/library/modules/_property-desc.js\");\nvar setToStringTag = __webpack_require__(/*! ./_set-to-string-tag */ \"./node_modules/core-js/library/modules/_set-to-string-tag.js\");\nvar IteratorPrototype = {};\n\n// 25.1.2.1.1 %IteratorPrototype%[@@iterator]()\n__webpack_require__(/*! ./_hide */ \"./node_modules/core-js/library/modules/_hide.js\")(IteratorPrototype, __webpack_require__(/*! ./_wks */ \"./node_modules/core-js/library/modules/_wks.js\")('iterator'), function () { return this; });\n\nmodule.exports = function (Constructor, NAME, next) {\n  Constructor.prototype = create(IteratorPrototype, { next: descriptor(1, next) });\n  setToStringTag(Constructor, NAME + ' Iterator');\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_iter-create.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_iter-define.js":
+/*!**************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_iter-define.js ***!
+  \**************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\nvar LIBRARY = __webpack_require__(/*! ./_library */ \"./node_modules/core-js/library/modules/_library.js\");\nvar $export = __webpack_require__(/*! ./_export */ \"./node_modules/core-js/library/modules/_export.js\");\nvar redefine = __webpack_require__(/*! ./_redefine */ \"./node_modules/core-js/library/modules/_redefine.js\");\nvar hide = __webpack_require__(/*! ./_hide */ \"./node_modules/core-js/library/modules/_hide.js\");\nvar Iterators = __webpack_require__(/*! ./_iterators */ \"./node_modules/core-js/library/modules/_iterators.js\");\nvar $iterCreate = __webpack_require__(/*! ./_iter-create */ \"./node_modules/core-js/library/modules/_iter-create.js\");\nvar setToStringTag = __webpack_require__(/*! ./_set-to-string-tag */ \"./node_modules/core-js/library/modules/_set-to-string-tag.js\");\nvar getPrototypeOf = __webpack_require__(/*! ./_object-gpo */ \"./node_modules/core-js/library/modules/_object-gpo.js\");\nvar ITERATOR = __webpack_require__(/*! ./_wks */ \"./node_modules/core-js/library/modules/_wks.js\")('iterator');\nvar BUGGY = !([].keys && 'next' in [].keys()); // Safari has buggy iterators w/o `next`\nvar FF_ITERATOR = '@@iterator';\nvar KEYS = 'keys';\nvar VALUES = 'values';\n\nvar returnThis = function () { return this; };\n\nmodule.exports = function (Base, NAME, Constructor, next, DEFAULT, IS_SET, FORCED) {\n  $iterCreate(Constructor, NAME, next);\n  var getMethod = function (kind) {\n    if (!BUGGY && kind in proto) return proto[kind];\n    switch (kind) {\n      case KEYS: return function keys() { return new Constructor(this, kind); };\n      case VALUES: return function values() { return new Constructor(this, kind); };\n    } return function entries() { return new Constructor(this, kind); };\n  };\n  var TAG = NAME + ' Iterator';\n  var DEF_VALUES = DEFAULT == VALUES;\n  var VALUES_BUG = false;\n  var proto = Base.prototype;\n  var $native = proto[ITERATOR] || proto[FF_ITERATOR] || DEFAULT && proto[DEFAULT];\n  var $default = $native || getMethod(DEFAULT);\n  var $entries = DEFAULT ? !DEF_VALUES ? $default : getMethod('entries') : undefined;\n  var $anyNative = NAME == 'Array' ? proto.entries || $native : $native;\n  var methods, key, IteratorPrototype;\n  // Fix native\n  if ($anyNative) {\n    IteratorPrototype = getPrototypeOf($anyNative.call(new Base()));\n    if (IteratorPrototype !== Object.prototype && IteratorPrototype.next) {\n      // Set @@toStringTag to native iterators\n      setToStringTag(IteratorPrototype, TAG, true);\n      // fix for some old engines\n      if (!LIBRARY && typeof IteratorPrototype[ITERATOR] != 'function') hide(IteratorPrototype, ITERATOR, returnThis);\n    }\n  }\n  // fix Array#{values, @@iterator}.name in V8 / FF\n  if (DEF_VALUES && $native && $native.name !== VALUES) {\n    VALUES_BUG = true;\n    $default = function values() { return $native.call(this); };\n  }\n  // Define iterator\n  if ((!LIBRARY || FORCED) && (BUGGY || VALUES_BUG || !proto[ITERATOR])) {\n    hide(proto, ITERATOR, $default);\n  }\n  // Plug for library\n  Iterators[NAME] = $default;\n  Iterators[TAG] = returnThis;\n  if (DEFAULT) {\n    methods = {\n      values: DEF_VALUES ? $default : getMethod(VALUES),\n      keys: IS_SET ? $default : getMethod(KEYS),\n      entries: $entries\n    };\n    if (FORCED) for (key in methods) {\n      if (!(key in proto)) redefine(proto, key, methods[key]);\n    } else $export($export.P + $export.F * (BUGGY || VALUES_BUG), NAME, methods);\n  }\n  return methods;\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_iter-define.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_iter-detect.js":
+/*!**************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_iter-detect.js ***!
+  \**************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var ITERATOR = __webpack_require__(/*! ./_wks */ \"./node_modules/core-js/library/modules/_wks.js\")('iterator');\nvar SAFE_CLOSING = false;\n\ntry {\n  var riter = [7][ITERATOR]();\n  riter['return'] = function () { SAFE_CLOSING = true; };\n  // eslint-disable-next-line no-throw-literal\n  Array.from(riter, function () { throw 2; });\n} catch (e) { /* empty */ }\n\nmodule.exports = function (exec, skipClosing) {\n  if (!skipClosing && !SAFE_CLOSING) return false;\n  var safe = false;\n  try {\n    var arr = [7];\n    var iter = arr[ITERATOR]();\n    iter.next = function () { return { done: safe = true }; };\n    arr[ITERATOR] = function () { return iter; };\n    exec(arr);\n  } catch (e) { /* empty */ }\n  return safe;\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_iter-detect.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_iter-step.js":
+/*!************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_iter-step.js ***!
+  \************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("module.exports = function (done, value) {\n  return { value: value, done: !!done };\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_iter-step.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_iterators.js":
+/*!************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_iterators.js ***!
+  \************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("module.exports = {};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_iterators.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_library.js":
+/*!**********************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_library.js ***!
+  \**********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("module.exports = true;\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_library.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_object-create.js":
+/*!****************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_object-create.js ***!
+  \****************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// 19.1.2.2 / 15.2.3.5 Object.create(O [, Properties])\nvar anObject = __webpack_require__(/*! ./_an-object */ \"./node_modules/core-js/library/modules/_an-object.js\");\nvar dPs = __webpack_require__(/*! ./_object-dps */ \"./node_modules/core-js/library/modules/_object-dps.js\");\nvar enumBugKeys = __webpack_require__(/*! ./_enum-bug-keys */ \"./node_modules/core-js/library/modules/_enum-bug-keys.js\");\nvar IE_PROTO = __webpack_require__(/*! ./_shared-key */ \"./node_modules/core-js/library/modules/_shared-key.js\")('IE_PROTO');\nvar Empty = function () { /* empty */ };\nvar PROTOTYPE = 'prototype';\n\n// Create object with fake `null` prototype: use iframe Object with cleared prototype\nvar createDict = function () {\n  // Thrash, waste and sodomy: IE GC bug\n  var iframe = __webpack_require__(/*! ./_dom-create */ \"./node_modules/core-js/library/modules/_dom-create.js\")('iframe');\n  var i = enumBugKeys.length;\n  var lt = '<';\n  var gt = '>';\n  var iframeDocument;\n  iframe.style.display = 'none';\n  __webpack_require__(/*! ./_html */ \"./node_modules/core-js/library/modules/_html.js\").appendChild(iframe);\n  iframe.src = 'javascript:'; // eslint-disable-line no-script-url\n  // createDict = iframe.contentWindow.Object;\n  // html.removeChild(iframe);\n  iframeDocument = iframe.contentWindow.document;\n  iframeDocument.open();\n  iframeDocument.write(lt + 'script' + gt + 'document.F=Object' + lt + '/script' + gt);\n  iframeDocument.close();\n  createDict = iframeDocument.F;\n  while (i--) delete createDict[PROTOTYPE][enumBugKeys[i]];\n  return createDict();\n};\n\nmodule.exports = Object.create || function create(O, Properties) {\n  var result;\n  if (O !== null) {\n    Empty[PROTOTYPE] = anObject(O);\n    result = new Empty();\n    Empty[PROTOTYPE] = null;\n    // add \"__proto__\" for Object.getPrototypeOf polyfill\n    result[IE_PROTO] = O;\n  } else result = createDict();\n  return Properties === undefined ? result : dPs(result, Properties);\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_object-create.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_object-dp.js":
+/*!************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_object-dp.js ***!
+  \************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var anObject = __webpack_require__(/*! ./_an-object */ \"./node_modules/core-js/library/modules/_an-object.js\");\nvar IE8_DOM_DEFINE = __webpack_require__(/*! ./_ie8-dom-define */ \"./node_modules/core-js/library/modules/_ie8-dom-define.js\");\nvar toPrimitive = __webpack_require__(/*! ./_to-primitive */ \"./node_modules/core-js/library/modules/_to-primitive.js\");\nvar dP = Object.defineProperty;\n\nexports.f = __webpack_require__(/*! ./_descriptors */ \"./node_modules/core-js/library/modules/_descriptors.js\") ? Object.defineProperty : function defineProperty(O, P, Attributes) {\n  anObject(O);\n  P = toPrimitive(P, true);\n  anObject(Attributes);\n  if (IE8_DOM_DEFINE) try {\n    return dP(O, P, Attributes);\n  } catch (e) { /* empty */ }\n  if ('get' in Attributes || 'set' in Attributes) throw TypeError('Accessors not supported!');\n  if ('value' in Attributes) O[P] = Attributes.value;\n  return O;\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_object-dp.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_object-dps.js":
+/*!*************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_object-dps.js ***!
+  \*************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var dP = __webpack_require__(/*! ./_object-dp */ \"./node_modules/core-js/library/modules/_object-dp.js\");\nvar anObject = __webpack_require__(/*! ./_an-object */ \"./node_modules/core-js/library/modules/_an-object.js\");\nvar getKeys = __webpack_require__(/*! ./_object-keys */ \"./node_modules/core-js/library/modules/_object-keys.js\");\n\nmodule.exports = __webpack_require__(/*! ./_descriptors */ \"./node_modules/core-js/library/modules/_descriptors.js\") ? Object.defineProperties : function defineProperties(O, Properties) {\n  anObject(O);\n  var keys = getKeys(Properties);\n  var length = keys.length;\n  var i = 0;\n  var P;\n  while (length > i) dP.f(O, P = keys[i++], Properties[P]);\n  return O;\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_object-dps.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_object-gpo.js":
+/*!*************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_object-gpo.js ***!
+  \*************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// 19.1.2.9 / 15.2.3.2 Object.getPrototypeOf(O)\nvar has = __webpack_require__(/*! ./_has */ \"./node_modules/core-js/library/modules/_has.js\");\nvar toObject = __webpack_require__(/*! ./_to-object */ \"./node_modules/core-js/library/modules/_to-object.js\");\nvar IE_PROTO = __webpack_require__(/*! ./_shared-key */ \"./node_modules/core-js/library/modules/_shared-key.js\")('IE_PROTO');\nvar ObjectProto = Object.prototype;\n\nmodule.exports = Object.getPrototypeOf || function (O) {\n  O = toObject(O);\n  if (has(O, IE_PROTO)) return O[IE_PROTO];\n  if (typeof O.constructor == 'function' && O instanceof O.constructor) {\n    return O.constructor.prototype;\n  } return O instanceof Object ? ObjectProto : null;\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_object-gpo.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_object-keys-internal.js":
+/*!***********************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_object-keys-internal.js ***!
+  \***********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var has = __webpack_require__(/*! ./_has */ \"./node_modules/core-js/library/modules/_has.js\");\nvar toIObject = __webpack_require__(/*! ./_to-iobject */ \"./node_modules/core-js/library/modules/_to-iobject.js\");\nvar arrayIndexOf = __webpack_require__(/*! ./_array-includes */ \"./node_modules/core-js/library/modules/_array-includes.js\")(false);\nvar IE_PROTO = __webpack_require__(/*! ./_shared-key */ \"./node_modules/core-js/library/modules/_shared-key.js\")('IE_PROTO');\n\nmodule.exports = function (object, names) {\n  var O = toIObject(object);\n  var i = 0;\n  var result = [];\n  var key;\n  for (key in O) if (key != IE_PROTO) has(O, key) && result.push(key);\n  // Don't enum bug & hidden keys\n  while (names.length > i) if (has(O, key = names[i++])) {\n    ~arrayIndexOf(result, key) || result.push(key);\n  }\n  return result;\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_object-keys-internal.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_object-keys.js":
+/*!**************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_object-keys.js ***!
+  \**************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// 19.1.2.14 / 15.2.3.14 Object.keys(O)\nvar $keys = __webpack_require__(/*! ./_object-keys-internal */ \"./node_modules/core-js/library/modules/_object-keys-internal.js\");\nvar enumBugKeys = __webpack_require__(/*! ./_enum-bug-keys */ \"./node_modules/core-js/library/modules/_enum-bug-keys.js\");\n\nmodule.exports = Object.keys || function keys(O) {\n  return $keys(O, enumBugKeys);\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_object-keys.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_object-pie.js":
+/*!*************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_object-pie.js ***!
+  \*************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("exports.f = {}.propertyIsEnumerable;\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_object-pie.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_object-to-array.js":
+/*!******************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_object-to-array.js ***!
+  \******************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var getKeys = __webpack_require__(/*! ./_object-keys */ \"./node_modules/core-js/library/modules/_object-keys.js\");\nvar toIObject = __webpack_require__(/*! ./_to-iobject */ \"./node_modules/core-js/library/modules/_to-iobject.js\");\nvar isEnum = __webpack_require__(/*! ./_object-pie */ \"./node_modules/core-js/library/modules/_object-pie.js\").f;\nmodule.exports = function (isEntries) {\n  return function (it) {\n    var O = toIObject(it);\n    var keys = getKeys(O);\n    var length = keys.length;\n    var i = 0;\n    var result = [];\n    var key;\n    while (length > i) if (isEnum.call(O, key = keys[i++])) {\n      result.push(isEntries ? [key, O[key]] : O[key]);\n    } return result;\n  };\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_object-to-array.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_property-desc.js":
+/*!****************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_property-desc.js ***!
+  \****************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("module.exports = function (bitmap, value) {\n  return {\n    enumerable: !(bitmap & 1),\n    configurable: !(bitmap & 2),\n    writable: !(bitmap & 4),\n    value: value\n  };\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_property-desc.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_redefine.js":
+/*!***********************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_redefine.js ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("module.exports = __webpack_require__(/*! ./_hide */ \"./node_modules/core-js/library/modules/_hide.js\");\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_redefine.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_set-to-string-tag.js":
+/*!********************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_set-to-string-tag.js ***!
+  \********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var def = __webpack_require__(/*! ./_object-dp */ \"./node_modules/core-js/library/modules/_object-dp.js\").f;\nvar has = __webpack_require__(/*! ./_has */ \"./node_modules/core-js/library/modules/_has.js\");\nvar TAG = __webpack_require__(/*! ./_wks */ \"./node_modules/core-js/library/modules/_wks.js\")('toStringTag');\n\nmodule.exports = function (it, tag, stat) {\n  if (it && !has(it = stat ? it : it.prototype, TAG)) def(it, TAG, { configurable: true, value: tag });\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_set-to-string-tag.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_shared-key.js":
+/*!*************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_shared-key.js ***!
+  \*************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var shared = __webpack_require__(/*! ./_shared */ \"./node_modules/core-js/library/modules/_shared.js\")('keys');\nvar uid = __webpack_require__(/*! ./_uid */ \"./node_modules/core-js/library/modules/_uid.js\");\nmodule.exports = function (key) {\n  return shared[key] || (shared[key] = uid(key));\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_shared-key.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_shared.js":
+/*!*********************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_shared.js ***!
+  \*********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var core = __webpack_require__(/*! ./_core */ \"./node_modules/core-js/library/modules/_core.js\");\nvar global = __webpack_require__(/*! ./_global */ \"./node_modules/core-js/library/modules/_global.js\");\nvar SHARED = '__core-js_shared__';\nvar store = global[SHARED] || (global[SHARED] = {});\n\n(module.exports = function (key, value) {\n  return store[key] || (store[key] = value !== undefined ? value : {});\n})('versions', []).push({\n  version: core.version,\n  mode: __webpack_require__(/*! ./_library */ \"./node_modules/core-js/library/modules/_library.js\") ? 'pure' : 'global',\n  copyright: '© 2019 Denis Pushkarev (zloirock.ru)'\n});\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_shared.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_string-at.js":
+/*!************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_string-at.js ***!
+  \************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var toInteger = __webpack_require__(/*! ./_to-integer */ \"./node_modules/core-js/library/modules/_to-integer.js\");\nvar defined = __webpack_require__(/*! ./_defined */ \"./node_modules/core-js/library/modules/_defined.js\");\n// true  -> String#at\n// false -> String#codePointAt\nmodule.exports = function (TO_STRING) {\n  return function (that, pos) {\n    var s = String(defined(that));\n    var i = toInteger(pos);\n    var l = s.length;\n    var a, b;\n    if (i < 0 || i >= l) return TO_STRING ? '' : undefined;\n    a = s.charCodeAt(i);\n    return a < 0xd800 || a > 0xdbff || i + 1 === l || (b = s.charCodeAt(i + 1)) < 0xdc00 || b > 0xdfff\n      ? TO_STRING ? s.charAt(i) : a\n      : TO_STRING ? s.slice(i, i + 2) : (a - 0xd800 << 10) + (b - 0xdc00) + 0x10000;\n  };\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_string-at.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_to-absolute-index.js":
+/*!********************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_to-absolute-index.js ***!
+  \********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var toInteger = __webpack_require__(/*! ./_to-integer */ \"./node_modules/core-js/library/modules/_to-integer.js\");\nvar max = Math.max;\nvar min = Math.min;\nmodule.exports = function (index, length) {\n  index = toInteger(index);\n  return index < 0 ? max(index + length, 0) : min(index, length);\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_to-absolute-index.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_to-integer.js":
+/*!*************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_to-integer.js ***!
+  \*************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("// 7.1.4 ToInteger\nvar ceil = Math.ceil;\nvar floor = Math.floor;\nmodule.exports = function (it) {\n  return isNaN(it = +it) ? 0 : (it > 0 ? floor : ceil)(it);\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_to-integer.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_to-iobject.js":
+/*!*************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_to-iobject.js ***!
+  \*************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// to indexed object, toObject with fallback for non-array-like ES3 strings\nvar IObject = __webpack_require__(/*! ./_iobject */ \"./node_modules/core-js/library/modules/_iobject.js\");\nvar defined = __webpack_require__(/*! ./_defined */ \"./node_modules/core-js/library/modules/_defined.js\");\nmodule.exports = function (it) {\n  return IObject(defined(it));\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_to-iobject.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_to-length.js":
+/*!************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_to-length.js ***!
+  \************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// 7.1.15 ToLength\nvar toInteger = __webpack_require__(/*! ./_to-integer */ \"./node_modules/core-js/library/modules/_to-integer.js\");\nvar min = Math.min;\nmodule.exports = function (it) {\n  return it > 0 ? min(toInteger(it), 0x1fffffffffffff) : 0; // pow(2, 53) - 1 == 9007199254740991\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_to-length.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_to-object.js":
+/*!************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_to-object.js ***!
+  \************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// 7.1.13 ToObject(argument)\nvar defined = __webpack_require__(/*! ./_defined */ \"./node_modules/core-js/library/modules/_defined.js\");\nmodule.exports = function (it) {\n  return Object(defined(it));\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_to-object.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_to-primitive.js":
+/*!***************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_to-primitive.js ***!
+  \***************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// 7.1.1 ToPrimitive(input [, PreferredType])\nvar isObject = __webpack_require__(/*! ./_is-object */ \"./node_modules/core-js/library/modules/_is-object.js\");\n// instead of the ES6 spec version, we didn't implement @@toPrimitive case\n// and the second argument - flag - preferred type is a string\nmodule.exports = function (it, S) {\n  if (!isObject(it)) return it;\n  var fn, val;\n  if (S && typeof (fn = it.toString) == 'function' && !isObject(val = fn.call(it))) return val;\n  if (typeof (fn = it.valueOf) == 'function' && !isObject(val = fn.call(it))) return val;\n  if (!S && typeof (fn = it.toString) == 'function' && !isObject(val = fn.call(it))) return val;\n  throw TypeError(\"Can't convert object to primitive value\");\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_to-primitive.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_uid.js":
+/*!******************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_uid.js ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("var id = 0;\nvar px = Math.random();\nmodule.exports = function (key) {\n  return 'Symbol('.concat(key === undefined ? '' : key, ')_', (++id + px).toString(36));\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_uid.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/_wks.js":
+/*!******************************************************!*\
+  !*** ./node_modules/core-js/library/modules/_wks.js ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var store = __webpack_require__(/*! ./_shared */ \"./node_modules/core-js/library/modules/_shared.js\")('wks');\nvar uid = __webpack_require__(/*! ./_uid */ \"./node_modules/core-js/library/modules/_uid.js\");\nvar Symbol = __webpack_require__(/*! ./_global */ \"./node_modules/core-js/library/modules/_global.js\").Symbol;\nvar USE_SYMBOL = typeof Symbol == 'function';\n\nvar $exports = module.exports = function (name) {\n  return store[name] || (store[name] =\n    USE_SYMBOL && Symbol[name] || (USE_SYMBOL ? Symbol : uid)('Symbol.' + name));\n};\n\n$exports.store = store;\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/_wks.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/core.get-iterator-method.js":
+/*!**************************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/core.get-iterator-method.js ***!
+  \**************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var classof = __webpack_require__(/*! ./_classof */ \"./node_modules/core-js/library/modules/_classof.js\");\nvar ITERATOR = __webpack_require__(/*! ./_wks */ \"./node_modules/core-js/library/modules/_wks.js\")('iterator');\nvar Iterators = __webpack_require__(/*! ./_iterators */ \"./node_modules/core-js/library/modules/_iterators.js\");\nmodule.exports = __webpack_require__(/*! ./_core */ \"./node_modules/core-js/library/modules/_core.js\").getIteratorMethod = function (it) {\n  if (it != undefined) return it[ITERATOR]\n    || it['@@iterator']\n    || Iterators[classof(it)];\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/core.get-iterator-method.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/core.get-iterator.js":
+/*!*******************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/core.get-iterator.js ***!
+  \*******************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var anObject = __webpack_require__(/*! ./_an-object */ \"./node_modules/core-js/library/modules/_an-object.js\");\nvar get = __webpack_require__(/*! ./core.get-iterator-method */ \"./node_modules/core-js/library/modules/core.get-iterator-method.js\");\nmodule.exports = __webpack_require__(/*! ./_core */ \"./node_modules/core-js/library/modules/_core.js\").getIterator = function (it) {\n  var iterFn = get(it);\n  if (typeof iterFn != 'function') throw TypeError(it + ' is not iterable!');\n  return anObject(iterFn.call(it));\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/core.get-iterator.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/core.is-iterable.js":
+/*!******************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/core.is-iterable.js ***!
+  \******************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var classof = __webpack_require__(/*! ./_classof */ \"./node_modules/core-js/library/modules/_classof.js\");\nvar ITERATOR = __webpack_require__(/*! ./_wks */ \"./node_modules/core-js/library/modules/_wks.js\")('iterator');\nvar Iterators = __webpack_require__(/*! ./_iterators */ \"./node_modules/core-js/library/modules/_iterators.js\");\nmodule.exports = __webpack_require__(/*! ./_core */ \"./node_modules/core-js/library/modules/_core.js\").isIterable = function (it) {\n  var O = Object(it);\n  return O[ITERATOR] !== undefined\n    || '@@iterator' in O\n    // eslint-disable-next-line no-prototype-builtins\n    || Iterators.hasOwnProperty(classof(O));\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/core.is-iterable.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/es6.array.from.js":
+/*!****************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/es6.array.from.js ***!
+  \****************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\nvar ctx = __webpack_require__(/*! ./_ctx */ \"./node_modules/core-js/library/modules/_ctx.js\");\nvar $export = __webpack_require__(/*! ./_export */ \"./node_modules/core-js/library/modules/_export.js\");\nvar toObject = __webpack_require__(/*! ./_to-object */ \"./node_modules/core-js/library/modules/_to-object.js\");\nvar call = __webpack_require__(/*! ./_iter-call */ \"./node_modules/core-js/library/modules/_iter-call.js\");\nvar isArrayIter = __webpack_require__(/*! ./_is-array-iter */ \"./node_modules/core-js/library/modules/_is-array-iter.js\");\nvar toLength = __webpack_require__(/*! ./_to-length */ \"./node_modules/core-js/library/modules/_to-length.js\");\nvar createProperty = __webpack_require__(/*! ./_create-property */ \"./node_modules/core-js/library/modules/_create-property.js\");\nvar getIterFn = __webpack_require__(/*! ./core.get-iterator-method */ \"./node_modules/core-js/library/modules/core.get-iterator-method.js\");\n\n$export($export.S + $export.F * !__webpack_require__(/*! ./_iter-detect */ \"./node_modules/core-js/library/modules/_iter-detect.js\")(function (iter) { Array.from(iter); }), 'Array', {\n  // 22.1.2.1 Array.from(arrayLike, mapfn = undefined, thisArg = undefined)\n  from: function from(arrayLike /* , mapfn = undefined, thisArg = undefined */) {\n    var O = toObject(arrayLike);\n    var C = typeof this == 'function' ? this : Array;\n    var aLen = arguments.length;\n    var mapfn = aLen > 1 ? arguments[1] : undefined;\n    var mapping = mapfn !== undefined;\n    var index = 0;\n    var iterFn = getIterFn(O);\n    var length, result, step, iterator;\n    if (mapping) mapfn = ctx(mapfn, aLen > 2 ? arguments[2] : undefined, 2);\n    // if object isn't iterable or it's array with default iterator - use simple case\n    if (iterFn != undefined && !(C == Array && isArrayIter(iterFn))) {\n      for (iterator = iterFn.call(O), result = new C(); !(step = iterator.next()).done; index++) {\n        createProperty(result, index, mapping ? call(iterator, mapfn, [step.value, index], true) : step.value);\n      }\n    } else {\n      length = toLength(O.length);\n      for (result = new C(length); length > index; index++) {\n        createProperty(result, index, mapping ? mapfn(O[index], index) : O[index]);\n      }\n    }\n    result.length = index;\n    return result;\n  }\n});\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/es6.array.from.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/es6.array.is-array.js":
+/*!********************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/es6.array.is-array.js ***!
+  \********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// 22.1.2.2 / 15.4.3.2 Array.isArray(arg)\nvar $export = __webpack_require__(/*! ./_export */ \"./node_modules/core-js/library/modules/_export.js\");\n\n$export($export.S, 'Array', { isArray: __webpack_require__(/*! ./_is-array */ \"./node_modules/core-js/library/modules/_is-array.js\") });\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/es6.array.is-array.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/es6.array.iterator.js":
+/*!********************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/es6.array.iterator.js ***!
+  \********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\nvar addToUnscopables = __webpack_require__(/*! ./_add-to-unscopables */ \"./node_modules/core-js/library/modules/_add-to-unscopables.js\");\nvar step = __webpack_require__(/*! ./_iter-step */ \"./node_modules/core-js/library/modules/_iter-step.js\");\nvar Iterators = __webpack_require__(/*! ./_iterators */ \"./node_modules/core-js/library/modules/_iterators.js\");\nvar toIObject = __webpack_require__(/*! ./_to-iobject */ \"./node_modules/core-js/library/modules/_to-iobject.js\");\n\n// 22.1.3.4 Array.prototype.entries()\n// 22.1.3.13 Array.prototype.keys()\n// 22.1.3.29 Array.prototype.values()\n// 22.1.3.30 Array.prototype[@@iterator]()\nmodule.exports = __webpack_require__(/*! ./_iter-define */ \"./node_modules/core-js/library/modules/_iter-define.js\")(Array, 'Array', function (iterated, kind) {\n  this._t = toIObject(iterated); // target\n  this._i = 0;                   // next index\n  this._k = kind;                // kind\n// 22.1.5.2.1 %ArrayIteratorPrototype%.next()\n}, function () {\n  var O = this._t;\n  var kind = this._k;\n  var index = this._i++;\n  if (!O || index >= O.length) {\n    this._t = undefined;\n    return step(1);\n  }\n  if (kind == 'keys') return step(0, index);\n  if (kind == 'values') return step(0, O[index]);\n  return step(0, [index, O[index]]);\n}, 'values');\n\n// argumentsList[@@iterator] is %ArrayProto_values% (9.4.4.6, 9.4.4.7)\nIterators.Arguments = Iterators.Array;\n\naddToUnscopables('keys');\naddToUnscopables('values');\naddToUnscopables('entries');\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/es6.array.iterator.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/es6.string.iterator.js":
+/*!*********************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/es6.string.iterator.js ***!
+  \*********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\nvar $at = __webpack_require__(/*! ./_string-at */ \"./node_modules/core-js/library/modules/_string-at.js\")(true);\n\n// 21.1.3.27 String.prototype[@@iterator]()\n__webpack_require__(/*! ./_iter-define */ \"./node_modules/core-js/library/modules/_iter-define.js\")(String, 'String', function (iterated) {\n  this._t = String(iterated); // target\n  this._i = 0;                // next index\n// 21.1.5.2.1 %StringIteratorPrototype%.next()\n}, function () {\n  var O = this._t;\n  var index = this._i;\n  var point;\n  if (index >= O.length) return { value: undefined, done: true };\n  point = $at(O, index);\n  this._i += point.length;\n  return { value: point, done: false };\n});\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/es6.string.iterator.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/es7.object.entries.js":
+/*!********************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/es7.object.entries.js ***!
+  \********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// https://github.com/tc39/proposal-object-values-entries\nvar $export = __webpack_require__(/*! ./_export */ \"./node_modules/core-js/library/modules/_export.js\");\nvar $entries = __webpack_require__(/*! ./_object-to-array */ \"./node_modules/core-js/library/modules/_object-to-array.js\")(true);\n\n$export($export.S, 'Object', {\n  entries: function entries(it) {\n    return $entries(it);\n  }\n});\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/es7.object.entries.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/library/modules/web.dom.iterable.js":
+/*!******************************************************************!*\
+  !*** ./node_modules/core-js/library/modules/web.dom.iterable.js ***!
+  \******************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("__webpack_require__(/*! ./es6.array.iterator */ \"./node_modules/core-js/library/modules/es6.array.iterator.js\");\nvar global = __webpack_require__(/*! ./_global */ \"./node_modules/core-js/library/modules/_global.js\");\nvar hide = __webpack_require__(/*! ./_hide */ \"./node_modules/core-js/library/modules/_hide.js\");\nvar Iterators = __webpack_require__(/*! ./_iterators */ \"./node_modules/core-js/library/modules/_iterators.js\");\nvar TO_STRING_TAG = __webpack_require__(/*! ./_wks */ \"./node_modules/core-js/library/modules/_wks.js\")('toStringTag');\n\nvar DOMIterables = ('CSSRuleList,CSSStyleDeclaration,CSSValueList,ClientRectList,DOMRectList,DOMStringList,' +\n  'DOMTokenList,DataTransferItemList,FileList,HTMLAllCollection,HTMLCollection,HTMLFormElement,HTMLSelectElement,' +\n  'MediaList,MimeTypeArray,NamedNodeMap,NodeList,PaintRequestList,Plugin,PluginArray,SVGLengthList,SVGNumberList,' +\n  'SVGPathSegList,SVGPointList,SVGStringList,SVGTransformList,SourceBufferList,StyleSheetList,TextTrackCueList,' +\n  'TextTrackList,TouchList').split(',');\n\nfor (var i = 0; i < DOMIterables.length; i++) {\n  var NAME = DOMIterables[i];\n  var Collection = global[NAME];\n  var proto = Collection && Collection.prototype;\n  if (proto && !proto[TO_STRING_TAG]) hide(proto, TO_STRING_TAG, NAME);\n  Iterators[NAME] = Iterators.Array;\n}\n\n\n//# sourceURL=webpack:///./node_modules/core-js/library/modules/web.dom.iterable.js?");
+
+/***/ }),
+
 /***/ "./node_modules/core-js/modules/_a-function.js":
 /*!*****************************************************!*\
   !*** ./node_modules/core-js/modules/_a-function.js ***!
@@ -299,6 +1228,18 @@ eval("module.exports = function (it) {\n  if (typeof it != 'function') throw Typ
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("// 22.1.3.31 Array.prototype[@@unscopables]\nvar UNSCOPABLES = __webpack_require__(/*! ./_wks */ \"./node_modules/core-js/modules/_wks.js\")('unscopables');\nvar ArrayProto = Array.prototype;\nif (ArrayProto[UNSCOPABLES] == undefined) __webpack_require__(/*! ./_hide */ \"./node_modules/core-js/modules/_hide.js\")(ArrayProto, UNSCOPABLES, {});\nmodule.exports = function (key) {\n  ArrayProto[UNSCOPABLES][key] = true;\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/modules/_add-to-unscopables.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/modules/_advance-string-index.js":
+/*!***************************************************************!*\
+  !*** ./node_modules/core-js/modules/_advance-string-index.js ***!
+  \***************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\nvar at = __webpack_require__(/*! ./_string-at */ \"./node_modules/core-js/modules/_string-at.js\")(true);\n\n // `AdvanceStringIndex` abstract operation\n// https://tc39.github.io/ecma262/#sec-advancestringindex\nmodule.exports = function (S, index, unicode) {\n  return index + (unicode ? at(S, index).length : 1);\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/modules/_advance-string-index.js?");
 
 /***/ }),
 
@@ -434,6 +1375,17 @@ eval("var global = __webpack_require__(/*! ./_global */ \"./node_modules/core-js
 
 /***/ }),
 
+/***/ "./node_modules/core-js/modules/_fails-is-regexp.js":
+/*!**********************************************************!*\
+  !*** ./node_modules/core-js/modules/_fails-is-regexp.js ***!
+  \**********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var MATCH = __webpack_require__(/*! ./_wks */ \"./node_modules/core-js/modules/_wks.js\")('match');\nmodule.exports = function (KEY) {\n  var re = /./;\n  try {\n    '/./'[KEY](re);\n  } catch (e) {\n    try {\n      re[MATCH] = false;\n      return !'/./'[KEY](re);\n    } catch (f) { /* empty */ }\n  } return true;\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/modules/_fails-is-regexp.js?");
+
+/***/ }),
+
 /***/ "./node_modules/core-js/modules/_fails.js":
 /*!************************************************!*\
   !*** ./node_modules/core-js/modules/_fails.js ***!
@@ -442,6 +1394,30 @@ eval("var global = __webpack_require__(/*! ./_global */ \"./node_modules/core-js
 /***/ (function(module, exports) {
 
 eval("module.exports = function (exec) {\n  try {\n    return !!exec();\n  } catch (e) {\n    return true;\n  }\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/modules/_fails.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/modules/_fix-re-wks.js":
+/*!*****************************************************!*\
+  !*** ./node_modules/core-js/modules/_fix-re-wks.js ***!
+  \*****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\n__webpack_require__(/*! ./es6.regexp.exec */ \"./node_modules/core-js/modules/es6.regexp.exec.js\");\nvar redefine = __webpack_require__(/*! ./_redefine */ \"./node_modules/core-js/modules/_redefine.js\");\nvar hide = __webpack_require__(/*! ./_hide */ \"./node_modules/core-js/modules/_hide.js\");\nvar fails = __webpack_require__(/*! ./_fails */ \"./node_modules/core-js/modules/_fails.js\");\nvar defined = __webpack_require__(/*! ./_defined */ \"./node_modules/core-js/modules/_defined.js\");\nvar wks = __webpack_require__(/*! ./_wks */ \"./node_modules/core-js/modules/_wks.js\");\nvar regexpExec = __webpack_require__(/*! ./_regexp-exec */ \"./node_modules/core-js/modules/_regexp-exec.js\");\n\nvar SPECIES = wks('species');\n\nvar REPLACE_SUPPORTS_NAMED_GROUPS = !fails(function () {\n  // #replace needs built-in support for named groups.\n  // #match works fine because it just return the exec results, even if it has\n  // a \"grops\" property.\n  var re = /./;\n  re.exec = function () {\n    var result = [];\n    result.groups = { a: '7' };\n    return result;\n  };\n  return ''.replace(re, '$<a>') !== '7';\n});\n\nvar SPLIT_WORKS_WITH_OVERWRITTEN_EXEC = (function () {\n  // Chrome 51 has a buggy \"split\" implementation when RegExp#exec !== nativeExec\n  var re = /(?:)/;\n  var originalExec = re.exec;\n  re.exec = function () { return originalExec.apply(this, arguments); };\n  var result = 'ab'.split(re);\n  return result.length === 2 && result[0] === 'a' && result[1] === 'b';\n})();\n\nmodule.exports = function (KEY, length, exec) {\n  var SYMBOL = wks(KEY);\n\n  var DELEGATES_TO_SYMBOL = !fails(function () {\n    // String methods call symbol-named RegEp methods\n    var O = {};\n    O[SYMBOL] = function () { return 7; };\n    return ''[KEY](O) != 7;\n  });\n\n  var DELEGATES_TO_EXEC = DELEGATES_TO_SYMBOL ? !fails(function () {\n    // Symbol-named RegExp methods call .exec\n    var execCalled = false;\n    var re = /a/;\n    re.exec = function () { execCalled = true; return null; };\n    if (KEY === 'split') {\n      // RegExp[@@split] doesn't call the regex's exec method, but first creates\n      // a new one. We need to return the patched regex when creating the new one.\n      re.constructor = {};\n      re.constructor[SPECIES] = function () { return re; };\n    }\n    re[SYMBOL]('');\n    return !execCalled;\n  }) : undefined;\n\n  if (\n    !DELEGATES_TO_SYMBOL ||\n    !DELEGATES_TO_EXEC ||\n    (KEY === 'replace' && !REPLACE_SUPPORTS_NAMED_GROUPS) ||\n    (KEY === 'split' && !SPLIT_WORKS_WITH_OVERWRITTEN_EXEC)\n  ) {\n    var nativeRegExpMethod = /./[SYMBOL];\n    var fns = exec(\n      defined,\n      SYMBOL,\n      ''[KEY],\n      function maybeCallNative(nativeMethod, regexp, str, arg2, forceStringMethod) {\n        if (regexp.exec === regexpExec) {\n          if (DELEGATES_TO_SYMBOL && !forceStringMethod) {\n            // The native String method already delegates to @@method (this\n            // polyfilled function), leasing to infinite recursion.\n            // We avoid it by directly calling the native @@method method.\n            return { done: true, value: nativeRegExpMethod.call(regexp, str, arg2) };\n          }\n          return { done: true, value: nativeMethod.call(str, regexp, arg2) };\n        }\n        return { done: false };\n      }\n    );\n    var strfn = fns[0];\n    var rxfn = fns[1];\n\n    redefine(String.prototype, KEY, strfn);\n    hide(RegExp.prototype, SYMBOL, length == 2\n      // 21.2.5.8 RegExp.prototype[@@replace](string, replaceValue)\n      // 21.2.5.11 RegExp.prototype[@@split](string, limit)\n      ? function (string, arg) { return rxfn.call(string, this, arg); }\n      // 21.2.5.6 RegExp.prototype[@@match](string)\n      // 21.2.5.9 RegExp.prototype[@@search](string)\n      : function (string) { return rxfn.call(string, this); }\n    );\n  }\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/modules/_fix-re-wks.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/modules/_flags.js":
+/*!************************************************!*\
+  !*** ./node_modules/core-js/modules/_flags.js ***!
+  \************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\n// 21.2.5.3 get RegExp.prototype.flags\nvar anObject = __webpack_require__(/*! ./_an-object */ \"./node_modules/core-js/modules/_an-object.js\");\nmodule.exports = function () {\n  var that = anObject(this);\n  var result = '';\n  if (that.global) result += 'g';\n  if (that.ignoreCase) result += 'i';\n  if (that.multiline) result += 'm';\n  if (that.unicode) result += 'u';\n  if (that.sticky) result += 'y';\n  return result;\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/modules/_flags.js?");
 
 /***/ }),
 
@@ -563,6 +1539,17 @@ eval("// check on default Array iterator\nvar Iterators = __webpack_require__(/*
 /***/ (function(module, exports) {
 
 eval("module.exports = function (it) {\n  return typeof it === 'object' ? it !== null : typeof it === 'function';\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/modules/_is-object.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/modules/_is-regexp.js":
+/*!****************************************************!*\
+  !*** ./node_modules/core-js/modules/_is-regexp.js ***!
+  \****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// 7.2.8 IsRegExp(argument)\nvar isObject = __webpack_require__(/*! ./_is-object */ \"./node_modules/core-js/modules/_is-object.js\");\nvar cof = __webpack_require__(/*! ./_cof */ \"./node_modules/core-js/modules/_cof.js\");\nvar MATCH = __webpack_require__(/*! ./_wks */ \"./node_modules/core-js/modules/_wks.js\")('match');\nmodule.exports = function (it) {\n  var isRegExp;\n  return isObject(it) && ((isRegExp = it[MATCH]) !== undefined ? !!isRegExp : cof(it) == 'RegExp');\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/modules/_is-regexp.js?");
 
 /***/ }),
 
@@ -823,6 +1810,30 @@ eval("var global = __webpack_require__(/*! ./_global */ \"./node_modules/core-js
 
 /***/ }),
 
+/***/ "./node_modules/core-js/modules/_regexp-exec-abstract.js":
+/*!***************************************************************!*\
+  !*** ./node_modules/core-js/modules/_regexp-exec-abstract.js ***!
+  \***************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\n\nvar classof = __webpack_require__(/*! ./_classof */ \"./node_modules/core-js/modules/_classof.js\");\nvar builtinExec = RegExp.prototype.exec;\n\n // `RegExpExec` abstract operation\n// https://tc39.github.io/ecma262/#sec-regexpexec\nmodule.exports = function (R, S) {\n  var exec = R.exec;\n  if (typeof exec === 'function') {\n    var result = exec.call(R, S);\n    if (typeof result !== 'object') {\n      throw new TypeError('RegExp exec method returned something other than an Object or null');\n    }\n    return result;\n  }\n  if (classof(R) !== 'RegExp') {\n    throw new TypeError('RegExp#exec called on incompatible receiver');\n  }\n  return builtinExec.call(R, S);\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/modules/_regexp-exec-abstract.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/modules/_regexp-exec.js":
+/*!******************************************************!*\
+  !*** ./node_modules/core-js/modules/_regexp-exec.js ***!
+  \******************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\n\nvar regexpFlags = __webpack_require__(/*! ./_flags */ \"./node_modules/core-js/modules/_flags.js\");\n\nvar nativeExec = RegExp.prototype.exec;\n// This always refers to the native implementation, because the\n// String#replace polyfill uses ./fix-regexp-well-known-symbol-logic.js,\n// which loads this file before patching the method.\nvar nativeReplace = String.prototype.replace;\n\nvar patchedExec = nativeExec;\n\nvar LAST_INDEX = 'lastIndex';\n\nvar UPDATES_LAST_INDEX_WRONG = (function () {\n  var re1 = /a/,\n      re2 = /b*/g;\n  nativeExec.call(re1, 'a');\n  nativeExec.call(re2, 'a');\n  return re1[LAST_INDEX] !== 0 || re2[LAST_INDEX] !== 0;\n})();\n\n// nonparticipating capturing group, copied from es5-shim's String#split patch.\nvar NPCG_INCLUDED = /()??/.exec('')[1] !== undefined;\n\nvar PATCH = UPDATES_LAST_INDEX_WRONG || NPCG_INCLUDED;\n\nif (PATCH) {\n  patchedExec = function exec(str) {\n    var re = this;\n    var lastIndex, reCopy, match, i;\n\n    if (NPCG_INCLUDED) {\n      reCopy = new RegExp('^' + re.source + '$(?!\\\\s)', regexpFlags.call(re));\n    }\n    if (UPDATES_LAST_INDEX_WRONG) lastIndex = re[LAST_INDEX];\n\n    match = nativeExec.call(re, str);\n\n    if (UPDATES_LAST_INDEX_WRONG && match) {\n      re[LAST_INDEX] = re.global ? match.index + match[0].length : lastIndex;\n    }\n    if (NPCG_INCLUDED && match && match.length > 1) {\n      // Fix browsers whose `exec` methods don't consistently return `undefined`\n      // for NPCG, like IE8. NOTE: This doesn' work for /(.?)?/\n      // eslint-disable-next-line no-loop-func\n      nativeReplace.call(match[0], reCopy, function () {\n        for (i = 1; i < arguments.length - 2; i++) {\n          if (arguments[i] === undefined) match[i] = undefined;\n        }\n      });\n    }\n\n    return match;\n  };\n}\n\nmodule.exports = patchedExec;\n\n\n//# sourceURL=webpack:///./node_modules/core-js/modules/_regexp-exec.js?");
+
+/***/ }),
+
 /***/ "./node_modules/core-js/modules/_set-species.js":
 /*!******************************************************!*\
   !*** ./node_modules/core-js/modules/_set-species.js ***!
@@ -876,6 +1887,28 @@ eval("var core = __webpack_require__(/*! ./_core */ \"./node_modules/core-js/mod
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("// 7.3.20 SpeciesConstructor(O, defaultConstructor)\nvar anObject = __webpack_require__(/*! ./_an-object */ \"./node_modules/core-js/modules/_an-object.js\");\nvar aFunction = __webpack_require__(/*! ./_a-function */ \"./node_modules/core-js/modules/_a-function.js\");\nvar SPECIES = __webpack_require__(/*! ./_wks */ \"./node_modules/core-js/modules/_wks.js\")('species');\nmodule.exports = function (O, D) {\n  var C = anObject(O).constructor;\n  var S;\n  return C === undefined || (S = anObject(C)[SPECIES]) == undefined ? D : aFunction(S);\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/modules/_species-constructor.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/modules/_string-at.js":
+/*!****************************************************!*\
+  !*** ./node_modules/core-js/modules/_string-at.js ***!
+  \****************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var toInteger = __webpack_require__(/*! ./_to-integer */ \"./node_modules/core-js/modules/_to-integer.js\");\nvar defined = __webpack_require__(/*! ./_defined */ \"./node_modules/core-js/modules/_defined.js\");\n// true  -> String#at\n// false -> String#codePointAt\nmodule.exports = function (TO_STRING) {\n  return function (that, pos) {\n    var s = String(defined(that));\n    var i = toInteger(pos);\n    var l = s.length;\n    var a, b;\n    if (i < 0 || i >= l) return TO_STRING ? '' : undefined;\n    a = s.charCodeAt(i);\n    return a < 0xd800 || a > 0xdbff || i + 1 === l || (b = s.charCodeAt(i + 1)) < 0xdc00 || b > 0xdfff\n      ? TO_STRING ? s.charAt(i) : a\n      : TO_STRING ? s.slice(i, i + 2) : (a - 0xd800 << 10) + (b - 0xdc00) + 0x10000;\n  };\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/modules/_string-at.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/modules/_string-context.js":
+/*!*********************************************************!*\
+  !*** ./node_modules/core-js/modules/_string-context.js ***!
+  \*********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// helper for String#{startsWith, endsWith, includes}\nvar isRegExp = __webpack_require__(/*! ./_is-regexp */ \"./node_modules/core-js/modules/_is-regexp.js\");\nvar defined = __webpack_require__(/*! ./_defined */ \"./node_modules/core-js/modules/_defined.js\");\n\nmodule.exports = function (that, searchString, NAME) {\n  if (isRegExp(searchString)) throw TypeError('String#' + NAME + \" doesn't accept regex!\");\n  return String(defined(that));\n};\n\n\n//# sourceURL=webpack:///./node_modules/core-js/modules/_string-context.js?");
 
 /***/ }),
 
@@ -1012,6 +2045,17 @@ eval("\nvar addToUnscopables = __webpack_require__(/*! ./_add-to-unscopables */ 
 
 /***/ }),
 
+/***/ "./node_modules/core-js/modules/es6.function.name.js":
+/*!***********************************************************!*\
+  !*** ./node_modules/core-js/modules/es6.function.name.js ***!
+  \***********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var dP = __webpack_require__(/*! ./_object-dp */ \"./node_modules/core-js/modules/_object-dp.js\").f;\nvar FProto = Function.prototype;\nvar nameRE = /^\\s*function ([^ (]*)/;\nvar NAME = 'name';\n\n// 19.2.4.2 name\nNAME in FProto || __webpack_require__(/*! ./_descriptors */ \"./node_modules/core-js/modules/_descriptors.js\") && dP(FProto, NAME, {\n  configurable: true,\n  get: function () {\n    try {\n      return ('' + this).match(nameRE)[1];\n    } catch (e) {\n      return '';\n    }\n  }\n});\n\n\n//# sourceURL=webpack:///./node_modules/core-js/modules/es6.function.name.js?");
+
+/***/ }),
+
 /***/ "./node_modules/core-js/modules/es6.object.assign.js":
 /*!***********************************************************!*\
   !*** ./node_modules/core-js/modules/es6.object.assign.js ***!
@@ -1032,6 +2076,42 @@ eval("// 19.1.3.1 Object.assign(target, source)\nvar $export = __webpack_require
 
 "use strict";
 eval("\nvar LIBRARY = __webpack_require__(/*! ./_library */ \"./node_modules/core-js/modules/_library.js\");\nvar global = __webpack_require__(/*! ./_global */ \"./node_modules/core-js/modules/_global.js\");\nvar ctx = __webpack_require__(/*! ./_ctx */ \"./node_modules/core-js/modules/_ctx.js\");\nvar classof = __webpack_require__(/*! ./_classof */ \"./node_modules/core-js/modules/_classof.js\");\nvar $export = __webpack_require__(/*! ./_export */ \"./node_modules/core-js/modules/_export.js\");\nvar isObject = __webpack_require__(/*! ./_is-object */ \"./node_modules/core-js/modules/_is-object.js\");\nvar aFunction = __webpack_require__(/*! ./_a-function */ \"./node_modules/core-js/modules/_a-function.js\");\nvar anInstance = __webpack_require__(/*! ./_an-instance */ \"./node_modules/core-js/modules/_an-instance.js\");\nvar forOf = __webpack_require__(/*! ./_for-of */ \"./node_modules/core-js/modules/_for-of.js\");\nvar speciesConstructor = __webpack_require__(/*! ./_species-constructor */ \"./node_modules/core-js/modules/_species-constructor.js\");\nvar task = __webpack_require__(/*! ./_task */ \"./node_modules/core-js/modules/_task.js\").set;\nvar microtask = __webpack_require__(/*! ./_microtask */ \"./node_modules/core-js/modules/_microtask.js\")();\nvar newPromiseCapabilityModule = __webpack_require__(/*! ./_new-promise-capability */ \"./node_modules/core-js/modules/_new-promise-capability.js\");\nvar perform = __webpack_require__(/*! ./_perform */ \"./node_modules/core-js/modules/_perform.js\");\nvar userAgent = __webpack_require__(/*! ./_user-agent */ \"./node_modules/core-js/modules/_user-agent.js\");\nvar promiseResolve = __webpack_require__(/*! ./_promise-resolve */ \"./node_modules/core-js/modules/_promise-resolve.js\");\nvar PROMISE = 'Promise';\nvar TypeError = global.TypeError;\nvar process = global.process;\nvar versions = process && process.versions;\nvar v8 = versions && versions.v8 || '';\nvar $Promise = global[PROMISE];\nvar isNode = classof(process) == 'process';\nvar empty = function () { /* empty */ };\nvar Internal, newGenericPromiseCapability, OwnPromiseCapability, Wrapper;\nvar newPromiseCapability = newGenericPromiseCapability = newPromiseCapabilityModule.f;\n\nvar USE_NATIVE = !!function () {\n  try {\n    // correct subclassing with @@species support\n    var promise = $Promise.resolve(1);\n    var FakePromise = (promise.constructor = {})[__webpack_require__(/*! ./_wks */ \"./node_modules/core-js/modules/_wks.js\")('species')] = function (exec) {\n      exec(empty, empty);\n    };\n    // unhandled rejections tracking support, NodeJS Promise without it fails @@species test\n    return (isNode || typeof PromiseRejectionEvent == 'function')\n      && promise.then(empty) instanceof FakePromise\n      // v8 6.6 (Node 10 and Chrome 66) have a bug with resolving custom thenables\n      // https://bugs.chromium.org/p/chromium/issues/detail?id=830565\n      // we can't detect it synchronously, so just check versions\n      && v8.indexOf('6.6') !== 0\n      && userAgent.indexOf('Chrome/66') === -1;\n  } catch (e) { /* empty */ }\n}();\n\n// helpers\nvar isThenable = function (it) {\n  var then;\n  return isObject(it) && typeof (then = it.then) == 'function' ? then : false;\n};\nvar notify = function (promise, isReject) {\n  if (promise._n) return;\n  promise._n = true;\n  var chain = promise._c;\n  microtask(function () {\n    var value = promise._v;\n    var ok = promise._s == 1;\n    var i = 0;\n    var run = function (reaction) {\n      var handler = ok ? reaction.ok : reaction.fail;\n      var resolve = reaction.resolve;\n      var reject = reaction.reject;\n      var domain = reaction.domain;\n      var result, then, exited;\n      try {\n        if (handler) {\n          if (!ok) {\n            if (promise._h == 2) onHandleUnhandled(promise);\n            promise._h = 1;\n          }\n          if (handler === true) result = value;\n          else {\n            if (domain) domain.enter();\n            result = handler(value); // may throw\n            if (domain) {\n              domain.exit();\n              exited = true;\n            }\n          }\n          if (result === reaction.promise) {\n            reject(TypeError('Promise-chain cycle'));\n          } else if (then = isThenable(result)) {\n            then.call(result, resolve, reject);\n          } else resolve(result);\n        } else reject(value);\n      } catch (e) {\n        if (domain && !exited) domain.exit();\n        reject(e);\n      }\n    };\n    while (chain.length > i) run(chain[i++]); // variable length - can't use forEach\n    promise._c = [];\n    promise._n = false;\n    if (isReject && !promise._h) onUnhandled(promise);\n  });\n};\nvar onUnhandled = function (promise) {\n  task.call(global, function () {\n    var value = promise._v;\n    var unhandled = isUnhandled(promise);\n    var result, handler, console;\n    if (unhandled) {\n      result = perform(function () {\n        if (isNode) {\n          process.emit('unhandledRejection', value, promise);\n        } else if (handler = global.onunhandledrejection) {\n          handler({ promise: promise, reason: value });\n        } else if ((console = global.console) && console.error) {\n          console.error('Unhandled promise rejection', value);\n        }\n      });\n      // Browsers should not trigger `rejectionHandled` event if it was handled here, NodeJS - should\n      promise._h = isNode || isUnhandled(promise) ? 2 : 1;\n    } promise._a = undefined;\n    if (unhandled && result.e) throw result.v;\n  });\n};\nvar isUnhandled = function (promise) {\n  return promise._h !== 1 && (promise._a || promise._c).length === 0;\n};\nvar onHandleUnhandled = function (promise) {\n  task.call(global, function () {\n    var handler;\n    if (isNode) {\n      process.emit('rejectionHandled', promise);\n    } else if (handler = global.onrejectionhandled) {\n      handler({ promise: promise, reason: promise._v });\n    }\n  });\n};\nvar $reject = function (value) {\n  var promise = this;\n  if (promise._d) return;\n  promise._d = true;\n  promise = promise._w || promise; // unwrap\n  promise._v = value;\n  promise._s = 2;\n  if (!promise._a) promise._a = promise._c.slice();\n  notify(promise, true);\n};\nvar $resolve = function (value) {\n  var promise = this;\n  var then;\n  if (promise._d) return;\n  promise._d = true;\n  promise = promise._w || promise; // unwrap\n  try {\n    if (promise === value) throw TypeError(\"Promise can't be resolved itself\");\n    if (then = isThenable(value)) {\n      microtask(function () {\n        var wrapper = { _w: promise, _d: false }; // wrap\n        try {\n          then.call(value, ctx($resolve, wrapper, 1), ctx($reject, wrapper, 1));\n        } catch (e) {\n          $reject.call(wrapper, e);\n        }\n      });\n    } else {\n      promise._v = value;\n      promise._s = 1;\n      notify(promise, false);\n    }\n  } catch (e) {\n    $reject.call({ _w: promise, _d: false }, e); // wrap\n  }\n};\n\n// constructor polyfill\nif (!USE_NATIVE) {\n  // 25.4.3.1 Promise(executor)\n  $Promise = function Promise(executor) {\n    anInstance(this, $Promise, PROMISE, '_h');\n    aFunction(executor);\n    Internal.call(this);\n    try {\n      executor(ctx($resolve, this, 1), ctx($reject, this, 1));\n    } catch (err) {\n      $reject.call(this, err);\n    }\n  };\n  // eslint-disable-next-line no-unused-vars\n  Internal = function Promise(executor) {\n    this._c = [];             // <- awaiting reactions\n    this._a = undefined;      // <- checked in isUnhandled reactions\n    this._s = 0;              // <- state\n    this._d = false;          // <- done\n    this._v = undefined;      // <- value\n    this._h = 0;              // <- rejection state, 0 - default, 1 - handled, 2 - unhandled\n    this._n = false;          // <- notify\n  };\n  Internal.prototype = __webpack_require__(/*! ./_redefine-all */ \"./node_modules/core-js/modules/_redefine-all.js\")($Promise.prototype, {\n    // 25.4.5.3 Promise.prototype.then(onFulfilled, onRejected)\n    then: function then(onFulfilled, onRejected) {\n      var reaction = newPromiseCapability(speciesConstructor(this, $Promise));\n      reaction.ok = typeof onFulfilled == 'function' ? onFulfilled : true;\n      reaction.fail = typeof onRejected == 'function' && onRejected;\n      reaction.domain = isNode ? process.domain : undefined;\n      this._c.push(reaction);\n      if (this._a) this._a.push(reaction);\n      if (this._s) notify(this, false);\n      return reaction.promise;\n    },\n    // 25.4.5.1 Promise.prototype.catch(onRejected)\n    'catch': function (onRejected) {\n      return this.then(undefined, onRejected);\n    }\n  });\n  OwnPromiseCapability = function () {\n    var promise = new Internal();\n    this.promise = promise;\n    this.resolve = ctx($resolve, promise, 1);\n    this.reject = ctx($reject, promise, 1);\n  };\n  newPromiseCapabilityModule.f = newPromiseCapability = function (C) {\n    return C === $Promise || C === Wrapper\n      ? new OwnPromiseCapability(C)\n      : newGenericPromiseCapability(C);\n  };\n}\n\n$export($export.G + $export.W + $export.F * !USE_NATIVE, { Promise: $Promise });\n__webpack_require__(/*! ./_set-to-string-tag */ \"./node_modules/core-js/modules/_set-to-string-tag.js\")($Promise, PROMISE);\n__webpack_require__(/*! ./_set-species */ \"./node_modules/core-js/modules/_set-species.js\")(PROMISE);\nWrapper = __webpack_require__(/*! ./_core */ \"./node_modules/core-js/modules/_core.js\")[PROMISE];\n\n// statics\n$export($export.S + $export.F * !USE_NATIVE, PROMISE, {\n  // 25.4.4.5 Promise.reject(r)\n  reject: function reject(r) {\n    var capability = newPromiseCapability(this);\n    var $$reject = capability.reject;\n    $$reject(r);\n    return capability.promise;\n  }\n});\n$export($export.S + $export.F * (LIBRARY || !USE_NATIVE), PROMISE, {\n  // 25.4.4.6 Promise.resolve(x)\n  resolve: function resolve(x) {\n    return promiseResolve(LIBRARY && this === Wrapper ? $Promise : this, x);\n  }\n});\n$export($export.S + $export.F * !(USE_NATIVE && __webpack_require__(/*! ./_iter-detect */ \"./node_modules/core-js/modules/_iter-detect.js\")(function (iter) {\n  $Promise.all(iter)['catch'](empty);\n})), PROMISE, {\n  // 25.4.4.1 Promise.all(iterable)\n  all: function all(iterable) {\n    var C = this;\n    var capability = newPromiseCapability(C);\n    var resolve = capability.resolve;\n    var reject = capability.reject;\n    var result = perform(function () {\n      var values = [];\n      var index = 0;\n      var remaining = 1;\n      forOf(iterable, false, function (promise) {\n        var $index = index++;\n        var alreadyCalled = false;\n        values.push(undefined);\n        remaining++;\n        C.resolve(promise).then(function (value) {\n          if (alreadyCalled) return;\n          alreadyCalled = true;\n          values[$index] = value;\n          --remaining || resolve(values);\n        }, reject);\n      });\n      --remaining || resolve(values);\n    });\n    if (result.e) reject(result.v);\n    return capability.promise;\n  },\n  // 25.4.4.4 Promise.race(iterable)\n  race: function race(iterable) {\n    var C = this;\n    var capability = newPromiseCapability(C);\n    var reject = capability.reject;\n    var result = perform(function () {\n      forOf(iterable, false, function (promise) {\n        C.resolve(promise).then(capability.resolve, reject);\n      });\n    });\n    if (result.e) reject(result.v);\n    return capability.promise;\n  }\n});\n\n\n//# sourceURL=webpack:///./node_modules/core-js/modules/es6.promise.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/modules/es6.regexp.exec.js":
+/*!*********************************************************!*\
+  !*** ./node_modules/core-js/modules/es6.regexp.exec.js ***!
+  \*********************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\nvar regexpExec = __webpack_require__(/*! ./_regexp-exec */ \"./node_modules/core-js/modules/_regexp-exec.js\");\n__webpack_require__(/*! ./_export */ \"./node_modules/core-js/modules/_export.js\")({\n  target: 'RegExp',\n  proto: true,\n  forced: regexpExec !== /./.exec\n}, {\n  exec: regexpExec\n});\n\n\n//# sourceURL=webpack:///./node_modules/core-js/modules/es6.regexp.exec.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/modules/es6.regexp.replace.js":
+/*!************************************************************!*\
+  !*** ./node_modules/core-js/modules/es6.regexp.replace.js ***!
+  \************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("\n\nvar anObject = __webpack_require__(/*! ./_an-object */ \"./node_modules/core-js/modules/_an-object.js\");\nvar toObject = __webpack_require__(/*! ./_to-object */ \"./node_modules/core-js/modules/_to-object.js\");\nvar toLength = __webpack_require__(/*! ./_to-length */ \"./node_modules/core-js/modules/_to-length.js\");\nvar toInteger = __webpack_require__(/*! ./_to-integer */ \"./node_modules/core-js/modules/_to-integer.js\");\nvar advanceStringIndex = __webpack_require__(/*! ./_advance-string-index */ \"./node_modules/core-js/modules/_advance-string-index.js\");\nvar regExpExec = __webpack_require__(/*! ./_regexp-exec-abstract */ \"./node_modules/core-js/modules/_regexp-exec-abstract.js\");\nvar max = Math.max;\nvar min = Math.min;\nvar floor = Math.floor;\nvar SUBSTITUTION_SYMBOLS = /\\$([$&`']|\\d\\d?|<[^>]*>)/g;\nvar SUBSTITUTION_SYMBOLS_NO_NAMED = /\\$([$&`']|\\d\\d?)/g;\n\nvar maybeToString = function (it) {\n  return it === undefined ? it : String(it);\n};\n\n// @@replace logic\n__webpack_require__(/*! ./_fix-re-wks */ \"./node_modules/core-js/modules/_fix-re-wks.js\")('replace', 2, function (defined, REPLACE, $replace, maybeCallNative) {\n  return [\n    // `String.prototype.replace` method\n    // https://tc39.github.io/ecma262/#sec-string.prototype.replace\n    function replace(searchValue, replaceValue) {\n      var O = defined(this);\n      var fn = searchValue == undefined ? undefined : searchValue[REPLACE];\n      return fn !== undefined\n        ? fn.call(searchValue, O, replaceValue)\n        : $replace.call(String(O), searchValue, replaceValue);\n    },\n    // `RegExp.prototype[@@replace]` method\n    // https://tc39.github.io/ecma262/#sec-regexp.prototype-@@replace\n    function (regexp, replaceValue) {\n      var res = maybeCallNative($replace, regexp, this, replaceValue);\n      if (res.done) return res.value;\n\n      var rx = anObject(regexp);\n      var S = String(this);\n      var functionalReplace = typeof replaceValue === 'function';\n      if (!functionalReplace) replaceValue = String(replaceValue);\n      var global = rx.global;\n      if (global) {\n        var fullUnicode = rx.unicode;\n        rx.lastIndex = 0;\n      }\n      var results = [];\n      while (true) {\n        var result = regExpExec(rx, S);\n        if (result === null) break;\n        results.push(result);\n        if (!global) break;\n        var matchStr = String(result[0]);\n        if (matchStr === '') rx.lastIndex = advanceStringIndex(S, toLength(rx.lastIndex), fullUnicode);\n      }\n      var accumulatedResult = '';\n      var nextSourcePosition = 0;\n      for (var i = 0; i < results.length; i++) {\n        result = results[i];\n        var matched = String(result[0]);\n        var position = max(min(toInteger(result.index), S.length), 0);\n        var captures = [];\n        // NOTE: This is equivalent to\n        //   captures = result.slice(1).map(maybeToString)\n        // but for some reason `nativeSlice.call(result, 1, result.length)` (called in\n        // the slice polyfill when slicing native arrays) \"doesn't work\" in safari 9 and\n        // causes a crash (https://pastebin.com/N21QzeQA) when trying to debug it.\n        for (var j = 1; j < result.length; j++) captures.push(maybeToString(result[j]));\n        var namedCaptures = result.groups;\n        if (functionalReplace) {\n          var replacerArgs = [matched].concat(captures, position, S);\n          if (namedCaptures !== undefined) replacerArgs.push(namedCaptures);\n          var replacement = String(replaceValue.apply(undefined, replacerArgs));\n        } else {\n          replacement = getSubstitution(matched, S, position, captures, namedCaptures, replaceValue);\n        }\n        if (position >= nextSourcePosition) {\n          accumulatedResult += S.slice(nextSourcePosition, position) + replacement;\n          nextSourcePosition = position + matched.length;\n        }\n      }\n      return accumulatedResult + S.slice(nextSourcePosition);\n    }\n  ];\n\n    // https://tc39.github.io/ecma262/#sec-getsubstitution\n  function getSubstitution(matched, str, position, captures, namedCaptures, replacement) {\n    var tailPos = position + matched.length;\n    var m = captures.length;\n    var symbols = SUBSTITUTION_SYMBOLS_NO_NAMED;\n    if (namedCaptures !== undefined) {\n      namedCaptures = toObject(namedCaptures);\n      symbols = SUBSTITUTION_SYMBOLS;\n    }\n    return $replace.call(replacement, symbols, function (match, ch) {\n      var capture;\n      switch (ch.charAt(0)) {\n        case '$': return '$';\n        case '&': return matched;\n        case '`': return str.slice(0, position);\n        case \"'\": return str.slice(tailPos);\n        case '<':\n          capture = namedCaptures[ch.slice(1, -1)];\n          break;\n        default: // \\d\\d?\n          var n = +ch;\n          if (n === 0) return match;\n          if (n > m) {\n            var f = floor(n / 10);\n            if (f === 0) return match;\n            if (f <= m) return captures[f - 1] === undefined ? ch.charAt(1) : captures[f - 1] + ch.charAt(1);\n            return match;\n          }\n          capture = captures[n - 1];\n      }\n      return capture === undefined ? '' : capture;\n    });\n  }\n});\n\n\n//# sourceURL=webpack:///./node_modules/core-js/modules/es6.regexp.replace.js?");
+
+/***/ }),
+
+/***/ "./node_modules/core-js/modules/es6.string.starts-with.js":
+/*!****************************************************************!*\
+  !*** ./node_modules/core-js/modules/es6.string.starts-with.js ***!
+  \****************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+eval("// 21.1.3.18 String.prototype.startsWith(searchString [, position ])\n\nvar $export = __webpack_require__(/*! ./_export */ \"./node_modules/core-js/modules/_export.js\");\nvar toLength = __webpack_require__(/*! ./_to-length */ \"./node_modules/core-js/modules/_to-length.js\");\nvar context = __webpack_require__(/*! ./_string-context */ \"./node_modules/core-js/modules/_string-context.js\");\nvar STARTS_WITH = 'startsWith';\nvar $startsWith = ''[STARTS_WITH];\n\n$export($export.P + $export.F * __webpack_require__(/*! ./_fails-is-regexp */ \"./node_modules/core-js/modules/_fails-is-regexp.js\")(STARTS_WITH), 'String', {\n  startsWith: function startsWith(searchString /* , position = 0 */) {\n    var that = context(this, searchString, STARTS_WITH);\n    var index = toLength(Math.min(arguments.length > 1 ? arguments[1] : undefined, that.length));\n    var search = String(searchString);\n    return $startsWith\n      ? $startsWith.call(that, search, index)\n      : that.slice(index, index + search.length) === search;\n  }\n});\n\n\n//# sourceURL=webpack:///./node_modules/core-js/modules/es6.string.starts-with.js?");
 
 /***/ }),
 
@@ -1066,6 +2146,50 @@ eval("module.exports = {\n  \"align-content\": \"stretch\",\n  \"align-items\": 
 /***/ (function(module, exports) {
 
 eval("module.exports = {\n  \"azimuth\": \"center\",\n  \"border-collapse\": \"separate\",\n  \"border-spacing\": \"0\",\n  \"caption-side\": \"top\",\n  \"caret-color\": \"auto\",\n  \"color\": \"initial\",\n  \"cursor\": \"auto\",\n  \"empty-cells\": \"show\",\n  \"font-family\": \"initial\",\n  \"font-feature-settings\": \"normal\",\n  \"font-kerning\": \"auto\",\n  \"font-language-override\": \"normal\",\n  \"font-size\": \"medium\",\n  \"font-size-adjust\": \"none\",\n  \"font-stretch\": \"normal\",\n  \"font-style\": \"normal\",\n  \"font-synthesis\": \"weight style\",\n  \"font-variant\": \"normal\",\n  \"font-variant-alternates\": \"normal\",\n  \"font-variant-caps\": \"normal\",\n  \"font-variant-east-asian\": \"normal\",\n  \"font-variant-ligatures\": \"normal\",\n  \"font-variant-numeric\": \"normal\",\n  \"font-variant-position\": \"normal\",\n  \"font-weight\": \"normal\",\n  \"hyphens\": \"manual\",\n  \"image-orientation\": \"0deg\",\n  \"image-rendering\": \"auto\",\n  \"image-resolution\": \"1dppx\",\n  \"letter-spacing\": \"normal\",\n  \"line-height\": \"normal\",\n  \"list-style-image\": \"none\",\n  \"list-style-position\": \"outside\",\n  \"list-style-type\": \"disc\",\n  \"object-position\": \"50% 50%\",\n  \"orphans\": \"2\",\n  \"overflow-wrap\": \"normal\",\n  \"pointer-events\": \"auto\",\n  \"quotes\": \"initial\",\n  \"ruby-align\": \"space-around\",\n  \"ruby-merge\": \"separate\",\n  \"ruby-position\": \"over\",\n  \"tab-size\": \"8\",\n  \"text-align\": \"initial\",\n  \"text-align-last\": \"auto\",\n  \"text-combine-upright\": \"none\",\n  \"text-indent\": \"0\",\n  \"text-justify\": \"auto\",\n  \"text-orientation\": \"mixed\",\n  \"text-rendering\": \"auto\",\n  \"text-shadow\": \"none\",\n  \"text-transform\": \"none\",\n  \"text-underline-position\": \"auto\",\n  \"visibility\": \"visible\",\n  \"white-space\": \"normal\",\n  \"widows\": \"2\",\n  \"word-break\": \"normal\",\n  \"word-spacing\": \"normal\",\n  \"word-wrap\": \"normal\",\n  \"writing-mode\": \"horizontal-tb\",\n  \"-webkit-appearance\": \"none\",\n  \"-moz-appearance\": \"none\",\n  \"-ms-appearance\": \"none\",\n  \"appearance\": \"none\"\n};\n\n//# sourceURL=webpack:///./node_modules/css-initials/inherited.js?");
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./dist/index.custom-properties.css":
+/*!******************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader??ref--7-oneOf-3-1!./node_modules/postcss-loader/src??ref--7-oneOf-3-2!./dist/index.custom-properties.css ***!
+  \******************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("exports = module.exports = __webpack_require__(/*! ../node_modules/css-loader/lib/css-base.js */ \"./node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.i, \"\\n:root {\\n  --color-warning: rgb(250, 164, 26);\\n  --color-warning-contrast: rgb(87, 79, 74);\\n  --color-warm-gray: rgb(87, 79, 74);\\n  --color-black: rgb(0, 0, 0);\\n  --color-destructive: rgb(241, 93, 34);\\n  --color-suggested: rgb(72, 185, 199);\\n  --color-success: rgb(115, 196, 143);\\n  --color-green: rgb(115, 196, 143);\\n  --color-light-gray: rgb(242, 242, 242);\\n  --color-info: rgb(255, 206, 81);\\n  --color-orange: rgb(250, 164, 26);\\n  --color-error: rgb(241, 93, 34);\\n  --color-white: rgb(255, 255, 255);\\n  --color-yellow: rgb(255, 206, 81);\\n  --color-dark-gray: rgb(64, 64, 64);\\n  --color-medium-gray: rgb(166, 166, 166);\\n  --color-red: rgb(241, 93, 34);\\n  --color-error-contrast: rgb(255, 255, 255);\\n  --color-blue: rgb(72, 185, 199);\\n  --color-info-contrast: rgb(87, 79, 74);\\n  --color-purple: rgb(51, 10, 36);\\n  --color-success-contrast: rgb(255, 255, 255);\\n  --color-suggested-contrast: rgb(255, 255, 255);\\n  --color-destructive-contrast: rgb(255, 255, 255);\\n}\\n\", \"\"]);\n\n// exports\n\n\n//# sourceURL=webpack:///./dist/index.custom-properties.css?./node_modules/css-loader??ref--7-oneOf-3-1!./node_modules/postcss-loader/src??ref--7-oneOf-3-2");
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/assets/index.css":
+/*!******************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader??ref--7-oneOf-3-1!./node_modules/postcss-loader/src??ref--7-oneOf-3-2!./src/assets/index.css ***!
+  \******************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/lib/css-base.js */ \"./node_modules/css-loader/lib/css-base.js\")(false);\n// imports\nexports.i(__webpack_require__(/*! -!../../node_modules/css-loader??ref--7-oneOf-3-1!../../node_modules/postcss-loader/src??ref--7-oneOf-3-2!../../dist/index.custom-properties.css */ \"./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./dist/index.custom-properties.css\"), \"\");\n\n// module\nexports.push([module.i, \"/**\\n * src/assets/index.css\\n * This is a bunch of style information vue styleguide. It is _not_ styles for\\n * system76 websites.\\n */\\n\\nhtml,\\nbody,\\ndiv.rsg--root-1 {\\n  background-color: var(--color-white);\\n  color: var(--color-black);\\n  font-weight: 400;\\n  line-height: 1.5;\\n  -webkit-text-decoration-skip: edges;\\n          text-decoration-skip: edges;\\n}\\n\\nmain[class^=\\\"rsg--content\\\"] {\\n  display: block;\\n  padding: 0 4vw;\\n}\\n\\nheader[class^=\\\"rsg--header\\\"] > div[class^=\\\"rsg--wrapper\\\"],\\nsection > div[class^=\\\"rsg--wrapper\\\"] + article[class^=\\\"rsg--root\\\"],\\narticle[class^=\\\"rsg--root\\\"] div[class^=\\\"rsg--root\\\"] {\\n  margin: 0 !important;\\n}\\n\\nmain section section > div > div[class^=\\\"rsg--root\\\"] {\\n  display: -webkit-box;\\n  display: -ms-flexbox;\\n  display: flex;\\n  -webkit-box-orient: vertical;\\n  -webkit-box-direction: normal;\\n      -ms-flex-direction: column;\\n          flex-direction: column;\\n}\\n\\na[class^=\\\"rsg--link\\\"],\\na[class^=\\\"rsg--link\\\"]:hover,\\na[class^=\\\"rsg--link\\\"]:active,\\na[class^=\\\"rsg--link\\\"]:focus {\\n  color: var(--color-orange);\\n  cursor: pointer;\\n  text-decoration: none;\\n  -webkit-transition: color 200ms ease;\\n  transition: color 200ms ease;\\n}\\n\\nheader[class^=\\\"rsg--header\\\"] {\\n  margin: 0;\\n}\\n\\ndiv[class^=\\\"rsg--wrapper\\\"] > [class^=\\\"rsg--heading\\\"] a,\\ndiv[class^=\\\"rsg--wrapper\\\"] > [class^=\\\"rsg--heading\\\"] a:hover,\\ndiv[class^=\\\"rsg--wrapper\\\"] > [class^=\\\"rsg--heading\\\"] a:active,\\ndiv[class^=\\\"rsg--wrapper\\\"] > [class^=\\\"rsg--heading\\\"] a:focus {\\n  color: inherit;\\n  font-weight: normal;\\n  text-decoration: none;\\n}\\n\\nh1[class^=\\\"rsg--heading\\\"],\\nh2[class^=\\\"rsg--heading\\\"] {\\n  border-bottom: 1px solid var(--color-light-gray);\\n  color: inherit;\\n  display: block;\\n  font-size: 2rem;\\n  font-style: italic;\\n  font-weight: 300;\\n  line-height: 1.25;\\n  margin: 2rem -4vw;\\n  padding: 2rem 4vw;\\n  width: calc(100% + 8vw);\\n}\\n\\nh1[class^=\\\"rsg--heading\\\"]:first-child,\\nh2[class^=\\\"rsg--heading\\\"]:first-child {\\n  margin-top: 0;\\n}\\n\\nh3[class^=\\\"rsg--heading\\\"] {\\n  font-size: 1.4rem;\\n  font-weight: 400;\\n}\\n\\nh4[class^=\\\"rsg--heading\\\"] {\\n  font-size: 1.6rem;\\n  font-style: italic;\\n  font-weight: 700;\\n}\\n\\nh5[class^=\\\"rsg--heading\\\"] {\\n  font-size: 1.1rem;\\n}\\n\\nh6[class^=\\\"rsg--heading\\\"] {\\n  font-size: 1rem;\\n}\\n\\np[class^=\\\"rsg--para\\\"] {\\n  -webkit-hyphens: none;\\n      -ms-hyphens: none;\\n          hyphens: none;\\n  max-width: 65ch;\\n  word-break: keep-all;\\n  word-wrap: normal;\\n}\\n\\ndiv[class^=\\\"rsg--logo\\\"] {\\n  border: none;\\n}\\n\\nh1[class^=\\\"rsg--logo\\\"] {\\n  color: var(--color-white);\\n  font-size: 1.2rem;\\n  padding: 1rem 0;\\n  text-align: center;\\n}\\n\\ndiv[class^=\\\"rsg--search\\\"] input {\\n  background-color: var(--color-white);\\n  border-radius: 3px;\\n  border: 1px solid var(--color-black);\\n  -webkit-box-shadow: inset 0 1px 4px color-mod(var(--black) a(0.06));\\n          box-shadow: inset 0 1px 4px color-mod(var(--black) a(0.06));\\n  color: var(--color-black);\\n  display: block;\\n  font-family: inherit;\\n  font-size: 1rem;\\n  height: 2.4rem;\\n  line-height: 1.5;\\n  margin: 0;\\n  padding: 0.5rem;\\n  -webkit-transition: border-color 200ms ease;\\n  transition: border-color 200ms ease;\\n  vertical-align: middle;\\n  width: 100%;\\n}\\n\\ndiv[class^=\\\"rsg--search\\\"] input:hover {\\n  border-color: #faa41a;\\n}\\n\\ndiv[class^=\\\"rsg--search\\\"] input:focus,\\ndiv[class^=\\\"rsg--search\\\"] input:active {\\n  border-color: #faa41a;\\n  -webkit-box-shadow: 0 0 8px rgba(250, 164, 26, 0.7), 0 0 1px rgba(250, 164, 26, 0.7);\\n          box-shadow: 0 0 8px rgba(250, 164, 26, 0.7), 0 0 1px rgba(250, 164, 26, 0.7);\\n  outline: none;\\n}\\n\\ndiv[class^=\\\"rsg--search\\\"] input:focus::-webkit-textfield-decoration-container {\\n  display: none !important;\\n}\\n\\ndiv[class^=\\\"rsg--search\\\"] input:focus::-webkit-contacts-auto-fill-button {\\n  display: none !important;\\n}\\n\\ndiv[class^=\\\"rsg--search\\\"] input::-webkit-input-placeholder {\\n  color: rgba(blue, 0.35);\\n}\\n\\ndiv[class^=\\\"rsg--search\\\"] input:-ms-input-placeholder {\\n  color: var(--color-medium-gray);\\n}\\n\\ndiv[class^=\\\"rsg--search\\\"] input::-moz-placeholder {\\n  color: var(--color-medium-gray);\\n  opacity: 1;\\n}\\n\\ndiv[class^=\\\"rsg--sidebar\\\"] {\\n  background-color: #574f4a;\\n  border: 0;\\n  color: var(--color-white);\\n}\\n\\ndiv[class^=\\\"rsg--sidebar\\\"] ul[class^=\\\"rsg--list\\\"] {\\n  margin: 0;\\n  padding: 0;\\n}\\n\\ndiv[class^=\\\"rsg--sidebar\\\"] ul[class^=\\\"rsg--list\\\"] li[class^=\\\"rsg--item\\\"] {\\n  display: block;\\n  margin: 0;\\n  padding: 0.5rem 1.5rem;\\n}\\n\\ndiv[class^=\\\"rsg--sidebar\\\"] ul[class^=\\\"rsg--list\\\"] li[class^=\\\"rsg--item\\\"] a[class^=\\\"rsg--link\\\"] {\\n  color: var(--color-white);\\n}\\n\\ndiv[class^=\\\"rsg--preview\\\"] {\\n  padding: 1rem;\\n  background-color: tint(gray, 90%);\\n  border: 1px solid tint(gray, 50%);\\n  -webkit-box-shadow: inset 0 0 1rem rgba(black, 0.05);\\n          box-shadow: inset 0 0 1rem rgba(black, 0.05);\\n  margin: 1rem 0 0;\\n  border-radius: 0;\\n  display: block;\\n  width: 100%;\\n  border-top-left-radius: 3px;\\n  border-top-right-radius: 3px;\\n}\\n\\nspan[class^=\\\"rsg--type\\\"],\\ncode[class^=\\\"rsg--code\\\"] {\\n  color: pink;\\n}\\n\\nspan[class^=\\\"rsg--name\\\"] code[class^=\\\"rsg--code\\\"],\\ncode.name {\\n  font-weight: bold;\\n  color: shade(pink, 50%);\\n}\\n\\nspan[class^=\\\"rsg--type\\\"] code[class^=\\\"rsg--code\\\"],\\ncode.type {\\n  background: tint(gray, 75%);\\n  color: shade(gray, 20%);\\n  padding: 1rem;\\n  border-radius: 3px;\\n}\\n\\nheader[class^=\\\"rsg--header\\\"] {\\n  -webkit-box-ordinal-group: 3;\\n      -ms-flex-order: 2;\\n          order: 2;\\n}\\n\\ndiv[class^=\\\"rsg--docs\\\"],\\narticle[class^=\\\"rsg--root\\\"],\\nbutton[class^=\\\"rsg--button\\\"] {\\n  -webkit-box-ordinal-group: 4;\\n      -ms-flex-order: 3;\\n          order: 3;\\n}\\n\\ndiv[class^=\\\"rsg--root\\\"] div[class^=\\\"rsg--tabs\\\"] {\\n  -webkit-box-ordinal-group: 5;\\n      -ms-flex-order: 4;\\n          order: 4;\\n}\\n\\ntr {\\n  -webkit-transition: background-color 0.1s ease;\\n  transition: background-color 0.1s ease;\\n}\\n\\ntr:hover {\\n  background: rgba(blue, 0.3);\\n}\\n\\ntable[class^=\\\"rsg--table\\\"] {\\n  border-collapse: collapse;\\n  border-spacing: 0;\\n  width: 100%;\\n}\\n\\ntable[class^=\\\"rsg--table\\\"] th {\\n  padding: 1rem;\\n  font-size: 1rem;\\n  font-weight: bold;\\n  text-transform: uppercase;\\n  letter-spacing: 1px;\\n  border-radius: 0;\\n  background: gray;\\n  color: tint(gray, 10%);\\n  text-align: left;\\n}\\n\\ntable[class^=\\\"rsg--table\\\"] th[class^=\\\"rsg--cellHeading\\\"],\\ntable[class^=\\\"rsg--table\\\"] td {\\n  padding: 1rem;\\n  background: transparent;\\n}\\n\\ntable[class^=\\\"rsg--table\\\"] td {\\n  font-size: 1rem;\\n  padding: 1rem;\\n}\\n\\ntable[class^=\\\"rsg--table\\\"] td:first-child {\\n  font-weight: bold;\\n  white-space: nowrap;\\n}\\n\\ntable[class^=\\\"rsg--table\\\"] tr {\\n  border-bottom: 1px solid tint(blue, 50%);\\n}\\n\\ntable[class^=\\\"rsg--table\\\"] tbody tr:last-child {\\n  border-bottom: 0;\\n}\\n\\ntable[class^=\\\"rsg--table\\\"] thead[class^=\\\"rsg--thead\\\"] th:first-child {\\n  border-top-left-radius: 3px;\\n  border-bottom-left-radius: 3px;\\n}\\n\\ntable[class^=\\\"rsg--table\\\"] thead[class^=\\\"rsg--thead\\\"] th:last-child {\\n  border-top-right-radius: 3px;\\n  border-bottom-right-radius: 3px;\\n}\\n\\ndiv[class^=\\\"rsg--tabButtons\\\"],\\ndiv[class^=\\\"rsg--controls\\\"],\\ndiv[class^=\\\"rsg--pathline\\\"],\\nfooter[class^=\\\"rsg--footer\\\"],\\ndiv[class^=\\\"rsg--toolbar\\\"] {\\n  display: none !important;\\n}\\n\\n.hide-private,\\n.hide-private + div,\\na[href=\\\"#private-components\\\"],\\na[href=\\\"#private-components\\\"] + ul {\\n  display: none !important;\\n}\\n\", \"\"]);\n\n// exports\n\n\n//# sourceURL=webpack:///./src/assets/index.css?./node_modules/css-loader??ref--7-oneOf-3-1!./node_modules/postcss-loader/src??ref--7-oneOf-3-2");
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/components/Color.vue?vue&type=style&index=0&id=6dd55b60&scoped=true&lang=css&":
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader??ref--7-oneOf-1-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-oneOf-1-2!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/Color.vue?vue&type=style&index=0&id=6dd55b60&scoped=true&lang=css& ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/lib/css-base.js */ \"./node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.i, \"\\n.color[data-v-6dd55b60] {\\n  border-radius: 3px;\\n  border: 1px solid transparent;\\n  display: grid;\\n  grid-template-columns: 1fr;\\n  grid-template-rows: 1fr 1fr;\\n  overflow: hidden;\\n}\\n.color__description[data-v-6dd55b60] {\\n  padding: 1rem;\\n}\\n.color__name[data-v-6dd55b60] {\\n  font-weight: 600;\\n}\\n.color__values[data-v-6dd55b60] {\\n  margin: 0;\\n  padding: 0;\\n}\\n.color__value[data-v-6dd55b60] {\\n  list-style: none;\\n  margin: 0.4rem 0;\\n}\\n\", \"\"]);\n\n// exports\n\n\n//# sourceURL=webpack:///./src/components/Color.vue?./node_modules/css-loader??ref--7-oneOf-1-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-oneOf-1-2!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options");
+
+/***/ }),
+
+/***/ "./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/components/Colors.vue?vue&type=style&index=0&id=4bde07ba&scoped=true&lang=css&":
+/*!*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader??ref--7-oneOf-1-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-oneOf-1-2!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/Colors.vue?vue&type=style&index=0&id=4bde07ba&scoped=true&lang=css& ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/lib/css-base.js */ \"./node_modules/css-loader/lib/css-base.js\")(false);\n// imports\n\n\n// module\nexports.push([module.i, \"\\n.colors[data-v-4bde07ba] {\\n  display: grid;\\n  grid-auto-rows: 1fr;\\n  grid-gap: 1rem;\\n  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));\\n}\\n\", \"\"]);\n\n// exports\n\n\n//# sourceURL=webpack:///./src/components/Colors.vue?./node_modules/css-loader??ref--7-oneOf-1-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-oneOf-1-2!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options");
 
 /***/ }),
 
@@ -2025,6 +3149,17 @@ eval("/**\n * Appends the elements of `values` to `array`.\n *\n * @private\n * 
 
 /***/ }),
 
+/***/ "./node_modules/lodash/_arrayReduce.js":
+/*!*********************************************!*\
+  !*** ./node_modules/lodash/_arrayReduce.js ***!
+  \*********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("/**\n * A specialized version of `_.reduce` for arrays without support for\n * iteratee shorthands.\n *\n * @private\n * @param {Array} [array] The array to iterate over.\n * @param {Function} iteratee The function invoked per iteration.\n * @param {*} [accumulator] The initial value.\n * @param {boolean} [initAccum] Specify using the first element of `array` as\n *  the initial value.\n * @returns {*} Returns the accumulated value.\n */\nfunction arrayReduce(array, iteratee, accumulator, initAccum) {\n  var index = -1,\n      length = array == null ? 0 : array.length;\n\n  if (initAccum && length) {\n    accumulator = array[++index];\n  }\n  while (++index < length) {\n    accumulator = iteratee(accumulator, array[index], index, array);\n  }\n  return accumulator;\n}\n\nmodule.exports = arrayReduce;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/_arrayReduce.js?");
+
+/***/ }),
+
 /***/ "./node_modules/lodash/_arraySome.js":
 /*!*******************************************!*\
   !*** ./node_modules/lodash/_arraySome.js ***!
@@ -2033,6 +3168,28 @@ eval("/**\n * Appends the elements of `values` to `array`.\n *\n * @private\n * 
 /***/ (function(module, exports) {
 
 eval("/**\n * A specialized version of `_.some` for arrays without support for iteratee\n * shorthands.\n *\n * @private\n * @param {Array} [array] The array to iterate over.\n * @param {Function} predicate The function invoked per iteration.\n * @returns {boolean} Returns `true` if any element passes the predicate check,\n *  else `false`.\n */\nfunction arraySome(array, predicate) {\n  var index = -1,\n      length = array == null ? 0 : array.length;\n\n  while (++index < length) {\n    if (predicate(array[index], index, array)) {\n      return true;\n    }\n  }\n  return false;\n}\n\nmodule.exports = arraySome;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/_arraySome.js?");
+
+/***/ }),
+
+/***/ "./node_modules/lodash/_asciiToArray.js":
+/*!**********************************************!*\
+  !*** ./node_modules/lodash/_asciiToArray.js ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("/**\n * Converts an ASCII `string` to an array.\n *\n * @private\n * @param {string} string The string to convert.\n * @returns {Array} Returns the converted array.\n */\nfunction asciiToArray(string) {\n  return string.split('');\n}\n\nmodule.exports = asciiToArray;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/_asciiToArray.js?");
+
+/***/ }),
+
+/***/ "./node_modules/lodash/_asciiWords.js":
+/*!********************************************!*\
+  !*** ./node_modules/lodash/_asciiWords.js ***!
+  \********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("/** Used to match words composed of alphanumeric characters. */\nvar reAsciiWord = /[^\\x00-\\x2f\\x3a-\\x40\\x5b-\\x60\\x7b-\\x7f]+/g;\n\n/**\n * Splits an ASCII `string` into an array of its words.\n *\n * @private\n * @param {string} The string to inspect.\n * @returns {Array} Returns the words of `string`.\n */\nfunction asciiWords(string) {\n  return string.match(reAsciiWord) || [];\n}\n\nmodule.exports = asciiWords;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/_asciiWords.js?");
 
 /***/ }),
 
@@ -2366,6 +3523,17 @@ eval("var baseGet = __webpack_require__(/*! ./_baseGet */ \"./node_modules/lodas
 
 /***/ }),
 
+/***/ "./node_modules/lodash/_basePropertyOf.js":
+/*!************************************************!*\
+  !*** ./node_modules/lodash/_basePropertyOf.js ***!
+  \************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("/**\n * The base implementation of `_.propertyOf` without support for deep paths.\n *\n * @private\n * @param {Object} object The object to query.\n * @returns {Function} Returns the new accessor function.\n */\nfunction basePropertyOf(object) {\n  return function(key) {\n    return object == null ? undefined : object[key];\n  };\n}\n\nmodule.exports = basePropertyOf;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/_basePropertyOf.js?");
+
+/***/ }),
+
 /***/ "./node_modules/lodash/_baseRest.js":
 /*!******************************************!*\
   !*** ./node_modules/lodash/_baseRest.js ***!
@@ -2396,6 +3564,17 @@ eval("var assignValue = __webpack_require__(/*! ./_assignValue */ \"./node_modul
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("var constant = __webpack_require__(/*! ./constant */ \"./node_modules/lodash/constant.js\"),\n    defineProperty = __webpack_require__(/*! ./_defineProperty */ \"./node_modules/lodash/_defineProperty.js\"),\n    identity = __webpack_require__(/*! ./identity */ \"./node_modules/lodash/identity.js\");\n\n/**\n * The base implementation of `setToString` without support for hot loop shorting.\n *\n * @private\n * @param {Function} func The function to modify.\n * @param {Function} string The `toString` result.\n * @returns {Function} Returns `func`.\n */\nvar baseSetToString = !defineProperty ? identity : function(func, string) {\n  return defineProperty(func, 'toString', {\n    'configurable': true,\n    'enumerable': false,\n    'value': constant(string),\n    'writable': true\n  });\n};\n\nmodule.exports = baseSetToString;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/_baseSetToString.js?");
+
+/***/ }),
+
+/***/ "./node_modules/lodash/_baseSlice.js":
+/*!*******************************************!*\
+  !*** ./node_modules/lodash/_baseSlice.js ***!
+  \*******************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("/**\n * The base implementation of `_.slice` without an iteratee call guard.\n *\n * @private\n * @param {Array} array The array to slice.\n * @param {number} [start=0] The start position.\n * @param {number} [end=array.length] The end position.\n * @returns {Array} Returns the slice of `array`.\n */\nfunction baseSlice(array, start, end) {\n  var index = -1,\n      length = array.length;\n\n  if (start < 0) {\n    start = -start > length ? 0 : (length + start);\n  }\n  end = end > length ? length : end;\n  if (end < 0) {\n    end += length;\n  }\n  length = start > end ? 0 : ((end - start) >>> 0);\n  start >>>= 0;\n\n  var result = Array(length);\n  while (++index < length) {\n    result[index] = array[index + start];\n  }\n  return result;\n}\n\nmodule.exports = baseSlice;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/_baseSlice.js?");
 
 /***/ }),
 
@@ -2451,6 +3630,17 @@ eval("/**\n * Checks if a `cache` value for `key` exists.\n *\n * @private\n * @
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("var isArray = __webpack_require__(/*! ./isArray */ \"./node_modules/lodash/isArray.js\"),\n    isKey = __webpack_require__(/*! ./_isKey */ \"./node_modules/lodash/_isKey.js\"),\n    stringToPath = __webpack_require__(/*! ./_stringToPath */ \"./node_modules/lodash/_stringToPath.js\"),\n    toString = __webpack_require__(/*! ./toString */ \"./node_modules/lodash/toString.js\");\n\n/**\n * Casts `value` to a path array if it's not one.\n *\n * @private\n * @param {*} value The value to inspect.\n * @param {Object} [object] The object to query keys on.\n * @returns {Array} Returns the cast property path array.\n */\nfunction castPath(value, object) {\n  if (isArray(value)) {\n    return value;\n  }\n  return isKey(value, object) ? [value] : stringToPath(toString(value));\n}\n\nmodule.exports = castPath;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/_castPath.js?");
+
+/***/ }),
+
+/***/ "./node_modules/lodash/_castSlice.js":
+/*!*******************************************!*\
+  !*** ./node_modules/lodash/_castSlice.js ***!
+  \*******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var baseSlice = __webpack_require__(/*! ./_baseSlice */ \"./node_modules/lodash/_baseSlice.js\");\n\n/**\n * Casts `array` to a slice if it's needed.\n *\n * @private\n * @param {Array} array The array to inspect.\n * @param {number} start The start position.\n * @param {number} [end=array.length] The end position.\n * @returns {Array} Returns the cast slice.\n */\nfunction castSlice(array, start, end) {\n  var length = array.length;\n  end = end === undefined ? length : end;\n  return (!start && end >= length) ? array : baseSlice(array, start, end);\n}\n\nmodule.exports = castSlice;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/_castSlice.js?");
 
 /***/ }),
 
@@ -2553,6 +3743,28 @@ eval("/**\n * Creates a base function for methods like `_.forIn` and `_.forOwn`.
 
 /***/ }),
 
+/***/ "./node_modules/lodash/_createCaseFirst.js":
+/*!*************************************************!*\
+  !*** ./node_modules/lodash/_createCaseFirst.js ***!
+  \*************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var castSlice = __webpack_require__(/*! ./_castSlice */ \"./node_modules/lodash/_castSlice.js\"),\n    hasUnicode = __webpack_require__(/*! ./_hasUnicode */ \"./node_modules/lodash/_hasUnicode.js\"),\n    stringToArray = __webpack_require__(/*! ./_stringToArray */ \"./node_modules/lodash/_stringToArray.js\"),\n    toString = __webpack_require__(/*! ./toString */ \"./node_modules/lodash/toString.js\");\n\n/**\n * Creates a function like `_.lowerFirst`.\n *\n * @private\n * @param {string} methodName The name of the `String` case method to use.\n * @returns {Function} Returns the new case function.\n */\nfunction createCaseFirst(methodName) {\n  return function(string) {\n    string = toString(string);\n\n    var strSymbols = hasUnicode(string)\n      ? stringToArray(string)\n      : undefined;\n\n    var chr = strSymbols\n      ? strSymbols[0]\n      : string.charAt(0);\n\n    var trailing = strSymbols\n      ? castSlice(strSymbols, 1).join('')\n      : string.slice(1);\n\n    return chr[methodName]() + trailing;\n  };\n}\n\nmodule.exports = createCaseFirst;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/_createCaseFirst.js?");
+
+/***/ }),
+
+/***/ "./node_modules/lodash/_createCompounder.js":
+/*!**************************************************!*\
+  !*** ./node_modules/lodash/_createCompounder.js ***!
+  \**************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var arrayReduce = __webpack_require__(/*! ./_arrayReduce */ \"./node_modules/lodash/_arrayReduce.js\"),\n    deburr = __webpack_require__(/*! ./deburr */ \"./node_modules/lodash/deburr.js\"),\n    words = __webpack_require__(/*! ./words */ \"./node_modules/lodash/words.js\");\n\n/** Used to compose unicode capture groups. */\nvar rsApos = \"['\\u2019]\";\n\n/** Used to match apostrophes. */\nvar reApos = RegExp(rsApos, 'g');\n\n/**\n * Creates a function like `_.camelCase`.\n *\n * @private\n * @param {Function} callback The function to combine each word.\n * @returns {Function} Returns the new compounder function.\n */\nfunction createCompounder(callback) {\n  return function(string) {\n    return arrayReduce(words(deburr(string).replace(reApos, '')), callback, '');\n  };\n}\n\nmodule.exports = createCompounder;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/_createCompounder.js?");
+
+/***/ }),
+
 /***/ "./node_modules/lodash/_createFind.js":
 /*!********************************************!*\
   !*** ./node_modules/lodash/_createFind.js ***!
@@ -2561,6 +3773,17 @@ eval("/**\n * Creates a base function for methods like `_.forIn` and `_.forOwn`.
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("var baseIteratee = __webpack_require__(/*! ./_baseIteratee */ \"./node_modules/lodash/_baseIteratee.js\"),\n    isArrayLike = __webpack_require__(/*! ./isArrayLike */ \"./node_modules/lodash/isArrayLike.js\"),\n    keys = __webpack_require__(/*! ./keys */ \"./node_modules/lodash/keys.js\");\n\n/**\n * Creates a `_.find` or `_.findLast` function.\n *\n * @private\n * @param {Function} findIndexFunc The function to find the collection index.\n * @returns {Function} Returns the new find function.\n */\nfunction createFind(findIndexFunc) {\n  return function(collection, predicate, fromIndex) {\n    var iterable = Object(collection);\n    if (!isArrayLike(collection)) {\n      var iteratee = baseIteratee(predicate, 3);\n      collection = keys(collection);\n      predicate = function(key) { return iteratee(iterable[key], key, iterable); };\n    }\n    var index = findIndexFunc(collection, predicate, fromIndex);\n    return index > -1 ? iterable[iteratee ? collection[index] : index] : undefined;\n  };\n}\n\nmodule.exports = createFind;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/_createFind.js?");
+
+/***/ }),
+
+/***/ "./node_modules/lodash/_deburrLetter.js":
+/*!**********************************************!*\
+  !*** ./node_modules/lodash/_deburrLetter.js ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var basePropertyOf = __webpack_require__(/*! ./_basePropertyOf */ \"./node_modules/lodash/_basePropertyOf.js\");\n\n/** Used to map Latin Unicode letters to basic Latin letters. */\nvar deburredLetters = {\n  // Latin-1 Supplement block.\n  '\\xc0': 'A',  '\\xc1': 'A', '\\xc2': 'A', '\\xc3': 'A', '\\xc4': 'A', '\\xc5': 'A',\n  '\\xe0': 'a',  '\\xe1': 'a', '\\xe2': 'a', '\\xe3': 'a', '\\xe4': 'a', '\\xe5': 'a',\n  '\\xc7': 'C',  '\\xe7': 'c',\n  '\\xd0': 'D',  '\\xf0': 'd',\n  '\\xc8': 'E',  '\\xc9': 'E', '\\xca': 'E', '\\xcb': 'E',\n  '\\xe8': 'e',  '\\xe9': 'e', '\\xea': 'e', '\\xeb': 'e',\n  '\\xcc': 'I',  '\\xcd': 'I', '\\xce': 'I', '\\xcf': 'I',\n  '\\xec': 'i',  '\\xed': 'i', '\\xee': 'i', '\\xef': 'i',\n  '\\xd1': 'N',  '\\xf1': 'n',\n  '\\xd2': 'O',  '\\xd3': 'O', '\\xd4': 'O', '\\xd5': 'O', '\\xd6': 'O', '\\xd8': 'O',\n  '\\xf2': 'o',  '\\xf3': 'o', '\\xf4': 'o', '\\xf5': 'o', '\\xf6': 'o', '\\xf8': 'o',\n  '\\xd9': 'U',  '\\xda': 'U', '\\xdb': 'U', '\\xdc': 'U',\n  '\\xf9': 'u',  '\\xfa': 'u', '\\xfb': 'u', '\\xfc': 'u',\n  '\\xdd': 'Y',  '\\xfd': 'y', '\\xff': 'y',\n  '\\xc6': 'Ae', '\\xe6': 'ae',\n  '\\xde': 'Th', '\\xfe': 'th',\n  '\\xdf': 'ss',\n  // Latin Extended-A block.\n  '\\u0100': 'A',  '\\u0102': 'A', '\\u0104': 'A',\n  '\\u0101': 'a',  '\\u0103': 'a', '\\u0105': 'a',\n  '\\u0106': 'C',  '\\u0108': 'C', '\\u010a': 'C', '\\u010c': 'C',\n  '\\u0107': 'c',  '\\u0109': 'c', '\\u010b': 'c', '\\u010d': 'c',\n  '\\u010e': 'D',  '\\u0110': 'D', '\\u010f': 'd', '\\u0111': 'd',\n  '\\u0112': 'E',  '\\u0114': 'E', '\\u0116': 'E', '\\u0118': 'E', '\\u011a': 'E',\n  '\\u0113': 'e',  '\\u0115': 'e', '\\u0117': 'e', '\\u0119': 'e', '\\u011b': 'e',\n  '\\u011c': 'G',  '\\u011e': 'G', '\\u0120': 'G', '\\u0122': 'G',\n  '\\u011d': 'g',  '\\u011f': 'g', '\\u0121': 'g', '\\u0123': 'g',\n  '\\u0124': 'H',  '\\u0126': 'H', '\\u0125': 'h', '\\u0127': 'h',\n  '\\u0128': 'I',  '\\u012a': 'I', '\\u012c': 'I', '\\u012e': 'I', '\\u0130': 'I',\n  '\\u0129': 'i',  '\\u012b': 'i', '\\u012d': 'i', '\\u012f': 'i', '\\u0131': 'i',\n  '\\u0134': 'J',  '\\u0135': 'j',\n  '\\u0136': 'K',  '\\u0137': 'k', '\\u0138': 'k',\n  '\\u0139': 'L',  '\\u013b': 'L', '\\u013d': 'L', '\\u013f': 'L', '\\u0141': 'L',\n  '\\u013a': 'l',  '\\u013c': 'l', '\\u013e': 'l', '\\u0140': 'l', '\\u0142': 'l',\n  '\\u0143': 'N',  '\\u0145': 'N', '\\u0147': 'N', '\\u014a': 'N',\n  '\\u0144': 'n',  '\\u0146': 'n', '\\u0148': 'n', '\\u014b': 'n',\n  '\\u014c': 'O',  '\\u014e': 'O', '\\u0150': 'O',\n  '\\u014d': 'o',  '\\u014f': 'o', '\\u0151': 'o',\n  '\\u0154': 'R',  '\\u0156': 'R', '\\u0158': 'R',\n  '\\u0155': 'r',  '\\u0157': 'r', '\\u0159': 'r',\n  '\\u015a': 'S',  '\\u015c': 'S', '\\u015e': 'S', '\\u0160': 'S',\n  '\\u015b': 's',  '\\u015d': 's', '\\u015f': 's', '\\u0161': 's',\n  '\\u0162': 'T',  '\\u0164': 'T', '\\u0166': 'T',\n  '\\u0163': 't',  '\\u0165': 't', '\\u0167': 't',\n  '\\u0168': 'U',  '\\u016a': 'U', '\\u016c': 'U', '\\u016e': 'U', '\\u0170': 'U', '\\u0172': 'U',\n  '\\u0169': 'u',  '\\u016b': 'u', '\\u016d': 'u', '\\u016f': 'u', '\\u0171': 'u', '\\u0173': 'u',\n  '\\u0174': 'W',  '\\u0175': 'w',\n  '\\u0176': 'Y',  '\\u0177': 'y', '\\u0178': 'Y',\n  '\\u0179': 'Z',  '\\u017b': 'Z', '\\u017d': 'Z',\n  '\\u017a': 'z',  '\\u017c': 'z', '\\u017e': 'z',\n  '\\u0132': 'IJ', '\\u0133': 'ij',\n  '\\u0152': 'Oe', '\\u0153': 'oe',\n  '\\u0149': \"'n\", '\\u017f': 's'\n};\n\n/**\n * Used by `_.deburr` to convert Latin-1 Supplement and Latin Extended-A\n * letters to basic Latin letters.\n *\n * @private\n * @param {string} letter The matched letter to deburr.\n * @returns {string} Returns the deburred letter.\n */\nvar deburrLetter = basePropertyOf(deburredLetters);\n\nmodule.exports = deburrLetter;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/_deburrLetter.js?");
 
 /***/ }),
 
@@ -2748,6 +3971,28 @@ eval("/**\n * Gets the value at `key` of `object`.\n *\n * @private\n * @param {
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("var castPath = __webpack_require__(/*! ./_castPath */ \"./node_modules/lodash/_castPath.js\"),\n    isArguments = __webpack_require__(/*! ./isArguments */ \"./node_modules/lodash/isArguments.js\"),\n    isArray = __webpack_require__(/*! ./isArray */ \"./node_modules/lodash/isArray.js\"),\n    isIndex = __webpack_require__(/*! ./_isIndex */ \"./node_modules/lodash/_isIndex.js\"),\n    isLength = __webpack_require__(/*! ./isLength */ \"./node_modules/lodash/isLength.js\"),\n    toKey = __webpack_require__(/*! ./_toKey */ \"./node_modules/lodash/_toKey.js\");\n\n/**\n * Checks if `path` exists on `object`.\n *\n * @private\n * @param {Object} object The object to query.\n * @param {Array|string} path The path to check.\n * @param {Function} hasFunc The function to check properties.\n * @returns {boolean} Returns `true` if `path` exists, else `false`.\n */\nfunction hasPath(object, path, hasFunc) {\n  path = castPath(path, object);\n\n  var index = -1,\n      length = path.length,\n      result = false;\n\n  while (++index < length) {\n    var key = toKey(path[index]);\n    if (!(result = object != null && hasFunc(object, key))) {\n      break;\n    }\n    object = object[key];\n  }\n  if (result || ++index != length) {\n    return result;\n  }\n  length = object == null ? 0 : object.length;\n  return !!length && isLength(length) && isIndex(key, length) &&\n    (isArray(object) || isArguments(object));\n}\n\nmodule.exports = hasPath;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/_hasPath.js?");
+
+/***/ }),
+
+/***/ "./node_modules/lodash/_hasUnicode.js":
+/*!********************************************!*\
+  !*** ./node_modules/lodash/_hasUnicode.js ***!
+  \********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("/** Used to compose unicode character classes. */\nvar rsAstralRange = '\\\\ud800-\\\\udfff',\n    rsComboMarksRange = '\\\\u0300-\\\\u036f',\n    reComboHalfMarksRange = '\\\\ufe20-\\\\ufe2f',\n    rsComboSymbolsRange = '\\\\u20d0-\\\\u20ff',\n    rsComboRange = rsComboMarksRange + reComboHalfMarksRange + rsComboSymbolsRange,\n    rsVarRange = '\\\\ufe0e\\\\ufe0f';\n\n/** Used to compose unicode capture groups. */\nvar rsZWJ = '\\\\u200d';\n\n/** Used to detect strings with [zero-width joiners or code points from the astral planes](http://eev.ee/blog/2015/09/12/dark-corners-of-unicode/). */\nvar reHasUnicode = RegExp('[' + rsZWJ + rsAstralRange  + rsComboRange + rsVarRange + ']');\n\n/**\n * Checks if `string` contains Unicode symbols.\n *\n * @private\n * @param {string} string The string to inspect.\n * @returns {boolean} Returns `true` if a symbol is found, else `false`.\n */\nfunction hasUnicode(string) {\n  return reHasUnicode.test(string);\n}\n\nmodule.exports = hasUnicode;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/_hasUnicode.js?");
+
+/***/ }),
+
+/***/ "./node_modules/lodash/_hasUnicodeWord.js":
+/*!************************************************!*\
+  !*** ./node_modules/lodash/_hasUnicodeWord.js ***!
+  \************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("/** Used to detect strings that need a more robust regexp to match words. */\nvar reHasUnicodeWord = /[a-z][A-Z]|[A-Z]{2}[a-z]|[0-9][a-zA-Z]|[a-zA-Z][0-9]|[^a-zA-Z0-9 ]/;\n\n/**\n * Checks if `string` contains a word composed of Unicode symbols.\n *\n * @private\n * @param {string} string The string to inspect.\n * @returns {boolean} Returns `true` if a word is found, else `false`.\n */\nfunction hasUnicodeWord(string) {\n  return reHasUnicodeWord.test(string);\n}\n\nmodule.exports = hasUnicodeWord;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/_hasUnicodeWord.js?");
 
 /***/ }),
 
@@ -3246,6 +4491,17 @@ eval("var ListCache = __webpack_require__(/*! ./_ListCache */ \"./node_modules/l
 
 /***/ }),
 
+/***/ "./node_modules/lodash/_stringToArray.js":
+/*!***********************************************!*\
+  !*** ./node_modules/lodash/_stringToArray.js ***!
+  \***********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var asciiToArray = __webpack_require__(/*! ./_asciiToArray */ \"./node_modules/lodash/_asciiToArray.js\"),\n    hasUnicode = __webpack_require__(/*! ./_hasUnicode */ \"./node_modules/lodash/_hasUnicode.js\"),\n    unicodeToArray = __webpack_require__(/*! ./_unicodeToArray */ \"./node_modules/lodash/_unicodeToArray.js\");\n\n/**\n * Converts `string` to an array.\n *\n * @private\n * @param {string} string The string to convert.\n * @returns {Array} Returns the converted array.\n */\nfunction stringToArray(string) {\n  return hasUnicode(string)\n    ? unicodeToArray(string)\n    : asciiToArray(string);\n}\n\nmodule.exports = stringToArray;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/_stringToArray.js?");
+
+/***/ }),
+
 /***/ "./node_modules/lodash/_stringToPath.js":
 /*!**********************************************!*\
   !*** ./node_modules/lodash/_stringToPath.js ***!
@@ -3279,6 +4535,28 @@ eval("/** Used for built-in method references. */\nvar funcProto = Function.prot
 
 /***/ }),
 
+/***/ "./node_modules/lodash/_unicodeToArray.js":
+/*!************************************************!*\
+  !*** ./node_modules/lodash/_unicodeToArray.js ***!
+  \************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("/** Used to compose unicode character classes. */\nvar rsAstralRange = '\\\\ud800-\\\\udfff',\n    rsComboMarksRange = '\\\\u0300-\\\\u036f',\n    reComboHalfMarksRange = '\\\\ufe20-\\\\ufe2f',\n    rsComboSymbolsRange = '\\\\u20d0-\\\\u20ff',\n    rsComboRange = rsComboMarksRange + reComboHalfMarksRange + rsComboSymbolsRange,\n    rsVarRange = '\\\\ufe0e\\\\ufe0f';\n\n/** Used to compose unicode capture groups. */\nvar rsAstral = '[' + rsAstralRange + ']',\n    rsCombo = '[' + rsComboRange + ']',\n    rsFitz = '\\\\ud83c[\\\\udffb-\\\\udfff]',\n    rsModifier = '(?:' + rsCombo + '|' + rsFitz + ')',\n    rsNonAstral = '[^' + rsAstralRange + ']',\n    rsRegional = '(?:\\\\ud83c[\\\\udde6-\\\\uddff]){2}',\n    rsSurrPair = '[\\\\ud800-\\\\udbff][\\\\udc00-\\\\udfff]',\n    rsZWJ = '\\\\u200d';\n\n/** Used to compose unicode regexes. */\nvar reOptMod = rsModifier + '?',\n    rsOptVar = '[' + rsVarRange + ']?',\n    rsOptJoin = '(?:' + rsZWJ + '(?:' + [rsNonAstral, rsRegional, rsSurrPair].join('|') + ')' + rsOptVar + reOptMod + ')*',\n    rsSeq = rsOptVar + reOptMod + rsOptJoin,\n    rsSymbol = '(?:' + [rsNonAstral + rsCombo + '?', rsCombo, rsRegional, rsSurrPair, rsAstral].join('|') + ')';\n\n/** Used to match [string symbols](https://mathiasbynens.be/notes/javascript-unicode). */\nvar reUnicode = RegExp(rsFitz + '(?=' + rsFitz + ')|' + rsSymbol + rsSeq, 'g');\n\n/**\n * Converts a Unicode `string` to an array.\n *\n * @private\n * @param {string} string The string to convert.\n * @returns {Array} Returns the converted array.\n */\nfunction unicodeToArray(string) {\n  return string.match(reUnicode) || [];\n}\n\nmodule.exports = unicodeToArray;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/_unicodeToArray.js?");
+
+/***/ }),
+
+/***/ "./node_modules/lodash/_unicodeWords.js":
+/*!**********************************************!*\
+  !*** ./node_modules/lodash/_unicodeWords.js ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+eval("/** Used to compose unicode character classes. */\nvar rsAstralRange = '\\\\ud800-\\\\udfff',\n    rsComboMarksRange = '\\\\u0300-\\\\u036f',\n    reComboHalfMarksRange = '\\\\ufe20-\\\\ufe2f',\n    rsComboSymbolsRange = '\\\\u20d0-\\\\u20ff',\n    rsComboRange = rsComboMarksRange + reComboHalfMarksRange + rsComboSymbolsRange,\n    rsDingbatRange = '\\\\u2700-\\\\u27bf',\n    rsLowerRange = 'a-z\\\\xdf-\\\\xf6\\\\xf8-\\\\xff',\n    rsMathOpRange = '\\\\xac\\\\xb1\\\\xd7\\\\xf7',\n    rsNonCharRange = '\\\\x00-\\\\x2f\\\\x3a-\\\\x40\\\\x5b-\\\\x60\\\\x7b-\\\\xbf',\n    rsPunctuationRange = '\\\\u2000-\\\\u206f',\n    rsSpaceRange = ' \\\\t\\\\x0b\\\\f\\\\xa0\\\\ufeff\\\\n\\\\r\\\\u2028\\\\u2029\\\\u1680\\\\u180e\\\\u2000\\\\u2001\\\\u2002\\\\u2003\\\\u2004\\\\u2005\\\\u2006\\\\u2007\\\\u2008\\\\u2009\\\\u200a\\\\u202f\\\\u205f\\\\u3000',\n    rsUpperRange = 'A-Z\\\\xc0-\\\\xd6\\\\xd8-\\\\xde',\n    rsVarRange = '\\\\ufe0e\\\\ufe0f',\n    rsBreakRange = rsMathOpRange + rsNonCharRange + rsPunctuationRange + rsSpaceRange;\n\n/** Used to compose unicode capture groups. */\nvar rsApos = \"['\\u2019]\",\n    rsBreak = '[' + rsBreakRange + ']',\n    rsCombo = '[' + rsComboRange + ']',\n    rsDigits = '\\\\d+',\n    rsDingbat = '[' + rsDingbatRange + ']',\n    rsLower = '[' + rsLowerRange + ']',\n    rsMisc = '[^' + rsAstralRange + rsBreakRange + rsDigits + rsDingbatRange + rsLowerRange + rsUpperRange + ']',\n    rsFitz = '\\\\ud83c[\\\\udffb-\\\\udfff]',\n    rsModifier = '(?:' + rsCombo + '|' + rsFitz + ')',\n    rsNonAstral = '[^' + rsAstralRange + ']',\n    rsRegional = '(?:\\\\ud83c[\\\\udde6-\\\\uddff]){2}',\n    rsSurrPair = '[\\\\ud800-\\\\udbff][\\\\udc00-\\\\udfff]',\n    rsUpper = '[' + rsUpperRange + ']',\n    rsZWJ = '\\\\u200d';\n\n/** Used to compose unicode regexes. */\nvar rsMiscLower = '(?:' + rsLower + '|' + rsMisc + ')',\n    rsMiscUpper = '(?:' + rsUpper + '|' + rsMisc + ')',\n    rsOptContrLower = '(?:' + rsApos + '(?:d|ll|m|re|s|t|ve))?',\n    rsOptContrUpper = '(?:' + rsApos + '(?:D|LL|M|RE|S|T|VE))?',\n    reOptMod = rsModifier + '?',\n    rsOptVar = '[' + rsVarRange + ']?',\n    rsOptJoin = '(?:' + rsZWJ + '(?:' + [rsNonAstral, rsRegional, rsSurrPair].join('|') + ')' + rsOptVar + reOptMod + ')*',\n    rsOrdLower = '\\\\d*(?:1st|2nd|3rd|(?![123])\\\\dth)(?=\\\\b|[A-Z_])',\n    rsOrdUpper = '\\\\d*(?:1ST|2ND|3RD|(?![123])\\\\dTH)(?=\\\\b|[a-z_])',\n    rsSeq = rsOptVar + reOptMod + rsOptJoin,\n    rsEmoji = '(?:' + [rsDingbat, rsRegional, rsSurrPair].join('|') + ')' + rsSeq;\n\n/** Used to match complex or compound words. */\nvar reUnicodeWord = RegExp([\n  rsUpper + '?' + rsLower + '+' + rsOptContrLower + '(?=' + [rsBreak, rsUpper, '$'].join('|') + ')',\n  rsMiscUpper + '+' + rsOptContrUpper + '(?=' + [rsBreak, rsUpper + rsMiscLower, '$'].join('|') + ')',\n  rsUpper + '?' + rsMiscLower + '+' + rsOptContrLower,\n  rsUpper + '+' + rsOptContrUpper,\n  rsOrdUpper,\n  rsOrdLower,\n  rsDigits,\n  rsEmoji\n].join('|'), 'g');\n\n/**\n * Splits a Unicode `string` into an array of its words.\n *\n * @private\n * @param {string} The string to inspect.\n * @returns {Array} Returns the words of `string`.\n */\nfunction unicodeWords(string) {\n  return string.match(reUnicodeWord) || [];\n}\n\nmodule.exports = unicodeWords;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/_unicodeWords.js?");
+
+/***/ }),
+
 /***/ "./node_modules/lodash/constant.js":
 /*!*****************************************!*\
   !*** ./node_modules/lodash/constant.js ***!
@@ -3298,6 +4576,17 @@ eval("/**\n * Creates a function that returns `value`.\n *\n * @static\n * @memb
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("var isObject = __webpack_require__(/*! ./isObject */ \"./node_modules/lodash/isObject.js\"),\n    now = __webpack_require__(/*! ./now */ \"./node_modules/lodash/now.js\"),\n    toNumber = __webpack_require__(/*! ./toNumber */ \"./node_modules/lodash/toNumber.js\");\n\n/** Error message constants. */\nvar FUNC_ERROR_TEXT = 'Expected a function';\n\n/* Built-in method references for those with the same name as other `lodash` methods. */\nvar nativeMax = Math.max,\n    nativeMin = Math.min;\n\n/**\n * Creates a debounced function that delays invoking `func` until after `wait`\n * milliseconds have elapsed since the last time the debounced function was\n * invoked. The debounced function comes with a `cancel` method to cancel\n * delayed `func` invocations and a `flush` method to immediately invoke them.\n * Provide `options` to indicate whether `func` should be invoked on the\n * leading and/or trailing edge of the `wait` timeout. The `func` is invoked\n * with the last arguments provided to the debounced function. Subsequent\n * calls to the debounced function return the result of the last `func`\n * invocation.\n *\n * **Note:** If `leading` and `trailing` options are `true`, `func` is\n * invoked on the trailing edge of the timeout only if the debounced function\n * is invoked more than once during the `wait` timeout.\n *\n * If `wait` is `0` and `leading` is `false`, `func` invocation is deferred\n * until to the next tick, similar to `setTimeout` with a timeout of `0`.\n *\n * See [David Corbacho's article](https://css-tricks.com/debouncing-throttling-explained-examples/)\n * for details over the differences between `_.debounce` and `_.throttle`.\n *\n * @static\n * @memberOf _\n * @since 0.1.0\n * @category Function\n * @param {Function} func The function to debounce.\n * @param {number} [wait=0] The number of milliseconds to delay.\n * @param {Object} [options={}] The options object.\n * @param {boolean} [options.leading=false]\n *  Specify invoking on the leading edge of the timeout.\n * @param {number} [options.maxWait]\n *  The maximum time `func` is allowed to be delayed before it's invoked.\n * @param {boolean} [options.trailing=true]\n *  Specify invoking on the trailing edge of the timeout.\n * @returns {Function} Returns the new debounced function.\n * @example\n *\n * // Avoid costly calculations while the window size is in flux.\n * jQuery(window).on('resize', _.debounce(calculateLayout, 150));\n *\n * // Invoke `sendMail` when clicked, debouncing subsequent calls.\n * jQuery(element).on('click', _.debounce(sendMail, 300, {\n *   'leading': true,\n *   'trailing': false\n * }));\n *\n * // Ensure `batchLog` is invoked once after 1 second of debounced calls.\n * var debounced = _.debounce(batchLog, 250, { 'maxWait': 1000 });\n * var source = new EventSource('/stream');\n * jQuery(source).on('message', debounced);\n *\n * // Cancel the trailing debounced invocation.\n * jQuery(window).on('popstate', debounced.cancel);\n */\nfunction debounce(func, wait, options) {\n  var lastArgs,\n      lastThis,\n      maxWait,\n      result,\n      timerId,\n      lastCallTime,\n      lastInvokeTime = 0,\n      leading = false,\n      maxing = false,\n      trailing = true;\n\n  if (typeof func != 'function') {\n    throw new TypeError(FUNC_ERROR_TEXT);\n  }\n  wait = toNumber(wait) || 0;\n  if (isObject(options)) {\n    leading = !!options.leading;\n    maxing = 'maxWait' in options;\n    maxWait = maxing ? nativeMax(toNumber(options.maxWait) || 0, wait) : maxWait;\n    trailing = 'trailing' in options ? !!options.trailing : trailing;\n  }\n\n  function invokeFunc(time) {\n    var args = lastArgs,\n        thisArg = lastThis;\n\n    lastArgs = lastThis = undefined;\n    lastInvokeTime = time;\n    result = func.apply(thisArg, args);\n    return result;\n  }\n\n  function leadingEdge(time) {\n    // Reset any `maxWait` timer.\n    lastInvokeTime = time;\n    // Start the timer for the trailing edge.\n    timerId = setTimeout(timerExpired, wait);\n    // Invoke the leading edge.\n    return leading ? invokeFunc(time) : result;\n  }\n\n  function remainingWait(time) {\n    var timeSinceLastCall = time - lastCallTime,\n        timeSinceLastInvoke = time - lastInvokeTime,\n        timeWaiting = wait - timeSinceLastCall;\n\n    return maxing\n      ? nativeMin(timeWaiting, maxWait - timeSinceLastInvoke)\n      : timeWaiting;\n  }\n\n  function shouldInvoke(time) {\n    var timeSinceLastCall = time - lastCallTime,\n        timeSinceLastInvoke = time - lastInvokeTime;\n\n    // Either this is the first call, activity has stopped and we're at the\n    // trailing edge, the system time has gone backwards and we're treating\n    // it as the trailing edge, or we've hit the `maxWait` limit.\n    return (lastCallTime === undefined || (timeSinceLastCall >= wait) ||\n      (timeSinceLastCall < 0) || (maxing && timeSinceLastInvoke >= maxWait));\n  }\n\n  function timerExpired() {\n    var time = now();\n    if (shouldInvoke(time)) {\n      return trailingEdge(time);\n    }\n    // Restart the timer.\n    timerId = setTimeout(timerExpired, remainingWait(time));\n  }\n\n  function trailingEdge(time) {\n    timerId = undefined;\n\n    // Only invoke if we have `lastArgs` which means `func` has been\n    // debounced at least once.\n    if (trailing && lastArgs) {\n      return invokeFunc(time);\n    }\n    lastArgs = lastThis = undefined;\n    return result;\n  }\n\n  function cancel() {\n    if (timerId !== undefined) {\n      clearTimeout(timerId);\n    }\n    lastInvokeTime = 0;\n    lastArgs = lastCallTime = lastThis = timerId = undefined;\n  }\n\n  function flush() {\n    return timerId === undefined ? result : trailingEdge(now());\n  }\n\n  function debounced() {\n    var time = now(),\n        isInvoking = shouldInvoke(time);\n\n    lastArgs = arguments;\n    lastThis = this;\n    lastCallTime = time;\n\n    if (isInvoking) {\n      if (timerId === undefined) {\n        return leadingEdge(lastCallTime);\n      }\n      if (maxing) {\n        // Handle invocations in a tight loop.\n        timerId = setTimeout(timerExpired, wait);\n        return invokeFunc(lastCallTime);\n      }\n    }\n    if (timerId === undefined) {\n      timerId = setTimeout(timerExpired, wait);\n    }\n    return result;\n  }\n  debounced.cancel = cancel;\n  debounced.flush = flush;\n  return debounced;\n}\n\nmodule.exports = debounce;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/debounce.js?");
+
+/***/ }),
+
+/***/ "./node_modules/lodash/deburr.js":
+/*!***************************************!*\
+  !*** ./node_modules/lodash/deburr.js ***!
+  \***************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var deburrLetter = __webpack_require__(/*! ./_deburrLetter */ \"./node_modules/lodash/_deburrLetter.js\"),\n    toString = __webpack_require__(/*! ./toString */ \"./node_modules/lodash/toString.js\");\n\n/** Used to match Latin Unicode letters (excluding mathematical operators). */\nvar reLatin = /[\\xc0-\\xd6\\xd8-\\xf6\\xf8-\\xff\\u0100-\\u017f]/g;\n\n/** Used to compose unicode character classes. */\nvar rsComboMarksRange = '\\\\u0300-\\\\u036f',\n    reComboHalfMarksRange = '\\\\ufe20-\\\\ufe2f',\n    rsComboSymbolsRange = '\\\\u20d0-\\\\u20ff',\n    rsComboRange = rsComboMarksRange + reComboHalfMarksRange + rsComboSymbolsRange;\n\n/** Used to compose unicode capture groups. */\nvar rsCombo = '[' + rsComboRange + ']';\n\n/**\n * Used to match [combining diacritical marks](https://en.wikipedia.org/wiki/Combining_Diacritical_Marks) and\n * [combining diacritical marks for symbols](https://en.wikipedia.org/wiki/Combining_Diacritical_Marks_for_Symbols).\n */\nvar reComboMark = RegExp(rsCombo, 'g');\n\n/**\n * Deburrs `string` by converting\n * [Latin-1 Supplement](https://en.wikipedia.org/wiki/Latin-1_Supplement_(Unicode_block)#Character_table)\n * and [Latin Extended-A](https://en.wikipedia.org/wiki/Latin_Extended-A)\n * letters to basic Latin letters and removing\n * [combining diacritical marks](https://en.wikipedia.org/wiki/Combining_Diacritical_Marks).\n *\n * @static\n * @memberOf _\n * @since 3.0.0\n * @category String\n * @param {string} [string=''] The string to deburr.\n * @returns {string} Returns the deburred string.\n * @example\n *\n * _.deburr('déjà vu');\n * // => 'deja vu'\n */\nfunction deburr(string) {\n  string = toString(string);\n  return string && string.replace(reLatin, deburrLetter).replace(reComboMark, '');\n}\n\nmodule.exports = deburr;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/deburr.js?");
 
 /***/ }),
 
@@ -3631,6 +4920,17 @@ eval("var baseProperty = __webpack_require__(/*! ./_baseProperty */ \"./node_mod
 
 /***/ }),
 
+/***/ "./node_modules/lodash/startCase.js":
+/*!******************************************!*\
+  !*** ./node_modules/lodash/startCase.js ***!
+  \******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var createCompounder = __webpack_require__(/*! ./_createCompounder */ \"./node_modules/lodash/_createCompounder.js\"),\n    upperFirst = __webpack_require__(/*! ./upperFirst */ \"./node_modules/lodash/upperFirst.js\");\n\n/**\n * Converts `string` to\n * [start case](https://en.wikipedia.org/wiki/Letter_case#Stylistic_or_specialised_usage).\n *\n * @static\n * @memberOf _\n * @since 3.1.0\n * @category String\n * @param {string} [string=''] The string to convert.\n * @returns {string} Returns the start cased string.\n * @example\n *\n * _.startCase('--foo-bar--');\n * // => 'Foo Bar'\n *\n * _.startCase('fooBar');\n * // => 'Foo Bar'\n *\n * _.startCase('__FOO_BAR__');\n * // => 'FOO BAR'\n */\nvar startCase = createCompounder(function(result, word, index) {\n  return result + (index ? ' ' : '') + upperFirst(word);\n});\n\nmodule.exports = startCase;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/startCase.js?");
+
+/***/ }),
+
 /***/ "./node_modules/lodash/stubArray.js":
 /*!******************************************!*\
   !*** ./node_modules/lodash/stubArray.js ***!
@@ -3705,6 +5005,28 @@ eval("var copyObject = __webpack_require__(/*! ./_copyObject */ \"./node_modules
 /***/ (function(module, exports, __webpack_require__) {
 
 eval("var baseToString = __webpack_require__(/*! ./_baseToString */ \"./node_modules/lodash/_baseToString.js\");\n\n/**\n * Converts `value` to a string. An empty string is returned for `null`\n * and `undefined` values. The sign of `-0` is preserved.\n *\n * @static\n * @memberOf _\n * @since 4.0.0\n * @category Lang\n * @param {*} value The value to convert.\n * @returns {string} Returns the converted string.\n * @example\n *\n * _.toString(null);\n * // => ''\n *\n * _.toString(-0);\n * // => '-0'\n *\n * _.toString([1, 2, 3]);\n * // => '1,2,3'\n */\nfunction toString(value) {\n  return value == null ? '' : baseToString(value);\n}\n\nmodule.exports = toString;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/toString.js?");
+
+/***/ }),
+
+/***/ "./node_modules/lodash/upperFirst.js":
+/*!*******************************************!*\
+  !*** ./node_modules/lodash/upperFirst.js ***!
+  \*******************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var createCaseFirst = __webpack_require__(/*! ./_createCaseFirst */ \"./node_modules/lodash/_createCaseFirst.js\");\n\n/**\n * Converts the first character of `string` to upper case.\n *\n * @static\n * @memberOf _\n * @since 4.0.0\n * @category String\n * @param {string} [string=''] The string to convert.\n * @returns {string} Returns the converted string.\n * @example\n *\n * _.upperFirst('fred');\n * // => 'Fred'\n *\n * _.upperFirst('FRED');\n * // => 'FRED'\n */\nvar upperFirst = createCaseFirst('toUpperCase');\n\nmodule.exports = upperFirst;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/upperFirst.js?");
+
+/***/ }),
+
+/***/ "./node_modules/lodash/words.js":
+/*!**************************************!*\
+  !*** ./node_modules/lodash/words.js ***!
+  \**************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var asciiWords = __webpack_require__(/*! ./_asciiWords */ \"./node_modules/lodash/_asciiWords.js\"),\n    hasUnicodeWord = __webpack_require__(/*! ./_hasUnicodeWord */ \"./node_modules/lodash/_hasUnicodeWord.js\"),\n    toString = __webpack_require__(/*! ./toString */ \"./node_modules/lodash/toString.js\"),\n    unicodeWords = __webpack_require__(/*! ./_unicodeWords */ \"./node_modules/lodash/_unicodeWords.js\");\n\n/**\n * Splits `string` into an array of its words.\n *\n * @static\n * @memberOf _\n * @since 3.0.0\n * @category String\n * @param {string} [string=''] The string to inspect.\n * @param {RegExp|string} [pattern] The pattern to match words.\n * @param- {Object} [guard] Enables use as an iteratee for methods like `_.map`.\n * @returns {Array} Returns the words of `string`.\n * @example\n *\n * _.words('fred, barney, & pebbles');\n * // => ['fred', 'barney', 'pebbles']\n *\n * _.words('fred, barney, & pebbles', /[^, ]+/g);\n * // => ['fred', 'barney', '&', 'pebbles']\n */\nfunction words(string, pattern, guard) {\n  string = toString(string);\n  pattern = guard ? undefined : pattern;\n\n  if (pattern === undefined) {\n    return hasUnicodeWord(string) ? unicodeWords(string) : asciiWords(string);\n  }\n  return string.match(pattern) || [];\n}\n\nmodule.exports = words;\n\n\n//# sourceURL=webpack:///./node_modules/lodash/words.js?");
 
 /***/ }),
 
@@ -9992,6 +11314,17 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 
 /***/ }),
 
+/***/ "./node_modules/tinycolor2/tinycolor.js":
+/*!**********************************************!*\
+  !*** ./node_modules/tinycolor2/tinycolor.js ***!
+  \**********************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("var __WEBPACK_AMD_DEFINE_RESULT__;// TinyColor v1.4.1\n// https://github.com/bgrins/TinyColor\n// Brian Grinstead, MIT License\n\n(function(Math) {\n\nvar trimLeft = /^\\s+/,\n    trimRight = /\\s+$/,\n    tinyCounter = 0,\n    mathRound = Math.round,\n    mathMin = Math.min,\n    mathMax = Math.max,\n    mathRandom = Math.random;\n\nfunction tinycolor (color, opts) {\n\n    color = (color) ? color : '';\n    opts = opts || { };\n\n    // If input is already a tinycolor, return itself\n    if (color instanceof tinycolor) {\n       return color;\n    }\n    // If we are called as a function, call using new instead\n    if (!(this instanceof tinycolor)) {\n        return new tinycolor(color, opts);\n    }\n\n    var rgb = inputToRGB(color);\n    this._originalInput = color,\n    this._r = rgb.r,\n    this._g = rgb.g,\n    this._b = rgb.b,\n    this._a = rgb.a,\n    this._roundA = mathRound(100*this._a) / 100,\n    this._format = opts.format || rgb.format;\n    this._gradientType = opts.gradientType;\n\n    // Don't let the range of [0,255] come back in [0,1].\n    // Potentially lose a little bit of precision here, but will fix issues where\n    // .5 gets interpreted as half of the total, instead of half of 1\n    // If it was supposed to be 128, this was already taken care of by `inputToRgb`\n    if (this._r < 1) { this._r = mathRound(this._r); }\n    if (this._g < 1) { this._g = mathRound(this._g); }\n    if (this._b < 1) { this._b = mathRound(this._b); }\n\n    this._ok = rgb.ok;\n    this._tc_id = tinyCounter++;\n}\n\ntinycolor.prototype = {\n    isDark: function() {\n        return this.getBrightness() < 128;\n    },\n    isLight: function() {\n        return !this.isDark();\n    },\n    isValid: function() {\n        return this._ok;\n    },\n    getOriginalInput: function() {\n      return this._originalInput;\n    },\n    getFormat: function() {\n        return this._format;\n    },\n    getAlpha: function() {\n        return this._a;\n    },\n    getBrightness: function() {\n        //http://www.w3.org/TR/AERT#color-contrast\n        var rgb = this.toRgb();\n        return (rgb.r * 299 + rgb.g * 587 + rgb.b * 114) / 1000;\n    },\n    getLuminance: function() {\n        //http://www.w3.org/TR/2008/REC-WCAG20-20081211/#relativeluminancedef\n        var rgb = this.toRgb();\n        var RsRGB, GsRGB, BsRGB, R, G, B;\n        RsRGB = rgb.r/255;\n        GsRGB = rgb.g/255;\n        BsRGB = rgb.b/255;\n\n        if (RsRGB <= 0.03928) {R = RsRGB / 12.92;} else {R = Math.pow(((RsRGB + 0.055) / 1.055), 2.4);}\n        if (GsRGB <= 0.03928) {G = GsRGB / 12.92;} else {G = Math.pow(((GsRGB + 0.055) / 1.055), 2.4);}\n        if (BsRGB <= 0.03928) {B = BsRGB / 12.92;} else {B = Math.pow(((BsRGB + 0.055) / 1.055), 2.4);}\n        return (0.2126 * R) + (0.7152 * G) + (0.0722 * B);\n    },\n    setAlpha: function(value) {\n        this._a = boundAlpha(value);\n        this._roundA = mathRound(100*this._a) / 100;\n        return this;\n    },\n    toHsv: function() {\n        var hsv = rgbToHsv(this._r, this._g, this._b);\n        return { h: hsv.h * 360, s: hsv.s, v: hsv.v, a: this._a };\n    },\n    toHsvString: function() {\n        var hsv = rgbToHsv(this._r, this._g, this._b);\n        var h = mathRound(hsv.h * 360), s = mathRound(hsv.s * 100), v = mathRound(hsv.v * 100);\n        return (this._a == 1) ?\n          \"hsv(\"  + h + \", \" + s + \"%, \" + v + \"%)\" :\n          \"hsva(\" + h + \", \" + s + \"%, \" + v + \"%, \"+ this._roundA + \")\";\n    },\n    toHsl: function() {\n        var hsl = rgbToHsl(this._r, this._g, this._b);\n        return { h: hsl.h * 360, s: hsl.s, l: hsl.l, a: this._a };\n    },\n    toHslString: function() {\n        var hsl = rgbToHsl(this._r, this._g, this._b);\n        var h = mathRound(hsl.h * 360), s = mathRound(hsl.s * 100), l = mathRound(hsl.l * 100);\n        return (this._a == 1) ?\n          \"hsl(\"  + h + \", \" + s + \"%, \" + l + \"%)\" :\n          \"hsla(\" + h + \", \" + s + \"%, \" + l + \"%, \"+ this._roundA + \")\";\n    },\n    toHex: function(allow3Char) {\n        return rgbToHex(this._r, this._g, this._b, allow3Char);\n    },\n    toHexString: function(allow3Char) {\n        return '#' + this.toHex(allow3Char);\n    },\n    toHex8: function(allow4Char) {\n        return rgbaToHex(this._r, this._g, this._b, this._a, allow4Char);\n    },\n    toHex8String: function(allow4Char) {\n        return '#' + this.toHex8(allow4Char);\n    },\n    toRgb: function() {\n        return { r: mathRound(this._r), g: mathRound(this._g), b: mathRound(this._b), a: this._a };\n    },\n    toRgbString: function() {\n        return (this._a == 1) ?\n          \"rgb(\"  + mathRound(this._r) + \", \" + mathRound(this._g) + \", \" + mathRound(this._b) + \")\" :\n          \"rgba(\" + mathRound(this._r) + \", \" + mathRound(this._g) + \", \" + mathRound(this._b) + \", \" + this._roundA + \")\";\n    },\n    toPercentageRgb: function() {\n        return { r: mathRound(bound01(this._r, 255) * 100) + \"%\", g: mathRound(bound01(this._g, 255) * 100) + \"%\", b: mathRound(bound01(this._b, 255) * 100) + \"%\", a: this._a };\n    },\n    toPercentageRgbString: function() {\n        return (this._a == 1) ?\n          \"rgb(\"  + mathRound(bound01(this._r, 255) * 100) + \"%, \" + mathRound(bound01(this._g, 255) * 100) + \"%, \" + mathRound(bound01(this._b, 255) * 100) + \"%)\" :\n          \"rgba(\" + mathRound(bound01(this._r, 255) * 100) + \"%, \" + mathRound(bound01(this._g, 255) * 100) + \"%, \" + mathRound(bound01(this._b, 255) * 100) + \"%, \" + this._roundA + \")\";\n    },\n    toName: function() {\n        if (this._a === 0) {\n            return \"transparent\";\n        }\n\n        if (this._a < 1) {\n            return false;\n        }\n\n        return hexNames[rgbToHex(this._r, this._g, this._b, true)] || false;\n    },\n    toFilter: function(secondColor) {\n        var hex8String = '#' + rgbaToArgbHex(this._r, this._g, this._b, this._a);\n        var secondHex8String = hex8String;\n        var gradientType = this._gradientType ? \"GradientType = 1, \" : \"\";\n\n        if (secondColor) {\n            var s = tinycolor(secondColor);\n            secondHex8String = '#' + rgbaToArgbHex(s._r, s._g, s._b, s._a);\n        }\n\n        return \"progid:DXImageTransform.Microsoft.gradient(\"+gradientType+\"startColorstr=\"+hex8String+\",endColorstr=\"+secondHex8String+\")\";\n    },\n    toString: function(format) {\n        var formatSet = !!format;\n        format = format || this._format;\n\n        var formattedString = false;\n        var hasAlpha = this._a < 1 && this._a >= 0;\n        var needsAlphaFormat = !formatSet && hasAlpha && (format === \"hex\" || format === \"hex6\" || format === \"hex3\" || format === \"hex4\" || format === \"hex8\" || format === \"name\");\n\n        if (needsAlphaFormat) {\n            // Special case for \"transparent\", all other non-alpha formats\n            // will return rgba when there is transparency.\n            if (format === \"name\" && this._a === 0) {\n                return this.toName();\n            }\n            return this.toRgbString();\n        }\n        if (format === \"rgb\") {\n            formattedString = this.toRgbString();\n        }\n        if (format === \"prgb\") {\n            formattedString = this.toPercentageRgbString();\n        }\n        if (format === \"hex\" || format === \"hex6\") {\n            formattedString = this.toHexString();\n        }\n        if (format === \"hex3\") {\n            formattedString = this.toHexString(true);\n        }\n        if (format === \"hex4\") {\n            formattedString = this.toHex8String(true);\n        }\n        if (format === \"hex8\") {\n            formattedString = this.toHex8String();\n        }\n        if (format === \"name\") {\n            formattedString = this.toName();\n        }\n        if (format === \"hsl\") {\n            formattedString = this.toHslString();\n        }\n        if (format === \"hsv\") {\n            formattedString = this.toHsvString();\n        }\n\n        return formattedString || this.toHexString();\n    },\n    clone: function() {\n        return tinycolor(this.toString());\n    },\n\n    _applyModification: function(fn, args) {\n        var color = fn.apply(null, [this].concat([].slice.call(args)));\n        this._r = color._r;\n        this._g = color._g;\n        this._b = color._b;\n        this.setAlpha(color._a);\n        return this;\n    },\n    lighten: function() {\n        return this._applyModification(lighten, arguments);\n    },\n    brighten: function() {\n        return this._applyModification(brighten, arguments);\n    },\n    darken: function() {\n        return this._applyModification(darken, arguments);\n    },\n    desaturate: function() {\n        return this._applyModification(desaturate, arguments);\n    },\n    saturate: function() {\n        return this._applyModification(saturate, arguments);\n    },\n    greyscale: function() {\n        return this._applyModification(greyscale, arguments);\n    },\n    spin: function() {\n        return this._applyModification(spin, arguments);\n    },\n\n    _applyCombination: function(fn, args) {\n        return fn.apply(null, [this].concat([].slice.call(args)));\n    },\n    analogous: function() {\n        return this._applyCombination(analogous, arguments);\n    },\n    complement: function() {\n        return this._applyCombination(complement, arguments);\n    },\n    monochromatic: function() {\n        return this._applyCombination(monochromatic, arguments);\n    },\n    splitcomplement: function() {\n        return this._applyCombination(splitcomplement, arguments);\n    },\n    triad: function() {\n        return this._applyCombination(triad, arguments);\n    },\n    tetrad: function() {\n        return this._applyCombination(tetrad, arguments);\n    }\n};\n\n// If input is an object, force 1 into \"1.0\" to handle ratios properly\n// String input requires \"1.0\" as input, so 1 will be treated as 1\ntinycolor.fromRatio = function(color, opts) {\n    if (typeof color == \"object\") {\n        var newColor = {};\n        for (var i in color) {\n            if (color.hasOwnProperty(i)) {\n                if (i === \"a\") {\n                    newColor[i] = color[i];\n                }\n                else {\n                    newColor[i] = convertToPercentage(color[i]);\n                }\n            }\n        }\n        color = newColor;\n    }\n\n    return tinycolor(color, opts);\n};\n\n// Given a string or object, convert that input to RGB\n// Possible string inputs:\n//\n//     \"red\"\n//     \"#f00\" or \"f00\"\n//     \"#ff0000\" or \"ff0000\"\n//     \"#ff000000\" or \"ff000000\"\n//     \"rgb 255 0 0\" or \"rgb (255, 0, 0)\"\n//     \"rgb 1.0 0 0\" or \"rgb (1, 0, 0)\"\n//     \"rgba (255, 0, 0, 1)\" or \"rgba 255, 0, 0, 1\"\n//     \"rgba (1.0, 0, 0, 1)\" or \"rgba 1.0, 0, 0, 1\"\n//     \"hsl(0, 100%, 50%)\" or \"hsl 0 100% 50%\"\n//     \"hsla(0, 100%, 50%, 1)\" or \"hsla 0 100% 50%, 1\"\n//     \"hsv(0, 100%, 100%)\" or \"hsv 0 100% 100%\"\n//\nfunction inputToRGB(color) {\n\n    var rgb = { r: 0, g: 0, b: 0 };\n    var a = 1;\n    var s = null;\n    var v = null;\n    var l = null;\n    var ok = false;\n    var format = false;\n\n    if (typeof color == \"string\") {\n        color = stringInputToObject(color);\n    }\n\n    if (typeof color == \"object\") {\n        if (isValidCSSUnit(color.r) && isValidCSSUnit(color.g) && isValidCSSUnit(color.b)) {\n            rgb = rgbToRgb(color.r, color.g, color.b);\n            ok = true;\n            format = String(color.r).substr(-1) === \"%\" ? \"prgb\" : \"rgb\";\n        }\n        else if (isValidCSSUnit(color.h) && isValidCSSUnit(color.s) && isValidCSSUnit(color.v)) {\n            s = convertToPercentage(color.s);\n            v = convertToPercentage(color.v);\n            rgb = hsvToRgb(color.h, s, v);\n            ok = true;\n            format = \"hsv\";\n        }\n        else if (isValidCSSUnit(color.h) && isValidCSSUnit(color.s) && isValidCSSUnit(color.l)) {\n            s = convertToPercentage(color.s);\n            l = convertToPercentage(color.l);\n            rgb = hslToRgb(color.h, s, l);\n            ok = true;\n            format = \"hsl\";\n        }\n\n        if (color.hasOwnProperty(\"a\")) {\n            a = color.a;\n        }\n    }\n\n    a = boundAlpha(a);\n\n    return {\n        ok: ok,\n        format: color.format || format,\n        r: mathMin(255, mathMax(rgb.r, 0)),\n        g: mathMin(255, mathMax(rgb.g, 0)),\n        b: mathMin(255, mathMax(rgb.b, 0)),\n        a: a\n    };\n}\n\n\n// Conversion Functions\n// --------------------\n\n// `rgbToHsl`, `rgbToHsv`, `hslToRgb`, `hsvToRgb` modified from:\n// <http://mjijackson.com/2008/02/rgb-to-hsl-and-rgb-to-hsv-color-model-conversion-algorithms-in-javascript>\n\n// `rgbToRgb`\n// Handle bounds / percentage checking to conform to CSS color spec\n// <http://www.w3.org/TR/css3-color/>\n// *Assumes:* r, g, b in [0, 255] or [0, 1]\n// *Returns:* { r, g, b } in [0, 255]\nfunction rgbToRgb(r, g, b){\n    return {\n        r: bound01(r, 255) * 255,\n        g: bound01(g, 255) * 255,\n        b: bound01(b, 255) * 255\n    };\n}\n\n// `rgbToHsl`\n// Converts an RGB color value to HSL.\n// *Assumes:* r, g, and b are contained in [0, 255] or [0, 1]\n// *Returns:* { h, s, l } in [0,1]\nfunction rgbToHsl(r, g, b) {\n\n    r = bound01(r, 255);\n    g = bound01(g, 255);\n    b = bound01(b, 255);\n\n    var max = mathMax(r, g, b), min = mathMin(r, g, b);\n    var h, s, l = (max + min) / 2;\n\n    if(max == min) {\n        h = s = 0; // achromatic\n    }\n    else {\n        var d = max - min;\n        s = l > 0.5 ? d / (2 - max - min) : d / (max + min);\n        switch(max) {\n            case r: h = (g - b) / d + (g < b ? 6 : 0); break;\n            case g: h = (b - r) / d + 2; break;\n            case b: h = (r - g) / d + 4; break;\n        }\n\n        h /= 6;\n    }\n\n    return { h: h, s: s, l: l };\n}\n\n// `hslToRgb`\n// Converts an HSL color value to RGB.\n// *Assumes:* h is contained in [0, 1] or [0, 360] and s and l are contained [0, 1] or [0, 100]\n// *Returns:* { r, g, b } in the set [0, 255]\nfunction hslToRgb(h, s, l) {\n    var r, g, b;\n\n    h = bound01(h, 360);\n    s = bound01(s, 100);\n    l = bound01(l, 100);\n\n    function hue2rgb(p, q, t) {\n        if(t < 0) t += 1;\n        if(t > 1) t -= 1;\n        if(t < 1/6) return p + (q - p) * 6 * t;\n        if(t < 1/2) return q;\n        if(t < 2/3) return p + (q - p) * (2/3 - t) * 6;\n        return p;\n    }\n\n    if(s === 0) {\n        r = g = b = l; // achromatic\n    }\n    else {\n        var q = l < 0.5 ? l * (1 + s) : l + s - l * s;\n        var p = 2 * l - q;\n        r = hue2rgb(p, q, h + 1/3);\n        g = hue2rgb(p, q, h);\n        b = hue2rgb(p, q, h - 1/3);\n    }\n\n    return { r: r * 255, g: g * 255, b: b * 255 };\n}\n\n// `rgbToHsv`\n// Converts an RGB color value to HSV\n// *Assumes:* r, g, and b are contained in the set [0, 255] or [0, 1]\n// *Returns:* { h, s, v } in [0,1]\nfunction rgbToHsv(r, g, b) {\n\n    r = bound01(r, 255);\n    g = bound01(g, 255);\n    b = bound01(b, 255);\n\n    var max = mathMax(r, g, b), min = mathMin(r, g, b);\n    var h, s, v = max;\n\n    var d = max - min;\n    s = max === 0 ? 0 : d / max;\n\n    if(max == min) {\n        h = 0; // achromatic\n    }\n    else {\n        switch(max) {\n            case r: h = (g - b) / d + (g < b ? 6 : 0); break;\n            case g: h = (b - r) / d + 2; break;\n            case b: h = (r - g) / d + 4; break;\n        }\n        h /= 6;\n    }\n    return { h: h, s: s, v: v };\n}\n\n// `hsvToRgb`\n// Converts an HSV color value to RGB.\n// *Assumes:* h is contained in [0, 1] or [0, 360] and s and v are contained in [0, 1] or [0, 100]\n// *Returns:* { r, g, b } in the set [0, 255]\n function hsvToRgb(h, s, v) {\n\n    h = bound01(h, 360) * 6;\n    s = bound01(s, 100);\n    v = bound01(v, 100);\n\n    var i = Math.floor(h),\n        f = h - i,\n        p = v * (1 - s),\n        q = v * (1 - f * s),\n        t = v * (1 - (1 - f) * s),\n        mod = i % 6,\n        r = [v, q, p, p, t, v][mod],\n        g = [t, v, v, q, p, p][mod],\n        b = [p, p, t, v, v, q][mod];\n\n    return { r: r * 255, g: g * 255, b: b * 255 };\n}\n\n// `rgbToHex`\n// Converts an RGB color to hex\n// Assumes r, g, and b are contained in the set [0, 255]\n// Returns a 3 or 6 character hex\nfunction rgbToHex(r, g, b, allow3Char) {\n\n    var hex = [\n        pad2(mathRound(r).toString(16)),\n        pad2(mathRound(g).toString(16)),\n        pad2(mathRound(b).toString(16))\n    ];\n\n    // Return a 3 character hex if possible\n    if (allow3Char && hex[0].charAt(0) == hex[0].charAt(1) && hex[1].charAt(0) == hex[1].charAt(1) && hex[2].charAt(0) == hex[2].charAt(1)) {\n        return hex[0].charAt(0) + hex[1].charAt(0) + hex[2].charAt(0);\n    }\n\n    return hex.join(\"\");\n}\n\n// `rgbaToHex`\n// Converts an RGBA color plus alpha transparency to hex\n// Assumes r, g, b are contained in the set [0, 255] and\n// a in [0, 1]. Returns a 4 or 8 character rgba hex\nfunction rgbaToHex(r, g, b, a, allow4Char) {\n\n    var hex = [\n        pad2(mathRound(r).toString(16)),\n        pad2(mathRound(g).toString(16)),\n        pad2(mathRound(b).toString(16)),\n        pad2(convertDecimalToHex(a))\n    ];\n\n    // Return a 4 character hex if possible\n    if (allow4Char && hex[0].charAt(0) == hex[0].charAt(1) && hex[1].charAt(0) == hex[1].charAt(1) && hex[2].charAt(0) == hex[2].charAt(1) && hex[3].charAt(0) == hex[3].charAt(1)) {\n        return hex[0].charAt(0) + hex[1].charAt(0) + hex[2].charAt(0) + hex[3].charAt(0);\n    }\n\n    return hex.join(\"\");\n}\n\n// `rgbaToArgbHex`\n// Converts an RGBA color to an ARGB Hex8 string\n// Rarely used, but required for \"toFilter()\"\nfunction rgbaToArgbHex(r, g, b, a) {\n\n    var hex = [\n        pad2(convertDecimalToHex(a)),\n        pad2(mathRound(r).toString(16)),\n        pad2(mathRound(g).toString(16)),\n        pad2(mathRound(b).toString(16))\n    ];\n\n    return hex.join(\"\");\n}\n\n// `equals`\n// Can be called with any tinycolor input\ntinycolor.equals = function (color1, color2) {\n    if (!color1 || !color2) { return false; }\n    return tinycolor(color1).toRgbString() == tinycolor(color2).toRgbString();\n};\n\ntinycolor.random = function() {\n    return tinycolor.fromRatio({\n        r: mathRandom(),\n        g: mathRandom(),\n        b: mathRandom()\n    });\n};\n\n\n// Modification Functions\n// ----------------------\n// Thanks to less.js for some of the basics here\n// <https://github.com/cloudhead/less.js/blob/master/lib/less/functions.js>\n\nfunction desaturate(color, amount) {\n    amount = (amount === 0) ? 0 : (amount || 10);\n    var hsl = tinycolor(color).toHsl();\n    hsl.s -= amount / 100;\n    hsl.s = clamp01(hsl.s);\n    return tinycolor(hsl);\n}\n\nfunction saturate(color, amount) {\n    amount = (amount === 0) ? 0 : (amount || 10);\n    var hsl = tinycolor(color).toHsl();\n    hsl.s += amount / 100;\n    hsl.s = clamp01(hsl.s);\n    return tinycolor(hsl);\n}\n\nfunction greyscale(color) {\n    return tinycolor(color).desaturate(100);\n}\n\nfunction lighten (color, amount) {\n    amount = (amount === 0) ? 0 : (amount || 10);\n    var hsl = tinycolor(color).toHsl();\n    hsl.l += amount / 100;\n    hsl.l = clamp01(hsl.l);\n    return tinycolor(hsl);\n}\n\nfunction brighten(color, amount) {\n    amount = (amount === 0) ? 0 : (amount || 10);\n    var rgb = tinycolor(color).toRgb();\n    rgb.r = mathMax(0, mathMin(255, rgb.r - mathRound(255 * - (amount / 100))));\n    rgb.g = mathMax(0, mathMin(255, rgb.g - mathRound(255 * - (amount / 100))));\n    rgb.b = mathMax(0, mathMin(255, rgb.b - mathRound(255 * - (amount / 100))));\n    return tinycolor(rgb);\n}\n\nfunction darken (color, amount) {\n    amount = (amount === 0) ? 0 : (amount || 10);\n    var hsl = tinycolor(color).toHsl();\n    hsl.l -= amount / 100;\n    hsl.l = clamp01(hsl.l);\n    return tinycolor(hsl);\n}\n\n// Spin takes a positive or negative amount within [-360, 360] indicating the change of hue.\n// Values outside of this range will be wrapped into this range.\nfunction spin(color, amount) {\n    var hsl = tinycolor(color).toHsl();\n    var hue = (hsl.h + amount) % 360;\n    hsl.h = hue < 0 ? 360 + hue : hue;\n    return tinycolor(hsl);\n}\n\n// Combination Functions\n// ---------------------\n// Thanks to jQuery xColor for some of the ideas behind these\n// <https://github.com/infusion/jQuery-xcolor/blob/master/jquery.xcolor.js>\n\nfunction complement(color) {\n    var hsl = tinycolor(color).toHsl();\n    hsl.h = (hsl.h + 180) % 360;\n    return tinycolor(hsl);\n}\n\nfunction triad(color) {\n    var hsl = tinycolor(color).toHsl();\n    var h = hsl.h;\n    return [\n        tinycolor(color),\n        tinycolor({ h: (h + 120) % 360, s: hsl.s, l: hsl.l }),\n        tinycolor({ h: (h + 240) % 360, s: hsl.s, l: hsl.l })\n    ];\n}\n\nfunction tetrad(color) {\n    var hsl = tinycolor(color).toHsl();\n    var h = hsl.h;\n    return [\n        tinycolor(color),\n        tinycolor({ h: (h + 90) % 360, s: hsl.s, l: hsl.l }),\n        tinycolor({ h: (h + 180) % 360, s: hsl.s, l: hsl.l }),\n        tinycolor({ h: (h + 270) % 360, s: hsl.s, l: hsl.l })\n    ];\n}\n\nfunction splitcomplement(color) {\n    var hsl = tinycolor(color).toHsl();\n    var h = hsl.h;\n    return [\n        tinycolor(color),\n        tinycolor({ h: (h + 72) % 360, s: hsl.s, l: hsl.l}),\n        tinycolor({ h: (h + 216) % 360, s: hsl.s, l: hsl.l})\n    ];\n}\n\nfunction analogous(color, results, slices) {\n    results = results || 6;\n    slices = slices || 30;\n\n    var hsl = tinycolor(color).toHsl();\n    var part = 360 / slices;\n    var ret = [tinycolor(color)];\n\n    for (hsl.h = ((hsl.h - (part * results >> 1)) + 720) % 360; --results; ) {\n        hsl.h = (hsl.h + part) % 360;\n        ret.push(tinycolor(hsl));\n    }\n    return ret;\n}\n\nfunction monochromatic(color, results) {\n    results = results || 6;\n    var hsv = tinycolor(color).toHsv();\n    var h = hsv.h, s = hsv.s, v = hsv.v;\n    var ret = [];\n    var modification = 1 / results;\n\n    while (results--) {\n        ret.push(tinycolor({ h: h, s: s, v: v}));\n        v = (v + modification) % 1;\n    }\n\n    return ret;\n}\n\n// Utility Functions\n// ---------------------\n\ntinycolor.mix = function(color1, color2, amount) {\n    amount = (amount === 0) ? 0 : (amount || 50);\n\n    var rgb1 = tinycolor(color1).toRgb();\n    var rgb2 = tinycolor(color2).toRgb();\n\n    var p = amount / 100;\n\n    var rgba = {\n        r: ((rgb2.r - rgb1.r) * p) + rgb1.r,\n        g: ((rgb2.g - rgb1.g) * p) + rgb1.g,\n        b: ((rgb2.b - rgb1.b) * p) + rgb1.b,\n        a: ((rgb2.a - rgb1.a) * p) + rgb1.a\n    };\n\n    return tinycolor(rgba);\n};\n\n\n// Readability Functions\n// ---------------------\n// <http://www.w3.org/TR/2008/REC-WCAG20-20081211/#contrast-ratiodef (WCAG Version 2)\n\n// `contrast`\n// Analyze the 2 colors and returns the color contrast defined by (WCAG Version 2)\ntinycolor.readability = function(color1, color2) {\n    var c1 = tinycolor(color1);\n    var c2 = tinycolor(color2);\n    return (Math.max(c1.getLuminance(),c2.getLuminance())+0.05) / (Math.min(c1.getLuminance(),c2.getLuminance())+0.05);\n};\n\n// `isReadable`\n// Ensure that foreground and background color combinations meet WCAG2 guidelines.\n// The third argument is an optional Object.\n//      the 'level' property states 'AA' or 'AAA' - if missing or invalid, it defaults to 'AA';\n//      the 'size' property states 'large' or 'small' - if missing or invalid, it defaults to 'small'.\n// If the entire object is absent, isReadable defaults to {level:\"AA\",size:\"small\"}.\n\n// *Example*\n//    tinycolor.isReadable(\"#000\", \"#111\") => false\n//    tinycolor.isReadable(\"#000\", \"#111\",{level:\"AA\",size:\"large\"}) => false\ntinycolor.isReadable = function(color1, color2, wcag2) {\n    var readability = tinycolor.readability(color1, color2);\n    var wcag2Parms, out;\n\n    out = false;\n\n    wcag2Parms = validateWCAG2Parms(wcag2);\n    switch (wcag2Parms.level + wcag2Parms.size) {\n        case \"AAsmall\":\n        case \"AAAlarge\":\n            out = readability >= 4.5;\n            break;\n        case \"AAlarge\":\n            out = readability >= 3;\n            break;\n        case \"AAAsmall\":\n            out = readability >= 7;\n            break;\n    }\n    return out;\n\n};\n\n// `mostReadable`\n// Given a base color and a list of possible foreground or background\n// colors for that base, returns the most readable color.\n// Optionally returns Black or White if the most readable color is unreadable.\n// *Example*\n//    tinycolor.mostReadable(tinycolor.mostReadable(\"#123\", [\"#124\", \"#125\"],{includeFallbackColors:false}).toHexString(); // \"#112255\"\n//    tinycolor.mostReadable(tinycolor.mostReadable(\"#123\", [\"#124\", \"#125\"],{includeFallbackColors:true}).toHexString();  // \"#ffffff\"\n//    tinycolor.mostReadable(\"#a8015a\", [\"#faf3f3\"],{includeFallbackColors:true,level:\"AAA\",size:\"large\"}).toHexString(); // \"#faf3f3\"\n//    tinycolor.mostReadable(\"#a8015a\", [\"#faf3f3\"],{includeFallbackColors:true,level:\"AAA\",size:\"small\"}).toHexString(); // \"#ffffff\"\ntinycolor.mostReadable = function(baseColor, colorList, args) {\n    var bestColor = null;\n    var bestScore = 0;\n    var readability;\n    var includeFallbackColors, level, size ;\n    args = args || {};\n    includeFallbackColors = args.includeFallbackColors ;\n    level = args.level;\n    size = args.size;\n\n    for (var i= 0; i < colorList.length ; i++) {\n        readability = tinycolor.readability(baseColor, colorList[i]);\n        if (readability > bestScore) {\n            bestScore = readability;\n            bestColor = tinycolor(colorList[i]);\n        }\n    }\n\n    if (tinycolor.isReadable(baseColor, bestColor, {\"level\":level,\"size\":size}) || !includeFallbackColors) {\n        return bestColor;\n    }\n    else {\n        args.includeFallbackColors=false;\n        return tinycolor.mostReadable(baseColor,[\"#fff\", \"#000\"],args);\n    }\n};\n\n\n// Big List of Colors\n// ------------------\n// <http://www.w3.org/TR/css3-color/#svg-color>\nvar names = tinycolor.names = {\n    aliceblue: \"f0f8ff\",\n    antiquewhite: \"faebd7\",\n    aqua: \"0ff\",\n    aquamarine: \"7fffd4\",\n    azure: \"f0ffff\",\n    beige: \"f5f5dc\",\n    bisque: \"ffe4c4\",\n    black: \"000\",\n    blanchedalmond: \"ffebcd\",\n    blue: \"00f\",\n    blueviolet: \"8a2be2\",\n    brown: \"a52a2a\",\n    burlywood: \"deb887\",\n    burntsienna: \"ea7e5d\",\n    cadetblue: \"5f9ea0\",\n    chartreuse: \"7fff00\",\n    chocolate: \"d2691e\",\n    coral: \"ff7f50\",\n    cornflowerblue: \"6495ed\",\n    cornsilk: \"fff8dc\",\n    crimson: \"dc143c\",\n    cyan: \"0ff\",\n    darkblue: \"00008b\",\n    darkcyan: \"008b8b\",\n    darkgoldenrod: \"b8860b\",\n    darkgray: \"a9a9a9\",\n    darkgreen: \"006400\",\n    darkgrey: \"a9a9a9\",\n    darkkhaki: \"bdb76b\",\n    darkmagenta: \"8b008b\",\n    darkolivegreen: \"556b2f\",\n    darkorange: \"ff8c00\",\n    darkorchid: \"9932cc\",\n    darkred: \"8b0000\",\n    darksalmon: \"e9967a\",\n    darkseagreen: \"8fbc8f\",\n    darkslateblue: \"483d8b\",\n    darkslategray: \"2f4f4f\",\n    darkslategrey: \"2f4f4f\",\n    darkturquoise: \"00ced1\",\n    darkviolet: \"9400d3\",\n    deeppink: \"ff1493\",\n    deepskyblue: \"00bfff\",\n    dimgray: \"696969\",\n    dimgrey: \"696969\",\n    dodgerblue: \"1e90ff\",\n    firebrick: \"b22222\",\n    floralwhite: \"fffaf0\",\n    forestgreen: \"228b22\",\n    fuchsia: \"f0f\",\n    gainsboro: \"dcdcdc\",\n    ghostwhite: \"f8f8ff\",\n    gold: \"ffd700\",\n    goldenrod: \"daa520\",\n    gray: \"808080\",\n    green: \"008000\",\n    greenyellow: \"adff2f\",\n    grey: \"808080\",\n    honeydew: \"f0fff0\",\n    hotpink: \"ff69b4\",\n    indianred: \"cd5c5c\",\n    indigo: \"4b0082\",\n    ivory: \"fffff0\",\n    khaki: \"f0e68c\",\n    lavender: \"e6e6fa\",\n    lavenderblush: \"fff0f5\",\n    lawngreen: \"7cfc00\",\n    lemonchiffon: \"fffacd\",\n    lightblue: \"add8e6\",\n    lightcoral: \"f08080\",\n    lightcyan: \"e0ffff\",\n    lightgoldenrodyellow: \"fafad2\",\n    lightgray: \"d3d3d3\",\n    lightgreen: \"90ee90\",\n    lightgrey: \"d3d3d3\",\n    lightpink: \"ffb6c1\",\n    lightsalmon: \"ffa07a\",\n    lightseagreen: \"20b2aa\",\n    lightskyblue: \"87cefa\",\n    lightslategray: \"789\",\n    lightslategrey: \"789\",\n    lightsteelblue: \"b0c4de\",\n    lightyellow: \"ffffe0\",\n    lime: \"0f0\",\n    limegreen: \"32cd32\",\n    linen: \"faf0e6\",\n    magenta: \"f0f\",\n    maroon: \"800000\",\n    mediumaquamarine: \"66cdaa\",\n    mediumblue: \"0000cd\",\n    mediumorchid: \"ba55d3\",\n    mediumpurple: \"9370db\",\n    mediumseagreen: \"3cb371\",\n    mediumslateblue: \"7b68ee\",\n    mediumspringgreen: \"00fa9a\",\n    mediumturquoise: \"48d1cc\",\n    mediumvioletred: \"c71585\",\n    midnightblue: \"191970\",\n    mintcream: \"f5fffa\",\n    mistyrose: \"ffe4e1\",\n    moccasin: \"ffe4b5\",\n    navajowhite: \"ffdead\",\n    navy: \"000080\",\n    oldlace: \"fdf5e6\",\n    olive: \"808000\",\n    olivedrab: \"6b8e23\",\n    orange: \"ffa500\",\n    orangered: \"ff4500\",\n    orchid: \"da70d6\",\n    palegoldenrod: \"eee8aa\",\n    palegreen: \"98fb98\",\n    paleturquoise: \"afeeee\",\n    palevioletred: \"db7093\",\n    papayawhip: \"ffefd5\",\n    peachpuff: \"ffdab9\",\n    peru: \"cd853f\",\n    pink: \"ffc0cb\",\n    plum: \"dda0dd\",\n    powderblue: \"b0e0e6\",\n    purple: \"800080\",\n    rebeccapurple: \"663399\",\n    red: \"f00\",\n    rosybrown: \"bc8f8f\",\n    royalblue: \"4169e1\",\n    saddlebrown: \"8b4513\",\n    salmon: \"fa8072\",\n    sandybrown: \"f4a460\",\n    seagreen: \"2e8b57\",\n    seashell: \"fff5ee\",\n    sienna: \"a0522d\",\n    silver: \"c0c0c0\",\n    skyblue: \"87ceeb\",\n    slateblue: \"6a5acd\",\n    slategray: \"708090\",\n    slategrey: \"708090\",\n    snow: \"fffafa\",\n    springgreen: \"00ff7f\",\n    steelblue: \"4682b4\",\n    tan: \"d2b48c\",\n    teal: \"008080\",\n    thistle: \"d8bfd8\",\n    tomato: \"ff6347\",\n    turquoise: \"40e0d0\",\n    violet: \"ee82ee\",\n    wheat: \"f5deb3\",\n    white: \"fff\",\n    whitesmoke: \"f5f5f5\",\n    yellow: \"ff0\",\n    yellowgreen: \"9acd32\"\n};\n\n// Make it easy to access colors via `hexNames[hex]`\nvar hexNames = tinycolor.hexNames = flip(names);\n\n\n// Utilities\n// ---------\n\n// `{ 'name1': 'val1' }` becomes `{ 'val1': 'name1' }`\nfunction flip(o) {\n    var flipped = { };\n    for (var i in o) {\n        if (o.hasOwnProperty(i)) {\n            flipped[o[i]] = i;\n        }\n    }\n    return flipped;\n}\n\n// Return a valid alpha value [0,1] with all invalid values being set to 1\nfunction boundAlpha(a) {\n    a = parseFloat(a);\n\n    if (isNaN(a) || a < 0 || a > 1) {\n        a = 1;\n    }\n\n    return a;\n}\n\n// Take input from [0, n] and return it as [0, 1]\nfunction bound01(n, max) {\n    if (isOnePointZero(n)) { n = \"100%\"; }\n\n    var processPercent = isPercentage(n);\n    n = mathMin(max, mathMax(0, parseFloat(n)));\n\n    // Automatically convert percentage into number\n    if (processPercent) {\n        n = parseInt(n * max, 10) / 100;\n    }\n\n    // Handle floating point rounding errors\n    if ((Math.abs(n - max) < 0.000001)) {\n        return 1;\n    }\n\n    // Convert into [0, 1] range if it isn't already\n    return (n % max) / parseFloat(max);\n}\n\n// Force a number between 0 and 1\nfunction clamp01(val) {\n    return mathMin(1, mathMax(0, val));\n}\n\n// Parse a base-16 hex value into a base-10 integer\nfunction parseIntFromHex(val) {\n    return parseInt(val, 16);\n}\n\n// Need to handle 1.0 as 100%, since once it is a number, there is no difference between it and 1\n// <http://stackoverflow.com/questions/7422072/javascript-how-to-detect-number-as-a-decimal-including-1-0>\nfunction isOnePointZero(n) {\n    return typeof n == \"string\" && n.indexOf('.') != -1 && parseFloat(n) === 1;\n}\n\n// Check to see if string passed in is a percentage\nfunction isPercentage(n) {\n    return typeof n === \"string\" && n.indexOf('%') != -1;\n}\n\n// Force a hex value to have 2 characters\nfunction pad2(c) {\n    return c.length == 1 ? '0' + c : '' + c;\n}\n\n// Replace a decimal with it's percentage value\nfunction convertToPercentage(n) {\n    if (n <= 1) {\n        n = (n * 100) + \"%\";\n    }\n\n    return n;\n}\n\n// Converts a decimal to a hex value\nfunction convertDecimalToHex(d) {\n    return Math.round(parseFloat(d) * 255).toString(16);\n}\n// Converts a hex value to a decimal\nfunction convertHexToDecimal(h) {\n    return (parseIntFromHex(h) / 255);\n}\n\nvar matchers = (function() {\n\n    // <http://www.w3.org/TR/css3-values/#integers>\n    var CSS_INTEGER = \"[-\\\\+]?\\\\d+%?\";\n\n    // <http://www.w3.org/TR/css3-values/#number-value>\n    var CSS_NUMBER = \"[-\\\\+]?\\\\d*\\\\.\\\\d+%?\";\n\n    // Allow positive/negative integer/number.  Don't capture the either/or, just the entire outcome.\n    var CSS_UNIT = \"(?:\" + CSS_NUMBER + \")|(?:\" + CSS_INTEGER + \")\";\n\n    // Actual matching.\n    // Parentheses and commas are optional, but not required.\n    // Whitespace can take the place of commas or opening paren\n    var PERMISSIVE_MATCH3 = \"[\\\\s|\\\\(]+(\" + CSS_UNIT + \")[,|\\\\s]+(\" + CSS_UNIT + \")[,|\\\\s]+(\" + CSS_UNIT + \")\\\\s*\\\\)?\";\n    var PERMISSIVE_MATCH4 = \"[\\\\s|\\\\(]+(\" + CSS_UNIT + \")[,|\\\\s]+(\" + CSS_UNIT + \")[,|\\\\s]+(\" + CSS_UNIT + \")[,|\\\\s]+(\" + CSS_UNIT + \")\\\\s*\\\\)?\";\n\n    return {\n        CSS_UNIT: new RegExp(CSS_UNIT),\n        rgb: new RegExp(\"rgb\" + PERMISSIVE_MATCH3),\n        rgba: new RegExp(\"rgba\" + PERMISSIVE_MATCH4),\n        hsl: new RegExp(\"hsl\" + PERMISSIVE_MATCH3),\n        hsla: new RegExp(\"hsla\" + PERMISSIVE_MATCH4),\n        hsv: new RegExp(\"hsv\" + PERMISSIVE_MATCH3),\n        hsva: new RegExp(\"hsva\" + PERMISSIVE_MATCH4),\n        hex3: /^#?([0-9a-fA-F]{1})([0-9a-fA-F]{1})([0-9a-fA-F]{1})$/,\n        hex6: /^#?([0-9a-fA-F]{2})([0-9a-fA-F]{2})([0-9a-fA-F]{2})$/,\n        hex4: /^#?([0-9a-fA-F]{1})([0-9a-fA-F]{1})([0-9a-fA-F]{1})([0-9a-fA-F]{1})$/,\n        hex8: /^#?([0-9a-fA-F]{2})([0-9a-fA-F]{2})([0-9a-fA-F]{2})([0-9a-fA-F]{2})$/\n    };\n})();\n\n// `isValidCSSUnit`\n// Take in a single string / number and check to see if it looks like a CSS unit\n// (see `matchers` above for definition).\nfunction isValidCSSUnit(color) {\n    return !!matchers.CSS_UNIT.exec(color);\n}\n\n// `stringInputToObject`\n// Permissive string parsing.  Take in a number of formats, and output an object\n// based on detected format.  Returns `{ r, g, b }` or `{ h, s, l }` or `{ h, s, v}`\nfunction stringInputToObject(color) {\n\n    color = color.replace(trimLeft,'').replace(trimRight, '').toLowerCase();\n    var named = false;\n    if (names[color]) {\n        color = names[color];\n        named = true;\n    }\n    else if (color == 'transparent') {\n        return { r: 0, g: 0, b: 0, a: 0, format: \"name\" };\n    }\n\n    // Try to match string input using regular expressions.\n    // Keep most of the number bounding out of this function - don't worry about [0,1] or [0,100] or [0,360]\n    // Just return an object and let the conversion functions handle that.\n    // This way the result will be the same whether the tinycolor is initialized with string or object.\n    var match;\n    if ((match = matchers.rgb.exec(color))) {\n        return { r: match[1], g: match[2], b: match[3] };\n    }\n    if ((match = matchers.rgba.exec(color))) {\n        return { r: match[1], g: match[2], b: match[3], a: match[4] };\n    }\n    if ((match = matchers.hsl.exec(color))) {\n        return { h: match[1], s: match[2], l: match[3] };\n    }\n    if ((match = matchers.hsla.exec(color))) {\n        return { h: match[1], s: match[2], l: match[3], a: match[4] };\n    }\n    if ((match = matchers.hsv.exec(color))) {\n        return { h: match[1], s: match[2], v: match[3] };\n    }\n    if ((match = matchers.hsva.exec(color))) {\n        return { h: match[1], s: match[2], v: match[3], a: match[4] };\n    }\n    if ((match = matchers.hex8.exec(color))) {\n        return {\n            r: parseIntFromHex(match[1]),\n            g: parseIntFromHex(match[2]),\n            b: parseIntFromHex(match[3]),\n            a: convertHexToDecimal(match[4]),\n            format: named ? \"name\" : \"hex8\"\n        };\n    }\n    if ((match = matchers.hex6.exec(color))) {\n        return {\n            r: parseIntFromHex(match[1]),\n            g: parseIntFromHex(match[2]),\n            b: parseIntFromHex(match[3]),\n            format: named ? \"name\" : \"hex\"\n        };\n    }\n    if ((match = matchers.hex4.exec(color))) {\n        return {\n            r: parseIntFromHex(match[1] + '' + match[1]),\n            g: parseIntFromHex(match[2] + '' + match[2]),\n            b: parseIntFromHex(match[3] + '' + match[3]),\n            a: convertHexToDecimal(match[4] + '' + match[4]),\n            format: named ? \"name\" : \"hex8\"\n        };\n    }\n    if ((match = matchers.hex3.exec(color))) {\n        return {\n            r: parseIntFromHex(match[1] + '' + match[1]),\n            g: parseIntFromHex(match[2] + '' + match[2]),\n            b: parseIntFromHex(match[3] + '' + match[3]),\n            format: named ? \"name\" : \"hex\"\n        };\n    }\n\n    return false;\n}\n\nfunction validateWCAG2Parms(parms) {\n    // return valid WCAG2 parms for isReadable.\n    // If input parms are invalid, return {\"level\":\"AA\", \"size\":\"small\"}\n    var level, size;\n    parms = parms || {\"level\":\"AA\", \"size\":\"small\"};\n    level = (parms.level || \"AA\").toUpperCase();\n    size = (parms.size || \"small\").toLowerCase();\n    if (level !== \"AA\" && level !== \"AAA\") {\n        level = \"AA\";\n    }\n    if (size !== \"small\" && size !== \"large\") {\n        size = \"small\";\n    }\n    return {\"level\":level, \"size\":size};\n}\n\n// Node: Export function\nif ( true && module.exports) {\n    module.exports = tinycolor;\n}\n// AMD/requirejs: Define the module\nelse if (true) {\n    !(__WEBPACK_AMD_DEFINE_RESULT__ = (function () {return tinycolor;}).call(exports, __webpack_require__, exports, module),\n\t\t\t\t__WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));\n}\n// Browser: Expose to window\nelse {}\n\n})(Math);\n\n\n//# sourceURL=webpack:///./node_modules/tinycolor2/tinycolor.js?");
+
+/***/ }),
+
 /***/ "./node_modules/unicode-canonical-property-names-ecmascript/index.js":
 /*!***************************************************************************!*\
   !*** ./node_modules/unicode-canonical-property-names-ecmascript/index.js ***!
@@ -10069,6 +11402,52 @@ eval("var reg = /[\\'\\\"]/\n\nmodule.exports = function unquote(str) {\n  if (!
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return normalizeComponent; });\n/* globals __VUE_SSR_CONTEXT__ */\n\n// IMPORTANT: Do NOT use ES2015 features in this file (except for modules).\n// This module is a runtime utility for cleaner component module output and will\n// be included in the final webpack user bundle.\n\nfunction normalizeComponent (\n  scriptExports,\n  render,\n  staticRenderFns,\n  functionalTemplate,\n  injectStyles,\n  scopeId,\n  moduleIdentifier, /* server only */\n  shadowMode /* vue-cli only */\n) {\n  // Vue.extend constructor export interop\n  var options = typeof scriptExports === 'function'\n    ? scriptExports.options\n    : scriptExports\n\n  // render functions\n  if (render) {\n    options.render = render\n    options.staticRenderFns = staticRenderFns\n    options._compiled = true\n  }\n\n  // functional template\n  if (functionalTemplate) {\n    options.functional = true\n  }\n\n  // scopedId\n  if (scopeId) {\n    options._scopeId = 'data-v-' + scopeId\n  }\n\n  var hook\n  if (moduleIdentifier) { // server build\n    hook = function (context) {\n      // 2.3 injection\n      context =\n        context || // cached call\n        (this.$vnode && this.$vnode.ssrContext) || // stateful\n        (this.parent && this.parent.$vnode && this.parent.$vnode.ssrContext) // functional\n      // 2.2 with runInNewContext: true\n      if (!context && typeof __VUE_SSR_CONTEXT__ !== 'undefined') {\n        context = __VUE_SSR_CONTEXT__\n      }\n      // inject component styles\n      if (injectStyles) {\n        injectStyles.call(this, context)\n      }\n      // register component module identifier for async chunk inferrence\n      if (context && context._registeredComponents) {\n        context._registeredComponents.add(moduleIdentifier)\n      }\n    }\n    // used by ssr in case component is cached and beforeCreate\n    // never gets called\n    options._ssrRegister = hook\n  } else if (injectStyles) {\n    hook = shadowMode\n      ? function () { injectStyles.call(this, this.$root.$options.shadowRoot) }\n      : injectStyles\n  }\n\n  if (hook) {\n    if (options.functional) {\n      // for template-only hot-reload because in that case the render fn doesn't\n      // go through the normalizer\n      options._injectStyles = hook\n      // register for functioal component in vue file\n      var originalRender = options.render\n      options.render = function renderWithStyleInjection (h, context) {\n        hook.call(context)\n        return originalRender(h, context)\n      }\n    } else {\n      // inject component registration as beforeCreate hook\n      var existing = options.beforeCreate\n      options.beforeCreate = existing\n        ? [].concat(existing, hook)\n        : [hook]\n    }\n  }\n\n  return {\n    exports: scriptExports,\n    options: options\n  }\n}\n\n\n//# sourceURL=webpack:///./node_modules/vue-loader/lib/runtime/componentNormalizer.js?");
+
+/***/ }),
+
+/***/ "./node_modules/vue-style-loader/index.js?!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/components/Color.vue?vue&type=style&index=0&id=6dd55b60&scoped=true&lang=css&":
+/*!**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-style-loader??ref--7-oneOf-1-0!./node_modules/css-loader??ref--7-oneOf-1-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-oneOf-1-2!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/Color.vue?vue&type=style&index=0&id=6dd55b60&scoped=true&lang=css& ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// style-loader: Adds some css to the DOM by adding a <style> tag\n\n// load the styles\nvar content = __webpack_require__(/*! !../../node_modules/css-loader??ref--7-oneOf-1-1!../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../node_modules/postcss-loader/src??ref--7-oneOf-1-2!../../node_modules/cache-loader/dist/cjs.js??ref--1-0!../../node_modules/vue-loader/lib??vue-loader-options!./Color.vue?vue&type=style&index=0&id=6dd55b60&scoped=true&lang=css& */ \"./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/components/Color.vue?vue&type=style&index=0&id=6dd55b60&scoped=true&lang=css&\");\nif(typeof content === 'string') content = [[module.i, content, '']];\nif(content.locals) module.exports = content.locals;\n// add the styles to the DOM\nvar add = __webpack_require__(/*! ../../node_modules/vue-style-loader/lib/addStylesClient.js */ \"./node_modules/vue-style-loader/lib/addStylesClient.js\").default\nvar update = add(\"07bd1578\", content, true, {\"sourceMap\":false,\"shadowMode\":false});\n\n//# sourceURL=webpack:///./src/components/Color.vue?./node_modules/vue-style-loader??ref--7-oneOf-1-0!./node_modules/css-loader??ref--7-oneOf-1-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-oneOf-1-2!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options");
+
+/***/ }),
+
+/***/ "./node_modules/vue-style-loader/index.js?!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/components/Colors.vue?vue&type=style&index=0&id=4bde07ba&scoped=true&lang=css&":
+/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-style-loader??ref--7-oneOf-1-0!./node_modules/css-loader??ref--7-oneOf-1-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-oneOf-1-2!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/Colors.vue?vue&type=style&index=0&id=4bde07ba&scoped=true&lang=css& ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// style-loader: Adds some css to the DOM by adding a <style> tag\n\n// load the styles\nvar content = __webpack_require__(/*! !../../node_modules/css-loader??ref--7-oneOf-1-1!../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../node_modules/postcss-loader/src??ref--7-oneOf-1-2!../../node_modules/cache-loader/dist/cjs.js??ref--1-0!../../node_modules/vue-loader/lib??vue-loader-options!./Colors.vue?vue&type=style&index=0&id=4bde07ba&scoped=true&lang=css& */ \"./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/components/Colors.vue?vue&type=style&index=0&id=4bde07ba&scoped=true&lang=css&\");\nif(typeof content === 'string') content = [[module.i, content, '']];\nif(content.locals) module.exports = content.locals;\n// add the styles to the DOM\nvar add = __webpack_require__(/*! ../../node_modules/vue-style-loader/lib/addStylesClient.js */ \"./node_modules/vue-style-loader/lib/addStylesClient.js\").default\nvar update = add(\"2591bd13\", content, true, {\"sourceMap\":false,\"shadowMode\":false});\n\n//# sourceURL=webpack:///./src/components/Colors.vue?./node_modules/vue-style-loader??ref--7-oneOf-1-0!./node_modules/css-loader??ref--7-oneOf-1-1!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src??ref--7-oneOf-1-2!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options");
+
+/***/ }),
+
+/***/ "./node_modules/vue-style-loader/lib/addStylesClient.js":
+/*!**************************************************************!*\
+  !*** ./node_modules/vue-style-loader/lib/addStylesClient.js ***!
+  \**************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return addStylesClient; });\n/* harmony import */ var _listToStyles__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./listToStyles */ \"./node_modules/vue-style-loader/lib/listToStyles.js\");\n/*\n  MIT License http://www.opensource.org/licenses/mit-license.php\n  Author Tobias Koppers @sokra\n  Modified by Evan You @yyx990803\n*/\n\n\n\nvar hasDocument = typeof document !== 'undefined'\n\nif (typeof DEBUG !== 'undefined' && DEBUG) {\n  if (!hasDocument) {\n    throw new Error(\n    'vue-style-loader cannot be used in a non-browser environment. ' +\n    \"Use { target: 'node' } in your Webpack config to indicate a server-rendering environment.\"\n  ) }\n}\n\n/*\ntype StyleObject = {\n  id: number;\n  parts: Array<StyleObjectPart>\n}\n\ntype StyleObjectPart = {\n  css: string;\n  media: string;\n  sourceMap: ?string\n}\n*/\n\nvar stylesInDom = {/*\n  [id: number]: {\n    id: number,\n    refs: number,\n    parts: Array<(obj?: StyleObjectPart) => void>\n  }\n*/}\n\nvar head = hasDocument && (document.head || document.getElementsByTagName('head')[0])\nvar singletonElement = null\nvar singletonCounter = 0\nvar isProduction = false\nvar noop = function () {}\nvar options = null\nvar ssrIdKey = 'data-vue-ssr-id'\n\n// Force single-tag solution on IE6-9, which has a hard limit on the # of <style>\n// tags it will allow on a page\nvar isOldIE = typeof navigator !== 'undefined' && /msie [6-9]\\b/.test(navigator.userAgent.toLowerCase())\n\nfunction addStylesClient (parentId, list, _isProduction, _options) {\n  isProduction = _isProduction\n\n  options = _options || {}\n\n  var styles = Object(_listToStyles__WEBPACK_IMPORTED_MODULE_0__[\"default\"])(parentId, list)\n  addStylesToDom(styles)\n\n  return function update (newList) {\n    var mayRemove = []\n    for (var i = 0; i < styles.length; i++) {\n      var item = styles[i]\n      var domStyle = stylesInDom[item.id]\n      domStyle.refs--\n      mayRemove.push(domStyle)\n    }\n    if (newList) {\n      styles = Object(_listToStyles__WEBPACK_IMPORTED_MODULE_0__[\"default\"])(parentId, newList)\n      addStylesToDom(styles)\n    } else {\n      styles = []\n    }\n    for (var i = 0; i < mayRemove.length; i++) {\n      var domStyle = mayRemove[i]\n      if (domStyle.refs === 0) {\n        for (var j = 0; j < domStyle.parts.length; j++) {\n          domStyle.parts[j]()\n        }\n        delete stylesInDom[domStyle.id]\n      }\n    }\n  }\n}\n\nfunction addStylesToDom (styles /* Array<StyleObject> */) {\n  for (var i = 0; i < styles.length; i++) {\n    var item = styles[i]\n    var domStyle = stylesInDom[item.id]\n    if (domStyle) {\n      domStyle.refs++\n      for (var j = 0; j < domStyle.parts.length; j++) {\n        domStyle.parts[j](item.parts[j])\n      }\n      for (; j < item.parts.length; j++) {\n        domStyle.parts.push(addStyle(item.parts[j]))\n      }\n      if (domStyle.parts.length > item.parts.length) {\n        domStyle.parts.length = item.parts.length\n      }\n    } else {\n      var parts = []\n      for (var j = 0; j < item.parts.length; j++) {\n        parts.push(addStyle(item.parts[j]))\n      }\n      stylesInDom[item.id] = { id: item.id, refs: 1, parts: parts }\n    }\n  }\n}\n\nfunction createStyleElement () {\n  var styleElement = document.createElement('style')\n  styleElement.type = 'text/css'\n  head.appendChild(styleElement)\n  return styleElement\n}\n\nfunction addStyle (obj /* StyleObjectPart */) {\n  var update, remove\n  var styleElement = document.querySelector('style[' + ssrIdKey + '~=\"' + obj.id + '\"]')\n\n  if (styleElement) {\n    if (isProduction) {\n      // has SSR styles and in production mode.\n      // simply do nothing.\n      return noop\n    } else {\n      // has SSR styles but in dev mode.\n      // for some reason Chrome can't handle source map in server-rendered\n      // style tags - source maps in <style> only works if the style tag is\n      // created and inserted dynamically. So we remove the server rendered\n      // styles and inject new ones.\n      styleElement.parentNode.removeChild(styleElement)\n    }\n  }\n\n  if (isOldIE) {\n    // use singleton mode for IE9.\n    var styleIndex = singletonCounter++\n    styleElement = singletonElement || (singletonElement = createStyleElement())\n    update = applyToSingletonTag.bind(null, styleElement, styleIndex, false)\n    remove = applyToSingletonTag.bind(null, styleElement, styleIndex, true)\n  } else {\n    // use multi-style-tag mode in all other cases\n    styleElement = createStyleElement()\n    update = applyToTag.bind(null, styleElement)\n    remove = function () {\n      styleElement.parentNode.removeChild(styleElement)\n    }\n  }\n\n  update(obj)\n\n  return function updateStyle (newObj /* StyleObjectPart */) {\n    if (newObj) {\n      if (newObj.css === obj.css &&\n          newObj.media === obj.media &&\n          newObj.sourceMap === obj.sourceMap) {\n        return\n      }\n      update(obj = newObj)\n    } else {\n      remove()\n    }\n  }\n}\n\nvar replaceText = (function () {\n  var textStore = []\n\n  return function (index, replacement) {\n    textStore[index] = replacement\n    return textStore.filter(Boolean).join('\\n')\n  }\n})()\n\nfunction applyToSingletonTag (styleElement, index, remove, obj) {\n  var css = remove ? '' : obj.css\n\n  if (styleElement.styleSheet) {\n    styleElement.styleSheet.cssText = replaceText(index, css)\n  } else {\n    var cssNode = document.createTextNode(css)\n    var childNodes = styleElement.childNodes\n    if (childNodes[index]) styleElement.removeChild(childNodes[index])\n    if (childNodes.length) {\n      styleElement.insertBefore(cssNode, childNodes[index])\n    } else {\n      styleElement.appendChild(cssNode)\n    }\n  }\n}\n\nfunction applyToTag (styleElement, obj) {\n  var css = obj.css\n  var media = obj.media\n  var sourceMap = obj.sourceMap\n\n  if (media) {\n    styleElement.setAttribute('media', media)\n  }\n  if (options.ssrId) {\n    styleElement.setAttribute(ssrIdKey, obj.id)\n  }\n\n  if (sourceMap) {\n    // https://developer.chrome.com/devtools/docs/javascript-debugging\n    // this makes source maps inside style tags work properly in Chrome\n    css += '\\n/*# sourceURL=' + sourceMap.sources[0] + ' */'\n    // http://stackoverflow.com/a/26603875\n    css += '\\n/*# sourceMappingURL=data:application/json;base64,' + btoa(unescape(encodeURIComponent(JSON.stringify(sourceMap)))) + ' */'\n  }\n\n  if (styleElement.styleSheet) {\n    styleElement.styleSheet.cssText = css\n  } else {\n    while (styleElement.firstChild) {\n      styleElement.removeChild(styleElement.firstChild)\n    }\n    styleElement.appendChild(document.createTextNode(css))\n  }\n}\n\n\n//# sourceURL=webpack:///./node_modules/vue-style-loader/lib/addStylesClient.js?");
+
+/***/ }),
+
+/***/ "./node_modules/vue-style-loader/lib/listToStyles.js":
+/*!***********************************************************!*\
+  !*** ./node_modules/vue-style-loader/lib/listToStyles.js ***!
+  \***********************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"default\", function() { return listToStyles; });\n/**\n * Translates the list format produced by css-loader into something\n * easier to manipulate.\n */\nfunction listToStyles (parentId, list) {\n  var styles = []\n  var newStyles = {}\n  for (var i = 0; i < list.length; i++) {\n    var item = list[i]\n    var id = item[0]\n    var css = item[1]\n    var media = item[2]\n    var sourceMap = item[3]\n    var part = {\n      id: parentId + ':' + i,\n      css: css,\n      media: media,\n      sourceMap: sourceMap\n    }\n    if (!newStyles[id]) {\n      styles.push(newStyles[id] = { id: id, parts: [part] })\n    } else {\n      newStyles[id].parts.push(part)\n    }\n  }\n  return styles\n}\n\n\n//# sourceURL=webpack:///./node_modules/vue-style-loader/lib/listToStyles.js?");
 
 /***/ }),
 
@@ -10408,25 +11787,36 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 
 /***/ }),
 
-/***/ "./node_modules/vue-styleguidist/loaders/examples-loader.js?componentName=AppButton&customLangs=vue|js|jsx!./node_modules/vue-styleguidist/scripts/templates/DefaultExample.md":
-/*!*************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/vue-styleguidist/loaders/examples-loader.js?componentName=AppButton&customLangs=vue|js|jsx!./node_modules/vue-styleguidist/scripts/templates/DefaultExample.md ***!
-  \*************************************************************************************************************************************************************************************/
+/***/ "./node_modules/vue-styleguidist/loaders/examples-loader.js?componentName=Colors&customLangs=vue|js|jsx!./node_modules/vue-styleguidist/scripts/templates/DefaultExample.md":
+/*!**********************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/vue-styleguidist/loaders/examples-loader.js?componentName=Colors&customLangs=vue|js|jsx!./node_modules/vue-styleguidist/scripts/templates/DefaultExample.md ***!
+  \**********************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("\nif (false) {}\n\nvar requireMap = { 'react': __webpack_require__(/*! react */ \"./node_modules/react/index.js\") };\nvar requireInRuntimeBase = __webpack_require__(/*! ./node_modules/react-styleguidist/loaders/utils/client/requireInRuntime */ \"./node_modules/react-styleguidist/loaders/utils/client/requireInRuntime.js\");\nvar requireInRuntime = requireInRuntimeBase.bind(null, requireMap);\nvar evalInContextBase = __webpack_require__(/*! ./node_modules/react-styleguidist/loaders/utils/client/evalInContext */ \"./node_modules/react-styleguidist/loaders/utils/client/evalInContext.js\");\nvar evalInContext = evalInContextBase.bind(null, \"var React = require('react');\", requireInRuntime);\n\nmodule.exports = [{\n        'type': 'code',\n        'content': '<AppButton>Default Example Usage</AppButton>',\n        'settings': {},\n        'evalInContext': evalInContext\n    }]\n\t\n\n//# sourceURL=webpack:///./node_modules/vue-styleguidist/scripts/templates/DefaultExample.md?./node_modules/vue-styleguidist/loaders/examples-loader.js?componentName=AppButton&customLangs=vue%7Cjs%7Cjsx");
+eval("\nif (false) {}\n\nvar requireMap = { 'react': __webpack_require__(/*! react */ \"./node_modules/react/index.js\") };\nvar requireInRuntimeBase = __webpack_require__(/*! ./node_modules/react-styleguidist/loaders/utils/client/requireInRuntime */ \"./node_modules/react-styleguidist/loaders/utils/client/requireInRuntime.js\");\nvar requireInRuntime = requireInRuntimeBase.bind(null, requireMap);\nvar evalInContextBase = __webpack_require__(/*! ./node_modules/react-styleguidist/loaders/utils/client/evalInContext */ \"./node_modules/react-styleguidist/loaders/utils/client/evalInContext.js\");\nvar evalInContext = evalInContextBase.bind(null, \"var React = require('react');\", requireInRuntime);\n\nmodule.exports = [{\n        'type': 'code',\n        'content': '<Colors>Default Example Usage</Colors>',\n        'settings': {},\n        'evalInContext': evalInContext\n    }]\n\t\n\n//# sourceURL=webpack:///./node_modules/vue-styleguidist/scripts/templates/DefaultExample.md?./node_modules/vue-styleguidist/loaders/examples-loader.js?componentName=Colors&customLangs=vue%7Cjs%7Cjsx");
 
 /***/ }),
 
-/***/ "./node_modules/vue-styleguidist/loaders/examples-loader.js?customLangs=vue|js|jsx!./src/components/AppButton.vue":
-/*!************************************************************************************************************************!*\
-  !*** ./node_modules/vue-styleguidist/loaders/examples-loader.js?customLangs=vue|js|jsx!./src/components/AppButton.vue ***!
-  \************************************************************************************************************************/
+/***/ "./node_modules/vue-styleguidist/loaders/examples-loader.js?customLangs=vue|js|jsx!./src/pages/index.md":
+/*!**************************************************************************************************************!*\
+  !*** ./node_modules/vue-styleguidist/loaders/examples-loader.js?customLangs=vue|js|jsx!./src/pages/index.md ***!
+  \**************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("\nif (false) {}\n\nvar requireMap = { 'react': __webpack_require__(/*! react */ \"./node_modules/react/index.js\") };\nvar requireInRuntimeBase = __webpack_require__(/*! ./node_modules/react-styleguidist/loaders/utils/client/requireInRuntime */ \"./node_modules/react-styleguidist/loaders/utils/client/requireInRuntime.js\");\nvar requireInRuntime = requireInRuntimeBase.bind(null, requireMap);\nvar evalInContextBase = __webpack_require__(/*! ./node_modules/react-styleguidist/loaders/utils/client/evalInContext */ \"./node_modules/react-styleguidist/loaders/utils/client/evalInContext.js\");\nvar evalInContext = evalInContextBase.bind(null, \"var React = require('react');\", requireInRuntime);\n\nmodule.exports = [\n    {\n        'type': 'markdown',\n        'content': 'This button is amazing, use it responsibly.\\n\\n## Examples\\n\\nOrange button:'\n    },\n    {\n        'type': 'code',\n        'content': '<app-button color=\"orange\">Push Me</app-button>',\n        'settings': {},\n        'evalInContext': evalInContext\n    },\n    {\n        'type': 'markdown',\n        'content': 'Ugly button with pink font and blue background:'\n    },\n    {\n        'type': 'code',\n        'content': '<app-button color=\"pink\" background=\"blue\">\\n  Ugly button\\n</app-button>',\n        'settings': {},\n        'evalInContext': evalInContext\n    },\n    {\n        'type': 'markdown',\n        'content': 'Button containing custom tags:'\n    },\n    {\n        'type': 'code',\n        'content': '<app-button>\\n  Text with <b>bold</b>\\n</app-button>',\n        'settings': {},\n        'evalInContext': evalInContext\n    }\n]\n\t\n\n//# sourceURL=webpack:///./src/components/AppButton.vue?./node_modules/vue-styleguidist/loaders/examples-loader.js?customLangs=vue%7Cjs%7Cjsx");
+eval("\nif (false) {}\n\nvar requireMap = { 'react': __webpack_require__(/*! react */ \"./node_modules/react/index.js\") };\nvar requireInRuntimeBase = __webpack_require__(/*! ./node_modules/react-styleguidist/loaders/utils/client/requireInRuntime */ \"./node_modules/react-styleguidist/loaders/utils/client/requireInRuntime.js\");\nvar requireInRuntime = requireInRuntimeBase.bind(null, requireMap);\nvar evalInContextBase = __webpack_require__(/*! ./node_modules/react-styleguidist/loaders/utils/client/evalInContext */ \"./node_modules/react-styleguidist/loaders/utils/client/evalInContext.js\");\nvar evalInContext = evalInContextBase.bind(null, \"var React = require('react');\", requireInRuntime);\n\nmodule.exports = [{\n        'type': 'markdown',\n        'content': '@system76/tachi is the System76 web style repository. It contains common style\\nvariables, fonts, and documentation about how to use them.'\n    }]\n\t\n\n//# sourceURL=webpack:///./src/pages/index.md?./node_modules/vue-styleguidist/loaders/examples-loader.js?customLangs=vue%7Cjs%7Cjsx");
+
+/***/ }),
+
+/***/ "./node_modules/vue-styleguidist/loaders/examples-loader.js?customLangs=vue|js|jsx!./src/pages/tokens.md":
+/*!***************************************************************************************************************!*\
+  !*** ./node_modules/vue-styleguidist/loaders/examples-loader.js?customLangs=vue|js|jsx!./src/pages/tokens.md ***!
+  \***************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("\nif (false) {}\n\nvar requireMap = { 'react': __webpack_require__(/*! react */ \"./node_modules/react/index.js\") };\nvar requireInRuntimeBase = __webpack_require__(/*! ./node_modules/react-styleguidist/loaders/utils/client/requireInRuntime */ \"./node_modules/react-styleguidist/loaders/utils/client/requireInRuntime.js\");\nvar requireInRuntime = requireInRuntimeBase.bind(null, requireMap);\nvar evalInContextBase = __webpack_require__(/*! ./node_modules/react-styleguidist/loaders/utils/client/evalInContext */ \"./node_modules/react-styleguidist/loaders/utils/client/evalInContext.js\");\nvar evalInContext = evalInContextBase.bind(null, \"var React = require('react');\", requireInRuntime);\n\nmodule.exports = [\n    {\n        'type': 'markdown',\n        'content': 'Design tokens are the atoms of the system as\\n[Salesforce](https://www.lightningdesignsystem.com/design-tokens/) describes\\nthem. We use them instead of hard coded values to ensure a better consistency\\nacross any platform.\\n\\n# Colors'\n    },\n    {\n        'type': 'code',\n        'content': '<colors />',\n        'settings': {},\n        'evalInContext': evalInContext\n    }\n]\n\t\n\n//# sourceURL=webpack:///./src/pages/tokens.md?./node_modules/vue-styleguidist/loaders/examples-loader.js?customLangs=vue%7Cjs%7Cjsx");
 
 /***/ }),
 
@@ -10437,18 +11827,18 @@ eval("\nif (false) {}\n\nvar requireMap = { 'react': __webpack_require__(/*! rea
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("\nif (false) {}\n\nmodule.exports = {\n    'config': {\n        'title': '@system76/design',\n        'version': '0.0.0-development',\n        'showCode': false,\n        'showUsage': false,\n        'showSidebar': true,\n        'previewDelay': 500,\n        'theme': {\n            'maxWidth': '100%',\n            'sidebarWidth': 240,\n            'fontFamily': {\n                'base': [\n                    '\\'Fira Sans\\'',\n                    'Helvetica',\n                    'Arial',\n                    'sans-serif'\n                ],\n                'monospace': [\n                    'Consolas',\n                    '\\'Liberation Mono\\'',\n                    'Menlo',\n                    'monospace'\n                ]\n            }\n        },\n        'styles': {},\n        'compilerConfig': { 'objectAssign': 'Object.assign' },\n        'editorConfig': {\n            'theme': 'night',\n            'mode': 'jsx',\n            'lineWrapping': true,\n            'smartIndent': false,\n            'matchBrackets': true,\n            'viewportMargin': Infinity,\n            'lineNumbers': false\n        },\n        'ribbon': void 0,\n        'pagePerSection': true,\n        'mountPointId': 'rsg-root'\n    },\n    'welcomeScreen': false,\n    'patterns': void 0,\n    'sections': [{\n            'name': void 0,\n            'exampleMode': 'collapse',\n            'usageMode': 'collapse',\n            'sectionDepth': 0,\n            'description': void 0,\n            'slug': '',\n            'sections': [],\n            'filepath': void 0,\n            'href': void 0,\n            'components': [{\n                    'filepath': 'src/components/AppButton.vue',\n                    'slug': 'appbutton',\n                    'pathLine': 'src/components/AppButton.vue',\n                    'module': __webpack_require__(/*! ./src/components/AppButton.vue */ \"./src/components/AppButton.vue\"),\n                    'props': __webpack_require__(/*! !./node_modules/vue-styleguidist/loaders/vuedoc-loader.js!./src/components/AppButton.vue */ \"./node_modules/vue-styleguidist/loaders/vuedoc-loader.js!./src/components/AppButton.vue\"),\n                    'hasExamples': false,\n                    'metadata': {}\n                }],\n            'content': void 0,\n            'external': void 0\n        }],\n    'renderRootJsx': void 0\n}\n\t\n\n//# sourceURL=webpack:///./node_modules/vue-styleguidist/lib/index.js?./node_modules/vue-styleguidist/loaders/styleguide-loader.js");
+eval("\nif (false) {}\n\nmodule.exports = {\n    'config': {\n        'title': '@system76/design',\n        'version': void 0,\n        'showCode': false,\n        'showUsage': false,\n        'showSidebar': true,\n        'previewDelay': 500,\n        'theme': {\n            'maxWidth': '100%',\n            'sidebarWidth': 250,\n            'fontFamily': {\n                'base': [\n                    '\\'Fira Sans\\'',\n                    'Helvetica',\n                    'Arial',\n                    'sans-serif'\n                ],\n                'monospace': [\n                    'Ubuntu Mono',\n                    '\\'Liberation Mono\\'',\n                    'Menlo',\n                    'monospace'\n                ]\n            }\n        },\n        'styles': {},\n        'compilerConfig': { 'objectAssign': 'Object.assign' },\n        'editorConfig': {\n            'theme': 'night',\n            'mode': 'jsx',\n            'lineWrapping': true,\n            'smartIndent': false,\n            'matchBrackets': true,\n            'viewportMargin': Infinity,\n            'lineNumbers': false\n        },\n        'ribbon': void 0,\n        'pagePerSection': true,\n        'mountPointId': 'rsg-root'\n    },\n    'welcomeScreen': false,\n    'patterns': void 0,\n    'sections': [\n        {\n            'name': 'About',\n            'exampleMode': 'hide',\n            'usageMode': 'hide',\n            'sectionDepth': 1,\n            'description': void 0,\n            'slug': 'about',\n            'sections': [],\n            'filepath': '/home/travis/build/system76/web-design/src/pages/index.md',\n            'href': void 0,\n            'components': [],\n            'content': __webpack_require__(/*! !./node_modules/vue-styleguidist/loaders/examples-loader.js?customLangs=vue|js|jsx!./src/pages/index.md */ \"./node_modules/vue-styleguidist/loaders/examples-loader.js?customLangs=vue|js|jsx!./src/pages/index.md\"),\n            'external': void 0\n        },\n        {\n            'name': 'Tokens',\n            'exampleMode': 'hide',\n            'usageMode': 'hide',\n            'sectionDepth': 1,\n            'description': void 0,\n            'slug': 'tokens',\n            'sections': [],\n            'filepath': '/home/travis/build/system76/web-design/src/pages/tokens.md',\n            'href': void 0,\n            'components': [{\n                    'filepath': 'src/components/Colors.vue',\n                    'slug': 'colors',\n                    'pathLine': 'src/components/Colors.vue',\n                    'module': __webpack_require__(/*! ./src/components/Colors.vue */ \"./src/components/Colors.vue\"),\n                    'props': __webpack_require__(/*! !./node_modules/vue-styleguidist/loaders/vuedoc-loader.js!./src/components/Colors.vue */ \"./node_modules/vue-styleguidist/loaders/vuedoc-loader.js!./src/components/Colors.vue\"),\n                    'hasExamples': false,\n                    'metadata': {}\n                }],\n            'content': __webpack_require__(/*! !./node_modules/vue-styleguidist/loaders/examples-loader.js?customLangs=vue|js|jsx!./src/pages/tokens.md */ \"./node_modules/vue-styleguidist/loaders/examples-loader.js?customLangs=vue|js|jsx!./src/pages/tokens.md\"),\n            'external': void 0\n        }\n    ],\n    'renderRootJsx': void 0\n}\n\t\n\n//# sourceURL=webpack:///./node_modules/vue-styleguidist/lib/index.js?./node_modules/vue-styleguidist/loaders/styleguide-loader.js");
 
 /***/ }),
 
-/***/ "./node_modules/vue-styleguidist/loaders/vuedoc-loader.js!./src/components/AppButton.vue":
-/*!***********************************************************************************************!*\
-  !*** ./node_modules/vue-styleguidist/loaders/vuedoc-loader.js!./src/components/AppButton.vue ***!
-  \***********************************************************************************************/
+/***/ "./node_modules/vue-styleguidist/loaders/vuedoc-loader.js!./src/components/Colors.vue":
+/*!********************************************************************************************!*\
+  !*** ./node_modules/vue-styleguidist/loaders/vuedoc-loader.js!./src/components/Colors.vue ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("\n\t\tif (false) {}\n\n\t\tmodule.exports = {\n    'displayName': 'AppButton',\n    'description': '',\n    'tags': {},\n    'props': [\n        {\n            'description': 'Sets background color of the button',\n            'tags': {\n                'since': [{\n                        'description': '1.2.0',\n                        'title': 'since'\n                    }]\n            },\n            'type': { 'name': 'string' },\n            'required': '',\n            'defaultValue': {\n                'func': false,\n                'value': '\\'white\\''\n            },\n            'name': 'background'\n        },\n        {\n            'description': 'Sets the button font color',\n            'tags': {},\n            'type': { 'name': 'string' },\n            'required': '',\n            'defaultValue': {\n                'func': false,\n                'value': '\\'black\\''\n            },\n            'name': 'color'\n        },\n        {\n            'description': '',\n            'tags': {\n                'deprecated': [{\n                        'description': 'Use color instead',\n                        'title': 'deprecated'\n                    }]\n            },\n            'type': { 'name': 'string' },\n            'required': '',\n            'defaultValue': {\n                'func': false,\n                'value': '\\'\\''\n            },\n            'name': 'oldColor'\n        },\n        {\n            'description': 'Set size of the element',\n            'tags': {},\n            'type': { 'name': 'string' },\n            'required': '',\n            'defaultValue': {\n                'func': false,\n                'value': '\\'14px\\''\n            },\n            'name': 'size'\n        }\n    ],\n    'events': {\n        'click': {\n            'properties': void 0,\n            'description': '',\n            'type': { 'names': ['undefined'] }\n        },\n        'gator': {\n            'properties': void 0,\n            'description': '',\n            'type': { 'names': ['undefined'] }\n        }\n    },\n    'methods': [],\n    'slots': {\n        'default': {\n            'description': 'Use this slot to place the button content',\n            'bindings': {}\n        }\n    },\n    'example': __webpack_require__(/*! !./node_modules/vue-styleguidist/loaders/examples-loader.js?customLangs=vue|js|jsx!./src/components/AppButton.vue */ \"./node_modules/vue-styleguidist/loaders/examples-loader.js?customLangs=vue|js|jsx!./src/components/AppButton.vue\"),\n    'examples': __webpack_require__(/*! !./node_modules/vue-styleguidist/loaders/examples-loader.js?componentName=AppButton&customLangs=vue|js|jsx!./node_modules/vue-styleguidist/scripts/templates/DefaultExample.md */ \"./node_modules/vue-styleguidist/loaders/examples-loader.js?componentName=AppButton&customLangs=vue|js|jsx!./node_modules/vue-styleguidist/scripts/templates/DefaultExample.md\")\n}\n\t\n\n//# sourceURL=webpack:///./src/components/AppButton.vue?./node_modules/vue-styleguidist/loaders/vuedoc-loader.js");
+eval("\n\t\tif (false) {}\n\n\t\tmodule.exports = {\n    'displayName': 'Colors',\n    'description': '',\n    'tags': {},\n    'props': void 0,\n    'events': {},\n    'methods': [],\n    'slots': {},\n    'examples': __webpack_require__(/*! !./node_modules/vue-styleguidist/loaders/examples-loader.js?componentName=Colors&customLangs=vue|js|jsx!./node_modules/vue-styleguidist/scripts/templates/DefaultExample.md */ \"./node_modules/vue-styleguidist/loaders/examples-loader.js?componentName=Colors&customLangs=vue|js|jsx!./node_modules/vue-styleguidist/scripts/templates/DefaultExample.md\")\n}\n\t\n\n//# sourceURL=webpack:///./src/components/Colors.vue?./node_modules/vue-styleguidist/loaders/vuedoc-loader.js");
 
 /***/ }),
 
@@ -10531,73 +11921,121 @@ eval("module.exports = function(module) {\n\tif (!module.webpackPolyfill) {\n\t\
 
 /***/ }),
 
-/***/ "./src/components/AppButton.vue":
-/*!**************************************!*\
-  !*** ./src/components/AppButton.vue ***!
-  \**************************************/
+/***/ "./src/assets/index.css":
+/*!******************************!*\
+  !*** ./src/assets/index.css ***!
+  \******************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+eval("// style-loader: Adds some css to the DOM by adding a <style> tag\n\n// load the styles\nvar content = __webpack_require__(/*! !../../node_modules/css-loader??ref--7-oneOf-3-1!../../node_modules/postcss-loader/src??ref--7-oneOf-3-2!./index.css */ \"./node_modules/css-loader/index.js?!./node_modules/postcss-loader/src/index.js?!./src/assets/index.css\");\nif(typeof content === 'string') content = [[module.i, content, '']];\nif(content.locals) module.exports = content.locals;\n// add the styles to the DOM\nvar add = __webpack_require__(/*! ../../node_modules/vue-style-loader/lib/addStylesClient.js */ \"./node_modules/vue-style-loader/lib/addStylesClient.js\").default\nvar update = add(\"63df77a2\", content, true, {\"sourceMap\":false,\"shadowMode\":false});\n\n//# sourceURL=webpack:///./src/assets/index.css?");
+
+/***/ }),
+
+/***/ "./src/components/Color.vue":
+/*!**********************************!*\
+  !*** ./src/components/Color.vue ***!
+  \**********************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _AppButton_vue_vue_type_template_id_4b9a755f___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./AppButton.vue?vue&type=template&id=4b9a755f& */ \"./src/components/AppButton.vue?vue&type=template&id=4b9a755f&\");\n/* harmony import */ var _AppButton_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./AppButton.vue?vue&type=script&lang=js& */ \"./src/components/AppButton.vue?vue&type=script&lang=js&\");\n/* empty/unused harmony star reexport *//* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ \"./node_modules/vue-loader/lib/runtime/componentNormalizer.js\");\n/* harmony import */ var _AppButton_vue_vue_type_custom_index_0_blockType_docs__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./AppButton.vue?vue&type=custom&index=0&blockType=docs */ \"./src/components/AppButton.vue?vue&type=custom&index=0&blockType=docs\");\n\n\n\n\n\n/* normalize component */\n\nvar component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_2__[\"default\"])(\n  _AppButton_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__[\"default\"],\n  _AppButton_vue_vue_type_template_id_4b9a755f___WEBPACK_IMPORTED_MODULE_0__[\"render\"],\n  _AppButton_vue_vue_type_template_id_4b9a755f___WEBPACK_IMPORTED_MODULE_0__[\"staticRenderFns\"],\n  false,\n  null,\n  null,\n  null\n  \n)\n\n/* custom blocks */\n\nif (typeof _AppButton_vue_vue_type_custom_index_0_blockType_docs__WEBPACK_IMPORTED_MODULE_3__[\"default\"] === 'function') Object(_AppButton_vue_vue_type_custom_index_0_blockType_docs__WEBPACK_IMPORTED_MODULE_3__[\"default\"])(component)\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (component.exports);\n\n//# sourceURL=webpack:///./src/components/AppButton.vue?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _Color_vue_vue_type_template_id_6dd55b60_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Color.vue?vue&type=template&id=6dd55b60&scoped=true& */ \"./src/components/Color.vue?vue&type=template&id=6dd55b60&scoped=true&\");\n/* harmony import */ var _Color_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Color.vue?vue&type=script&lang=js& */ \"./src/components/Color.vue?vue&type=script&lang=js&\");\n/* empty/unused harmony star reexport *//* harmony import */ var _Color_vue_vue_type_style_index_0_id_6dd55b60_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Color.vue?vue&type=style&index=0&id=6dd55b60&scoped=true&lang=css& */ \"./src/components/Color.vue?vue&type=style&index=0&id=6dd55b60&scoped=true&lang=css&\");\n/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ \"./node_modules/vue-loader/lib/runtime/componentNormalizer.js\");\n\n\n\n\n\n\n/* normalize component */\n\nvar component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__[\"default\"])(\n  _Color_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__[\"default\"],\n  _Color_vue_vue_type_template_id_6dd55b60_scoped_true___WEBPACK_IMPORTED_MODULE_0__[\"render\"],\n  _Color_vue_vue_type_template_id_6dd55b60_scoped_true___WEBPACK_IMPORTED_MODULE_0__[\"staticRenderFns\"],\n  false,\n  null,\n  \"6dd55b60\",\n  null\n  \n)\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (component.exports);\n\n//# sourceURL=webpack:///./src/components/Color.vue?");
 
 /***/ }),
 
-/***/ "./src/components/AppButton.vue?vue&type=custom&index=0&blockType=docs":
+/***/ "./src/components/Color.vue?vue&type=script&lang=js&":
+/*!***********************************************************!*\
+  !*** ./src/components/Color.vue?vue&type=script&lang=js& ***!
+  \***********************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _node_modules_cache_loader_dist_cjs_js_ref_13_0_node_modules_babel_loader_lib_index_js_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Color_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../node_modules/cache-loader/dist/cjs.js??ref--13-0!../../node_modules/babel-loader/lib!../../node_modules/cache-loader/dist/cjs.js??ref--1-0!../../node_modules/vue-loader/lib??vue-loader-options!./Color.vue?vue&type=script&lang=js& */ \"./node_modules/cache-loader/dist/cjs.js?!./node_modules/babel-loader/lib/index.js!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/components/Color.vue?vue&type=script&lang=js&\");\n/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__[\"default\"] = (_node_modules_cache_loader_dist_cjs_js_ref_13_0_node_modules_babel_loader_lib_index_js_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Color_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__[\"default\"]); \n\n//# sourceURL=webpack:///./src/components/Color.vue?");
+
+/***/ }),
+
+/***/ "./src/components/Color.vue?vue&type=style&index=0&id=6dd55b60&scoped=true&lang=css&":
+/*!*******************************************************************************************!*\
+  !*** ./src/components/Color.vue?vue&type=style&index=0&id=6dd55b60&scoped=true&lang=css& ***!
+  \*******************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_index_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Color_vue_vue_type_style_index_0_id_6dd55b60_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../node_modules/vue-style-loader??ref--7-oneOf-1-0!../../node_modules/css-loader??ref--7-oneOf-1-1!../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../node_modules/postcss-loader/src??ref--7-oneOf-1-2!../../node_modules/cache-loader/dist/cjs.js??ref--1-0!../../node_modules/vue-loader/lib??vue-loader-options!./Color.vue?vue&type=style&index=0&id=6dd55b60&scoped=true&lang=css& */ \"./node_modules/vue-style-loader/index.js?!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/components/Color.vue?vue&type=style&index=0&id=6dd55b60&scoped=true&lang=css&\");\n/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_index_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Color_vue_vue_type_style_index_0_id_6dd55b60_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_index_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Color_vue_vue_type_style_index_0_id_6dd55b60_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__);\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_index_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Color_vue_vue_type_style_index_0_id_6dd55b60_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_index_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Color_vue_vue_type_style_index_0_id_6dd55b60_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n /* harmony default export */ __webpack_exports__[\"default\"] = (_node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_index_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Color_vue_vue_type_style_index_0_id_6dd55b60_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0___default.a); \n\n//# sourceURL=webpack:///./src/components/Color.vue?");
+
+/***/ }),
+
+/***/ "./src/components/Color.vue?vue&type=template&id=6dd55b60&scoped=true&":
 /*!*****************************************************************************!*\
-  !*** ./src/components/AppButton.vue?vue&type=custom&index=0&blockType=docs ***!
+  !*** ./src/components/Color.vue?vue&type=template&id=6dd55b60&scoped=true& ***!
   \*****************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (function (Component) {\n\t\tComponent.options.__docs = \"// empty (null-loader)\"\n\t  });\n\n//# sourceURL=webpack:///./src/components/AppButton.vue?");
-
-/***/ }),
-
-/***/ "./src/components/AppButton.vue?vue&type=script&lang=js&":
-/*!***************************************************************!*\
-  !*** ./src/components/AppButton.vue?vue&type=script&lang=js& ***!
-  \***************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _node_modules_cache_loader_dist_cjs_js_ref_13_0_node_modules_babel_loader_lib_index_js_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_AppButton_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../node_modules/cache-loader/dist/cjs.js??ref--13-0!../../node_modules/babel-loader/lib!../../node_modules/cache-loader/dist/cjs.js??ref--1-0!../../node_modules/vue-loader/lib??vue-loader-options!./AppButton.vue?vue&type=script&lang=js& */ \"./node_modules/cache-loader/dist/cjs.js?!./node_modules/babel-loader/lib/index.js!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/components/AppButton.vue?vue&type=script&lang=js&\");\n/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__[\"default\"] = (_node_modules_cache_loader_dist_cjs_js_ref_13_0_node_modules_babel_loader_lib_index_js_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_AppButton_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__[\"default\"]); \n\n//# sourceURL=webpack:///./src/components/AppButton.vue?");
-
-/***/ }),
-
-/***/ "./src/components/AppButton.vue?vue&type=template&id=4b9a755f&":
-/*!*********************************************************************!*\
-  !*** ./src/components/AppButton.vue?vue&type=template&id=4b9a755f& ***!
-  \*********************************************************************/
 /*! exports provided: render, staticRenderFns */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _cache_loader_cacheDirectory_node_modules_cache_vue_loader_cacheIdentifier_3204f5c4_vue_loader_template_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_AppButton_vue_vue_type_template_id_4b9a755f___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!cache-loader?{\"cacheDirectory\":\"node_modules/.cache/vue-loader\",\"cacheIdentifier\":\"3204f5c4-vue-loader-template\"}!../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../node_modules/cache-loader/dist/cjs.js??ref--1-0!../../node_modules/vue-loader/lib??vue-loader-options!./AppButton.vue?vue&type=template&id=4b9a755f& */ \"./node_modules/cache-loader/dist/cjs.js?{\\\"cacheDirectory\\\":\\\"node_modules/.cache/vue-loader\\\",\\\"cacheIdentifier\\\":\\\"3204f5c4-vue-loader-template\\\"}!./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/components/AppButton.vue?vue&type=template&id=4b9a755f&\");\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return _cache_loader_cacheDirectory_node_modules_cache_vue_loader_cacheIdentifier_3204f5c4_vue_loader_template_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_AppButton_vue_vue_type_template_id_4b9a755f___WEBPACK_IMPORTED_MODULE_0__[\"render\"]; });\n\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return _cache_loader_cacheDirectory_node_modules_cache_vue_loader_cacheIdentifier_3204f5c4_vue_loader_template_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_AppButton_vue_vue_type_template_id_4b9a755f___WEBPACK_IMPORTED_MODULE_0__[\"staticRenderFns\"]; });\n\n\n\n//# sourceURL=webpack:///./src/components/AppButton.vue?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _cache_loader_cacheDirectory_node_modules_cache_vue_loader_cacheIdentifier_3204f5c4_vue_loader_template_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Color_vue_vue_type_template_id_6dd55b60_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!cache-loader?{\"cacheDirectory\":\"node_modules/.cache/vue-loader\",\"cacheIdentifier\":\"3204f5c4-vue-loader-template\"}!../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../node_modules/cache-loader/dist/cjs.js??ref--1-0!../../node_modules/vue-loader/lib??vue-loader-options!./Color.vue?vue&type=template&id=6dd55b60&scoped=true& */ \"./node_modules/cache-loader/dist/cjs.js?{\\\"cacheDirectory\\\":\\\"node_modules/.cache/vue-loader\\\",\\\"cacheIdentifier\\\":\\\"3204f5c4-vue-loader-template\\\"}!./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/components/Color.vue?vue&type=template&id=6dd55b60&scoped=true&\");\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return _cache_loader_cacheDirectory_node_modules_cache_vue_loader_cacheIdentifier_3204f5c4_vue_loader_template_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Color_vue_vue_type_template_id_6dd55b60_scoped_true___WEBPACK_IMPORTED_MODULE_0__[\"render\"]; });\n\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return _cache_loader_cacheDirectory_node_modules_cache_vue_loader_cacheIdentifier_3204f5c4_vue_loader_template_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Color_vue_vue_type_template_id_6dd55b60_scoped_true___WEBPACK_IMPORTED_MODULE_0__[\"staticRenderFns\"]; });\n\n\n\n//# sourceURL=webpack:///./src/components/Color.vue?");
 
 /***/ }),
 
-/***/ "./src/components/sizeMixin.js":
-/*!*************************************!*\
-  !*** ./src/components/sizeMixin.js ***!
-  \*************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/***/ "./src/components/Colors.vue":
+/*!***********************************!*\
+  !*** ./src/components/Colors.vue ***!
+  \***********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("/**\n * @mixin\n */\nmodule.exports = {\n  props: {\n    /**\n     * Set size of the element\n     */\n    size: {\n      type: String,\n      default: '14px'\n    }\n  }\n};\n\n//# sourceURL=webpack:///./src/components/sizeMixin.js?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _Colors_vue_vue_type_template_id_4bde07ba_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Colors.vue?vue&type=template&id=4bde07ba&scoped=true& */ \"./src/components/Colors.vue?vue&type=template&id=4bde07ba&scoped=true&\");\n/* harmony import */ var _Colors_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Colors.vue?vue&type=script&lang=js& */ \"./src/components/Colors.vue?vue&type=script&lang=js&\");\n/* empty/unused harmony star reexport *//* harmony import */ var _Colors_vue_vue_type_style_index_0_id_4bde07ba_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Colors.vue?vue&type=style&index=0&id=4bde07ba&scoped=true&lang=css& */ \"./src/components/Colors.vue?vue&type=style&index=0&id=4bde07ba&scoped=true&lang=css&\");\n/* harmony import */ var _node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../node_modules/vue-loader/lib/runtime/componentNormalizer.js */ \"./node_modules/vue-loader/lib/runtime/componentNormalizer.js\");\n\n\n\n\n\n\n/* normalize component */\n\nvar component = Object(_node_modules_vue_loader_lib_runtime_componentNormalizer_js__WEBPACK_IMPORTED_MODULE_3__[\"default\"])(\n  _Colors_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_1__[\"default\"],\n  _Colors_vue_vue_type_template_id_4bde07ba_scoped_true___WEBPACK_IMPORTED_MODULE_0__[\"render\"],\n  _Colors_vue_vue_type_template_id_4bde07ba_scoped_true___WEBPACK_IMPORTED_MODULE_0__[\"staticRenderFns\"],\n  false,\n  null,\n  \"4bde07ba\",\n  null\n  \n)\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (component.exports);\n\n//# sourceURL=webpack:///./src/components/Colors.vue?");
+
+/***/ }),
+
+/***/ "./src/components/Colors.vue?vue&type=script&lang=js&":
+/*!************************************************************!*\
+  !*** ./src/components/Colors.vue?vue&type=script&lang=js& ***!
+  \************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _node_modules_cache_loader_dist_cjs_js_ref_13_0_node_modules_babel_loader_lib_index_js_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Colors_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../node_modules/cache-loader/dist/cjs.js??ref--13-0!../../node_modules/babel-loader/lib!../../node_modules/cache-loader/dist/cjs.js??ref--1-0!../../node_modules/vue-loader/lib??vue-loader-options!./Colors.vue?vue&type=script&lang=js& */ \"./node_modules/cache-loader/dist/cjs.js?!./node_modules/babel-loader/lib/index.js!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/components/Colors.vue?vue&type=script&lang=js&\");\n/* empty/unused harmony star reexport */ /* harmony default export */ __webpack_exports__[\"default\"] = (_node_modules_cache_loader_dist_cjs_js_ref_13_0_node_modules_babel_loader_lib_index_js_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Colors_vue_vue_type_script_lang_js___WEBPACK_IMPORTED_MODULE_0__[\"default\"]); \n\n//# sourceURL=webpack:///./src/components/Colors.vue?");
+
+/***/ }),
+
+/***/ "./src/components/Colors.vue?vue&type=style&index=0&id=4bde07ba&scoped=true&lang=css&":
+/*!********************************************************************************************!*\
+  !*** ./src/components/Colors.vue?vue&type=style&index=0&id=4bde07ba&scoped=true&lang=css& ***!
+  \********************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_index_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Colors_vue_vue_type_style_index_0_id_4bde07ba_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../node_modules/vue-style-loader??ref--7-oneOf-1-0!../../node_modules/css-loader??ref--7-oneOf-1-1!../../node_modules/vue-loader/lib/loaders/stylePostLoader.js!../../node_modules/postcss-loader/src??ref--7-oneOf-1-2!../../node_modules/cache-loader/dist/cjs.js??ref--1-0!../../node_modules/vue-loader/lib??vue-loader-options!./Colors.vue?vue&type=style&index=0&id=4bde07ba&scoped=true&lang=css& */ \"./node_modules/vue-style-loader/index.js?!./node_modules/css-loader/index.js?!./node_modules/vue-loader/lib/loaders/stylePostLoader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/components/Colors.vue?vue&type=style&index=0&id=4bde07ba&scoped=true&lang=css&\");\n/* harmony import */ var _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_index_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Colors_vue_vue_type_style_index_0_id_4bde07ba_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_index_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Colors_vue_vue_type_style_index_0_id_4bde07ba_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__);\n/* harmony reexport (unknown) */ for(var __WEBPACK_IMPORT_KEY__ in _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_index_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Colors_vue_vue_type_style_index_0_id_4bde07ba_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__) if(__WEBPACK_IMPORT_KEY__ !== 'default') (function(key) { __webpack_require__.d(__webpack_exports__, key, function() { return _node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_index_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Colors_vue_vue_type_style_index_0_id_4bde07ba_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0__[key]; }) }(__WEBPACK_IMPORT_KEY__));\n /* harmony default export */ __webpack_exports__[\"default\"] = (_node_modules_vue_style_loader_index_js_ref_7_oneOf_1_0_node_modules_css_loader_index_js_ref_7_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_7_oneOf_1_2_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Colors_vue_vue_type_style_index_0_id_4bde07ba_scoped_true_lang_css___WEBPACK_IMPORTED_MODULE_0___default.a); \n\n//# sourceURL=webpack:///./src/components/Colors.vue?");
+
+/***/ }),
+
+/***/ "./src/components/Colors.vue?vue&type=template&id=4bde07ba&scoped=true&":
+/*!******************************************************************************!*\
+  !*** ./src/components/Colors.vue?vue&type=template&id=4bde07ba&scoped=true& ***!
+  \******************************************************************************/
+/*! exports provided: render, staticRenderFns */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _cache_loader_cacheDirectory_node_modules_cache_vue_loader_cacheIdentifier_3204f5c4_vue_loader_template_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Colors_vue_vue_type_template_id_4bde07ba_scoped_true___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!cache-loader?{\"cacheDirectory\":\"node_modules/.cache/vue-loader\",\"cacheIdentifier\":\"3204f5c4-vue-loader-template\"}!../../node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!../../node_modules/cache-loader/dist/cjs.js??ref--1-0!../../node_modules/vue-loader/lib??vue-loader-options!./Colors.vue?vue&type=template&id=4bde07ba&scoped=true& */ \"./node_modules/cache-loader/dist/cjs.js?{\\\"cacheDirectory\\\":\\\"node_modules/.cache/vue-loader\\\",\\\"cacheIdentifier\\\":\\\"3204f5c4-vue-loader-template\\\"}!./node_modules/vue-loader/lib/loaders/templateLoader.js?!./node_modules/cache-loader/dist/cjs.js?!./node_modules/vue-loader/lib/index.js?!./src/components/Colors.vue?vue&type=template&id=4bde07ba&scoped=true&\");\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"render\", function() { return _cache_loader_cacheDirectory_node_modules_cache_vue_loader_cacheIdentifier_3204f5c4_vue_loader_template_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Colors_vue_vue_type_template_id_4bde07ba_scoped_true___WEBPACK_IMPORTED_MODULE_0__[\"render\"]; });\n\n/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, \"staticRenderFns\", function() { return _cache_loader_cacheDirectory_node_modules_cache_vue_loader_cacheIdentifier_3204f5c4_vue_loader_template_node_modules_vue_loader_lib_loaders_templateLoader_js_vue_loader_options_node_modules_cache_loader_dist_cjs_js_ref_1_0_node_modules_vue_loader_lib_index_js_vue_loader_options_Colors_vue_vue_type_template_id_4bde07ba_scoped_true___WEBPACK_IMPORTED_MODULE_0__[\"staticRenderFns\"]; });\n\n\n\n//# sourceURL=webpack:///./src/components/Colors.vue?");
 
 /***/ }),
 
 /***/ 0:
-/*!*******************************************************!*\
-  !*** multi ./node_modules/vue-styleguidist/lib/index ***!
-  \*******************************************************/
+/*!******************************************************************************!*\
+  !*** multi ./src/assets/index.css ./node_modules/vue-styleguidist/lib/index ***!
+  \******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("module.exports = __webpack_require__(/*! /home/travis/build/system76/web-design/node_modules/vue-styleguidist/lib/index */\"./node_modules/vue-styleguidist/lib/index.js\");\n\n\n//# sourceURL=webpack:///multi_./node_modules/vue-styleguidist/lib/index?");
+eval("__webpack_require__(/*! /home/travis/build/system76/web-design/src/assets/index.css */\"./src/assets/index.css\");\nmodule.exports = __webpack_require__(/*! /home/travis/build/system76/web-design/node_modules/vue-styleguidist/lib/index */\"./node_modules/vue-styleguidist/lib/index.js\");\n\n\n//# sourceURL=webpack:///multi_./src/assets/index.css_./node_modules/vue-styleguidist/lib/index?");
 
 /***/ })
 
